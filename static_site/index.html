@@ -21,12 +21,14 @@
         header h1 { margin: 0; font-size: 24px; text-transform: uppercase; }
         nav { background: #333; padding: 10px; text-align: center; }
         nav a { color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; font-size: 14px; }
+        nav a:hover { color: #ffcc00; }
         .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
         .card { background: #fff; color: #333; border-radius: 5px; overflow: hidden; margin-bottom: 20px; }
         .card-header { background: #333; color: #ffcc00; padding: 10px; font-weight: bold; text-align: center; }
         .event-row { display: flex; align-items: center; padding: 12px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: background 0.2s; }
         .event-row:hover { background: #f9f9f9; }
         .event-time { font-weight: bold; background: #eee; padding: 2px 8px; border-radius: 3px; margin-right: 15px; min-width: 50px; text-align: center; }
+        .event-sport-icon { margin-right: 10px; color: var(--red); font-size: 18px; }
         .event-title { flex-grow: 1; font-weight: bold; }
         .player-container { position: relative; padding-top: 56.25%; background: #000; }
         .player-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
@@ -43,50 +45,59 @@
         <h1>Tarjeta Roja En Vivo</h1>
     </header>
     <nav>
-        <a href="/">INICIO</a>
+        <a href="/">PROGRAMACIÓN</a>
         <a href="/categoria/futbol-en-vivo">FÚTBOL</a>
         <a href="/categoria/nba-en-vivo">NBA</a>
-        <a href="/categoria/tarjeta-roja-tv">TARJETA ROJA TV</a>
+        <a href="/aviso-legal">AVISO LEGAL</a>
+        <a href="/contacto">CONTACTO</a>
     </nav>
     <div class="container">
         <div class="card"><div class="card-header">PROGRAMACIÓN DE HOY</div>
         <a href="/partido/nba-brooklyn-nets-vs-miami-heat-en-vivo" class="event-row">
             <div class="event-time">19:30</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: Brooklyn Nets vs Miami Heat</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-new-orleans-pelicans-vs-houston-rockets-en-vivo" class="event-row">
             <div class="event-time">20:00</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: New Orleans Pelicans vs Houston Rockets</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-oklahoma-city-thunder-vs-los-angeles-clippers-en-vivo" class="event-row">
             <div class="event-time">20:00</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: Oklahoma City Thunder vs Los Angeles Clippers</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-san-antonio-spurs-vs-washington-wizards-en-vivo" class="event-row">
             <div class="event-time">20:00</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: San Antonio Spurs vs Washington Wizards</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-dallas-mavericks-vs-detroit-pistons-en-vivo" class="event-row">
             <div class="event-time">20:30</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: Dallas Mavericks vs Detroit Pistons</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-denver-nuggets-vs-orlando-magic-en-vivo" class="event-row">
             <div class="event-time">21:00</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: Denver Nuggets vs Orlando Magic</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-phoenix-suns-vs-golden-state-warriors-en-vivo" class="event-row">
             <div class="event-time">21:00</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: Phoenix Suns vs Golden State Warriors</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>
         <a href="/partido/nba-utah-jazz-vs-los-angeles-lakers-en-vivo" class="event-row">
             <div class="event-time">21:00</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">NBA: Utah Jazz vs Los Angeles Lakers</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a></div>

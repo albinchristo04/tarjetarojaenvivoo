@@ -5,9 +5,9 @@ const Header = () => {
         <header className="site-header">
             <div className="site-title">TARJETA ROJA EN VIVO</div>
             <nav className="site-nav">
-                <a href="#">PROGRAMACIÓN</a>
-                <a href="#">AVISO LEGAL</a>
-                <a href="#">CONTACTO</a>
+                <a href="/">PROGRAMACIÓN</a>
+                <a href="/aviso-legal">AVISO LEGAL</a>
+                <a href="/contacto">CONTACTO</a>
             </nav>
         </header>
     );

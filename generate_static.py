@@ -43,12 +43,14 @@ def get_template(title, description, canonical, content, schema=""):
         header h1 {{ margin: 0; font-size: 24px; text-transform: uppercase; }}
         nav {{ background: #333; padding: 10px; text-align: center; }}
         nav a {{ color: #fff; margin: 0 15px; text-decoration: none; font-weight: bold; font-size: 14px; }}
+        nav a:hover {{ color: #ffcc00; }}
         .container {{ max-width: 1000px; margin: 20px auto; padding: 0 15px; }}
         .card {{ background: #fff; color: #333; border-radius: 5px; overflow: hidden; margin-bottom: 20px; }}
         .card-header {{ background: #333; color: #ffcc00; padding: 10px; font-weight: bold; text-align: center; }}
         .event-row {{ display: flex; align-items: center; padding: 12px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: background 0.2s; }}
         .event-row:hover {{ background: #f9f9f9; }}
         .event-time {{ font-weight: bold; background: #eee; padding: 2px 8px; border-radius: 3px; margin-right: 15px; min-width: 50px; text-align: center; }}
+        .event-sport-icon {{ margin-right: 10px; color: var(--red); font-size: 18px; }}
         .event-title {{ flex-grow: 1; font-weight: bold; }}
         .player-container {{ position: relative; padding-top: 56.25%; background: #000; }}
         .player-container iframe {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }}
@@ -65,10 +67,11 @@ def get_template(title, description, canonical, content, schema=""):
         <h1>Tarjeta Roja En Vivo</h1>
     </header>
     <nav>
-        <a href="/">INICIO</a>
+        <a href="/">PROGRAMACIÓN</a>
         <a href="/categoria/futbol-en-vivo">FÚTBOL</a>
         <a href="/categoria/nba-en-vivo">NBA</a>
-        <a href="/categoria/tarjeta-roja-tv">TARJETA ROJA TV</a>
+        <a href="/aviso-legal">AVISO LEGAL</a>
+        <a href="/contacto">CONTACTO</a>
     </nav>
     <div class="container">
         {content}
@@ -82,7 +85,12 @@ def get_template(title, description, canonical, content, schema=""):
 
 def generate_site():
     print("Fetching JSON data...")
-    data = requests.get(JSON_URL).json()
+    try:
+        data = requests.get(JSON_URL).json()
+    except Exception as e:
+        print(f"Error fetching JSON: {e}")
+        return
+
     events = data['events']
     
     # Group events by title and time
@@ -107,6 +115,7 @@ def generate_site():
         hp_content += f"""
         <a href="/partido/{e['slug']}-en-vivo" class="event-row">
             <div class="event-time">{e['time']}</div>
+            <div class="event-sport-icon">📺</div>
             <div class="event-title">{e['title']}</div>
             <div style="color: var(--red); font-weight: bold;">VER AHORA &raquo;</div>
         </a>"""
@@ -209,6 +218,7 @@ def generate_site():
             cat_content += f"""
             <a href="/partido/{e['slug']}-en-vivo" class="event-row">
                 <div class="event-time">{e['time']}</div>
+                <div class="event-sport-icon">📺</div>
                 <div class="event-title">{e['title']}</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </a>"""
@@ -217,6 +227,28 @@ def generate_site():
         cat_html = get_template(cat_title, cat_desc, cat_url, cat_content)
         with open(os.path.join(OUTPUT_DIR, "categoria", f"{slug}.html"), "w", encoding="utf-8") as f:
             f.write(cat_html)
+
+    # 4. Generate Legal & Contact Pages
+    print("Generating Legal & Contact Pages...")
+    legal_content = """
+    <div class="seo-section">
+        <h2>Aviso Legal</h2>
+        <p>Tarjeta Roja En Vivo es un sitio web que recopila enlaces de transmisiones deportivas disponibles libremente en internet. No alojamos ningún contenido audiovisual en nuestros servidores.</p>
+        <p>Todo el contenido mostrado es responsabilidad de sus respectivos autores y plataformas de origen. Si usted es titular de algún derecho y desea solicitar la retirada de un enlace, por favor contacte con la plataforma de origen.</p>
+    </div>"""
+    legal_html = get_template("Aviso Legal | Tarjeta Roja En Vivo", "Aviso legal y términos de uso de Tarjeta Roja En Vivo.", DOMAIN + "/aviso-legal", legal_content)
+    with open(os.path.join(OUTPUT_DIR, "aviso-legal.html"), "w", encoding="utf-8") as f:
+        f.write(legal_html)
+
+    contact_content = """
+    <div class="seo-section">
+        <h2>Contacto</h2>
+        <p>Para cualquier consulta, sugerencia o reporte, puede ponerse en contacto con nosotros a través del siguiente correo electrónico:</p>
+        <p><strong>contacto@tarjetarojaenvivo.live</strong></p>
+    </div>"""
+    contact_html = get_template("Contacto | Tarjeta Roja En Vivo", "Contacta con el equipo de Tarjeta Roja En Vivo.", DOMAIN + "/contacto", contact_content)
+    with open(os.path.join(OUTPUT_DIR, "contacto.html"), "w", encoding="utf-8") as f:
+        f.write(contact_html)
 
     print(f"Success! Site generated in '{OUTPUT_DIR}' directory.")
 

@@ -79,7 +79,7 @@ const Schedule = () => {
                         >
                             <div className="event-time">{event.time}</div>
                             <div className="event-sport">
-                                <img src="https://www.tarjetarojaenvivo.club/img/tv.png" alt="TV" style={{ width: '16px', verticalAlign: 'middle' }} />
+                                <span style={{ fontSize: '18px', marginRight: '10px' }}>📺</span>
                             </div>
                             <div className="event-title">
                                 {event.title}
