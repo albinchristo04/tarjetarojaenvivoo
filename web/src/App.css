@@ -1,0 +1,159 @@
+/* Header */
+.site-header {
+  background-color: var(--header-bg);
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #fff;
+}
+
+.site-title {
+  font-size: 24px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.site-nav a {
+  color: white;
+  margin-left: 15px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/* Footer */
+.site-footer {
+  background-color: var(--header-bg);
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 12px;
+  margin-top: 20px;
+  border-top: 2px solid #fff;
+}
+
+/* Schedule */
+.schedule-container {
+  max-width: 1000px;
+  margin: 20px auto;
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+}
+
+.schedule-header {
+  background-color: #333;
+  /* Or dark red */
+  color: #ffcc00;
+  /* Yellowish text often used in these sites */
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.event-group {
+  border-bottom: 1px solid #ccc;
+}
+
+.event-row {
+  display: flex;
+  padding: 8px 10px;
+  align-items: center;
+  cursor: pointer;
+  background-color: var(--event-bg-1);
+}
+
+.event-row:hover {
+  background-color: #f0f0f0;
+}
+
+.event-row.alt {
+  background-color: var(--event-bg-2);
+}
+
+.event-time {
+  font-weight: bold;
+  margin-right: 10px;
+  min-width: 50px;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 2px 5px;
+  background: #fff;
+  text-align: center;
+}
+
+.event-sport {
+  margin-right: 10px;
+  font-weight: bold;
+  color: #d32f2f;
+}
+
+.event-title {
+  flex-grow: 1;
+  font-weight: bold;
+}
+
+.channel-list {
+  background-color: #fff;
+  padding: 5px 10px 5px 70px;
+  /* Indent */
+  border-top: 1px dashed #ccc;
+}
+
+.channel-item {
+  margin: 3px 0;
+  display: flex;
+  align-items: center;
+}
+
+.channel-link {
+  color: #0000EE;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.channel-link:hover {
+  text-decoration: underline;
+}
+
+.channel-icon {
+  margin-right: 5px;
+  color: #666;
+  font-size: 12px;
+}
+
+@media (max-width: 768px) {
+  .site-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .site-nav {
+    margin-top: 10px;
+  }
+
+  .site-nav a {
+    display: inline-block;
+    margin: 5px 10px;
+  }
+
+  .schedule-container {
+    margin: 10px;
+    width: auto;
+  }
+
+  .event-row {
+    flex-wrap: wrap;
+  }
+
+  .event-title {
+    width: 100%;
+    margin-top: 5px;
+  }
+
+  .channel-list {
+    padding-left: 20px;
+  }
+}
