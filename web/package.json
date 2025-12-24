@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:seo": "vite build && pip install requests && python ../generate_static.py",
+    "build:seo": "pip install requests && vite build && python ../generate_static.py",
     "lint": "eslint .",
     "preview": "vite preview"
   },
