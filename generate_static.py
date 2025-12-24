@@ -279,7 +279,7 @@ def generate_site():
                 <div class="event-list">
         """
         # Add some events to hub
-        for i, key in enumerate(sorted(grouped.keys())[:10]):
+        for i, key in enumerate(sorted(grouped.keys())[:20]):
             e = grouped[key]
             accordion_id = f"hub-accordion-{i}"
             hub_content += f"""
