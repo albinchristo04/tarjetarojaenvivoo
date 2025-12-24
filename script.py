@@ -125,6 +125,8 @@ class IframeChainExtractor:
             # Extract time from span with class 't'
             time_span = main_link.find('span', class_='t')
             event_time = time_span.get_text(strip=True) if time_span else None
+            if event_time:
+                event_time = re.sub(r'[^0-9:]', '', event_time)
             
             # Remove time from title if present
             if event_time and event_time in event_title:

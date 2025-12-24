@@ -110,13 +110,43 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         @media (max-width: 600px) {{ .event-row {{ flex-wrap: wrap; }} .event-title {{ width: 100%; margin-top: 10px; }} header h1 {{ font-size: 20px; }} }}
     </style>
     <script>
-        // Popup Blocker Override
+        // Advanced Popup & Ad Defense
         (function() {{
-            var oldOpen = window.open;
+            const noop = () => {{}};
+            const blockedLog = (type) => console.log(`[AdBlock] Blocked ${{type}}`);
+
+            // 1. Robust window.open Override
+            const originalOpen = window.open;
             window.open = function() {{
-                console.log("Popup blocked!");
-                return {{ focus: function() {{}}, close: function() {{}} }};
+                blockedLog("window.open");
+                return {{ focus: noop, close: noop, closed: true }};
             }};
+
+            // 2. Block other common popup methods
+            window.alert = noop;
+            window.confirm = noop;
+            window.prompt = noop;
+
+            // 3. Prevent "Are you sure you want to leave?" popups
+            window.onbeforeunload = null;
+
+            // 4. Intercept suspicious click events
+            document.addEventListener('click', function(e) {{
+                // If the click is not on our UI elements and looks like a background click
+                if (e.target.tagName === 'BODY' || e.target.tagName === 'HTML') {{
+                    e.preventDefault();
+                    e.stopPropagation();
+                    blockedLog("Background Click");
+                }}
+            }}, true);
+
+            // 5. Block postMessage popups (common in some players)
+            window.addEventListener('message', function(e) {{
+                if (e.data && (e.data.type === 'popup' || e.data.action === 'open')) {{
+                    e.stopImmediatePropagation();
+                    blockedLog("postMessage Popup");
+                }}
+            }}, true);
         }})();
 
         // Shield Logic

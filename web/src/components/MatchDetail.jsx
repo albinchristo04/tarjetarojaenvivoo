@@ -10,13 +10,57 @@ const MatchDetail = () => {
     const [activeChannel, setActiveChannel] = useState(null);
 
     useEffect(() => {
-        // Popup Blocker Override
-        const oldOpen = window.open;
+        // Advanced Popup & Ad Defense
+        const noop = () => { };
+        const blockedLog = (type) => console.log(`[AdBlock] Blocked ${type}`);
+
+        // 1. Robust window.open Override
+        const originalOpen = window.open;
         window.open = function () {
-            console.log("Popup blocked!");
-            return { focus: function () { }, close: function () { } };
+            blockedLog("window.open");
+            return { focus: noop, close: noop, closed: true };
         };
-        return () => { window.open = oldOpen; };
+
+        // 2. Block other common popup methods
+        const originalAlert = window.alert;
+        const originalConfirm = window.confirm;
+        const originalPrompt = window.prompt;
+        window.alert = noop;
+        window.confirm = noop;
+        window.prompt = noop;
+
+        // 3. Prevent "Are you sure you want to leave?" popups
+        const originalBeforeUnload = window.onbeforeunload;
+        window.onbeforeunload = null;
+
+        // 4. Intercept suspicious click events
+        const clickHandler = (e) => {
+            if (e.target.tagName === 'BODY' || e.target.tagName === 'HTML') {
+                e.preventDefault();
+                e.stopPropagation();
+                blockedLog("Background Click");
+            }
+        };
+        document.addEventListener('click', clickHandler, true);
+
+        // 5. Block postMessage popups
+        const messageHandler = (e) => {
+            if (e.data && (e.data.type === 'popup' || e.data.action === 'open')) {
+                e.stopImmediatePropagation();
+                blockedLog("postMessage Popup");
+            }
+        };
+        window.addEventListener('message', messageHandler, true);
+
+        return () => {
+            window.open = originalOpen;
+            window.alert = originalAlert;
+            window.confirm = originalConfirm;
+            window.prompt = originalPrompt;
+            window.onbeforeunload = originalBeforeUnload;
+            document.removeEventListener('click', clickHandler, true);
+            window.removeEventListener('message', messageHandler, true);
+        };
     }, []);
 
     useEffect(() => {
