@@ -33,3 +33,8 @@ jobs:
             git add build_trigger.txt
             git commit -m "Hourly Trigger: $(date)" || echo "No changes to commit"
             git push
+
+      - name: Ping Search Engines (IndexNow)
+        run: |
+          curl -G "https://www.google.com/ping" --data-urlencode "sitemap=https://www.tarjetarojaenvivo.live/sitemap.xml"
+          curl "https://www.bing.com/indexnow?url=https://www.tarjetarojaenvivo.live/&key=82828282828282828282828282828282" # Placeholder key
