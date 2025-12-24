@@ -26,13 +26,43 @@
         .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
         .card { background: #fff; color: #333; border-radius: 8px; overflow: hidden; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
         .card-header { background: #333; color: var(--yellow); padding: 15px; font-weight: bold; text-align: center; font-size: 20px; border-bottom: 2px solid var(--red); }
-        .event-row { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; }
-        .event-row:hover { background: #f0f0f0; transform: scale(1.01); }
+        .event-row { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; cursor: pointer; }
+        .event-row:hover { background: #f0f0f0; }
+        .event-channels { display: none; background: #f9f9f9; padding: 10px; border-bottom: 1px solid #eee; }
+        .event-channels.active { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
+        .chan-btn { background: var(--red); color: #fff; padding: 8px; border-radius: 4px; text-decoration: none; text-align: center; font-size: 12px; font-weight: bold; }
+        .chan-btn:hover { background: #b71c1c; }
         .event-time { font-weight: bold; background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; margin-right: 15px; min-width: 60px; text-align: center; }
         .event-sport-icon { margin-right: 12px; font-size: 20px; }
         .event-title { flex-grow: 1; font-weight: bold; font-size: 16px; }
-        .player-container { position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; }
-        .player-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+        .player-container { position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; cursor: pointer; }
+        .player-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; z-index: 1; }
+        .player-shield { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            z-index: 10; 
+            background: rgba(0,0,0,0.01); 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            transition: all 0.3s;
+        }
+        .player-shield:hover { background: rgba(0,0,0,0.1); }
+        .shield-msg { 
+            background: var(--red); 
+            color: #fff; 
+            padding: 10px 20px; 
+            border-radius: 30px; 
+            font-weight: bold; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .player-container:hover .shield-msg { opacity: 1; }
         .btn-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; padding: 20px; background: #1a1a1a; }
         .btn { background: var(--red); color: #fff; padding: 12px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; text-align: center; transition: background 0.3s; }
         .btn:hover { background: #b71c1c; }
@@ -48,6 +78,32 @@
         .footer-links a { color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }
         @media (max-width: 600px) { .event-row { flex-wrap: wrap; } .event-title { width: 100%; margin-top: 10px; } header h1 { font-size: 20px; } }
     </style>
+    <script>
+        // Popup Blocker Override
+        (function() {
+            var oldOpen = window.open;
+            window.open = function() {
+                console.log("Popup blocked!");
+                return { focus: function() {}, close: function() {} };
+            };
+        })();
+
+        // Shield Logic
+        function removeShield(el) {
+            el.style.display = 'none';
+            console.log("Shield removed, player unlocked.");
+        }
+
+        // Accordion Logic
+        function toggleAccordion(id) {
+            const el = document.getElementById(id);
+            const all = document.querySelectorAll('.event-channels');
+            all.forEach(item => {
+                if (item.id !== id) item.classList.remove('active');
+            });
+            el.classList.toggle('active');
+        }
+    </script>
     
 </head>
 <body>
@@ -63,47 +119,70 @@
         <a href="/categoria/nba-en-vivo">NBA</a>
     </nav>
     <div class="container">
-        <div class="card"><div class="card-header">📅 AGENDA DE FÚTBOL: 2025-12-19</div>
-            <a href="/partido/nba-brooklyn-nets-vs-miami-heat-en-vivo" class="event-row">
-                <div class="event-time">19:30</div>
-                <div class="event-title">NBA: Brooklyn Nets vs Miami Heat</div>
+        <div class="card"><div class="card-header">📅 AGENDA DE FÚTBOL: 2025-12-24</div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-0')">
+                <div class="event-time">10:00</div>
+                <div class="event-title">Copa Africana de Naciones: Senegal vs Botsuana</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-new-orleans-pelicans-vs-houston-rockets-en-vivo" class="event-row">
-                <div class="event-time">20:00</div>
-                <div class="event-title">NBA: New Orleans Pelicans vs Houston Rockets</div>
+            </div>
+            <div id="date-accordion-0" class="event-channels">
+                <a href="/partido/copa-africana-de-naciones-senegal-vs-botsuana-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-africana-de-naciones-senegal-vs-botsuana-en-vivo" class="chan-btn">Canal 6</a> <a href="/partido/copa-africana-de-naciones-senegal-vs-botsuana-en-vivo" class="chan-btn">Canal 7 (HD)</a> <a href="/partido/copa-africana-de-naciones-senegal-vs-botsuana-en-vivo" class="chan-btn">Canal 8 (HD)</a>
+            </div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-1')">
+                <div class="event-time">12:30</div>
+                <div class="event-title">Copa Africana de Naciones: Nigeria vs Tanzania</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-oklahoma-city-thunder-vs-los-angeles-clippers-en-vivo" class="event-row">
-                <div class="event-time">20:00</div>
-                <div class="event-title">NBA: Oklahoma City Thunder vs Los Angeles Clippers</div>
+            </div>
+            <div id="date-accordion-1" class="event-channels">
+                <a href="/partido/copa-africana-de-naciones-nigeria-vs-tanzania-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-africana-de-naciones-nigeria-vs-tanzania-en-vivo" class="chan-btn">Canal 9 (HD)</a>
+            </div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-2')">
+                <div class="event-time">13:15</div>
+                <div class="event-title">AFC Champions League: Al Ittihad vs Nasaf Qarshi</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-san-antonio-spurs-vs-washington-wizards-en-vivo" class="event-row">
-                <div class="event-time">20:00</div>
-                <div class="event-title">NBA: San Antonio Spurs vs Washington Wizards</div>
+            </div>
+            <div id="date-accordion-2" class="event-channels">
+                <a href="/partido/afc-champions-league-al-ittihad-vs-nasaf-qarshi-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/afc-champions-league-al-ittihad-vs-nasaf-qarshi-en-vivo" class="chan-btn">Capo Deportes 2</a> <a href="/partido/afc-champions-league-al-ittihad-vs-nasaf-qarshi-en-vivo" class="chan-btn">Canal 10</a> <a href="/partido/afc-champions-league-al-ittihad-vs-nasaf-qarshi-en-vivo" class="chan-btn">Canal 11 (HD)</a> <a href="/partido/afc-champions-league-al-ittihad-vs-nasaf-qarshi-en-vivo" class="chan-btn">Canal 12 (HD)</a>
+            </div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-3')">
+                <div class="event-time">15:00</div>
+                <div class="event-title">Carabao Cup: Arsenal vs Crystal Palace</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-dallas-mavericks-vs-detroit-pistons-en-vivo" class="event-row">
-                <div class="event-time">20:30</div>
-                <div class="event-title">NBA: Dallas Mavericks vs Detroit Pistons</div>
+            </div>
+            <div id="date-accordion-3" class="event-channels">
+                <a href="/partido/carabao-cup-arsenal-vs-crystal-palace-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/carabao-cup-arsenal-vs-crystal-palace-en-vivo" class="chan-btn">Canal 6 (HD)</a>
+            </div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-4')">
+                <div class="event-time">15:00</div>
+                <div class="event-title">Copa Africana de Naciones: Tunez vs Uganda</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-denver-nuggets-vs-orlando-magic-en-vivo" class="event-row">
-                <div class="event-time">21:00</div>
-                <div class="event-title">NBA: Denver Nuggets vs Orlando Magic</div>
+            </div>
+            <div id="date-accordion-4" class="event-channels">
+                <a href="/partido/copa-africana-de-naciones-tunez-vs-uganda-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-africana-de-naciones-tunez-vs-uganda-en-vivo" class="chan-btn">Canal 13 (HD)</a>
+            </div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-5')">
+                <div class="event-time">15:45</div>
+                <div class="event-title">Liga Portugal: Vitoria de Guimaraes vs Sporting CP</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-phoenix-suns-vs-golden-state-warriors-en-vivo" class="event-row">
-                <div class="event-time">21:00</div>
-                <div class="event-title">NBA: Phoenix Suns vs Golden State Warriors</div>
+            </div>
+            <div id="date-accordion-5" class="event-channels">
+                <a href="/partido/liga-portugal-vitoria-de-guimaraes-vs-sporting-cp-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/liga-portugal-vitoria-de-guimaraes-vs-sporting-cp-en-vivo" class="chan-btn">Canal 14</a> <a href="/partido/liga-portugal-vitoria-de-guimaraes-vs-sporting-cp-en-vivo" class="chan-btn">Canal 15 (HD)</a> <a href="/partido/liga-portugal-vitoria-de-guimaraes-vs-sporting-cp-en-vivo" class="chan-btn">Canal 16 (HD)</a>
+            </div>
+            <div class="event-row" onclick="toggleAccordion('date-accordion-6')">
+                <div class="event-time">19:00</div>
+                <div class="event-title">NBA: Philadelphia 76ers vs Brooklyn Nets</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>
-            <a href="/partido/nba-utah-jazz-vs-los-angeles-lakers-en-vivo" class="event-row">
-                <div class="event-time">21:00</div>
-                <div class="event-title">NBA: Utah Jazz vs Los Angeles Lakers</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a></div>
+            </div>
+            <div id="date-accordion-6" class="event-channels">
+                <a href="/partido/nba-philadelphia-76ers-vs-brooklyn-nets-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/nba-philadelphia-76ers-vs-brooklyn-nets-en-vivo" class="chan-btn">Canal 17</a> <a href="/partido/nba-philadelphia-76ers-vs-brooklyn-nets-en-vivo" class="chan-btn">Canal 18</a>
+            </div></div>
     </div>
     <footer>
         <div class="footer-links">

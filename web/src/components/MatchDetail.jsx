@@ -6,7 +6,17 @@ const MatchDetail = () => {
     const { slug } = useParams();
     const [match, setMatch] = useState(null);
     const [loading, setLoading] = useState(true);
-    const [activeChannel, setActiveChannel] = useState(null);
+    const [showShield, setShowShield] = useState(true);
+
+    useEffect(() => {
+        // Popup Blocker Override
+        const oldOpen = window.open;
+        window.open = function () {
+            console.log("Popup blocked!");
+            return { focus: function () { }, close: function () { } };
+        };
+        return () => { window.open = oldOpen; };
+    }, []);
 
     useEffect(() => {
         const fetchData = async () => {
@@ -41,6 +51,11 @@ const MatchDetail = () => {
 
         fetchData();
     }, [slug]);
+
+    const handleChannelChange = (channel) => {
+        setActiveChannel(channel);
+        setShowShield(true);
+    };
 
     if (loading) {
         return <div style={{ color: 'white', textAlign: 'center', marginTop: '50px' }}>Cargando evento...</div>;
@@ -97,8 +112,37 @@ const MatchDetail = () => {
                 </p>
             </div>
 
-            {/* Player Section with Iframe */}
-            <div className="player-container" style={{ background: '#000', border: '1px solid #333', position: 'relative', overflow: 'hidden', paddingTop: '56.25%' /* 16:9 Aspect Ratio */ }}>
+            {/* Player Section with Iframe and Shield */}
+            <div className="player-container" style={{ background: '#000', border: '1px solid #333', position: 'relative', overflow: 'hidden', paddingTop: '56.25%', cursor: 'pointer' }}>
+                {showShield && (
+                    <div
+                        className="player-shield"
+                        onClick={() => setShowShield(false)}
+                        style={{
+                            position: 'absolute',
+                            top: 0,
+                            left: 0,
+                            width: '100%',
+                            height: '100%',
+                            zIndex: 10,
+                            background: 'rgba(0,0,0,0.01)',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center'
+                        }}
+                    >
+                        <div className="shield-msg" style={{
+                            background: '#d32f2f',
+                            color: '#fff',
+                            padding: '10px 20px',
+                            borderRadius: '30px',
+                            fontWeight: 'bold',
+                            boxShadow: '0 4px 15px rgba(0,0,0,0.5)'
+                        }}>
+                            CLIC PARA VER EL PARTIDO
+                        </div>
+                    </div>
+                )}
                 {activeChannel ? (
                     <iframe
                         src={activeChannel.player_url}
@@ -109,7 +153,8 @@ const MatchDetail = () => {
                             left: 0,
                             width: '100%',
                             height: '100%',
-                            border: 'none'
+                            border: 'none',
+                            zIndex: 1
                         }}
                         allowFullScreen
                         scrolling="no"
@@ -129,7 +174,7 @@ const MatchDetail = () => {
                     {match.channels.map((channel, index) => (
                         <button
                             key={index}
-                            onClick={() => setActiveChannel(channel)}
+                            onClick={() => handleChannelChange(channel)}
                             style={{
                                 background: activeChannel?.canal_name === channel.canal_name ? '#ffcc00' : '#d32f2f',
                                 color: activeChannel?.canal_name === channel.canal_name ? '#000' : '#fff',

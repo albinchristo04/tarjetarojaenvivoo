@@ -25,11 +25,11 @@ jobs:
       - name: Generate Static SEO Pages
         run: python generate_static.py
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: tarjetarojaenvivoo # Replace with your Cloudflare Pages project name
-          directory: static_site
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      - name: Trigger Cloudflare Build
+        run: |
+            git config --global user.name "GitHub Action"
+            git config --global user.email "action@github.com"
+            echo "$(date)" > build_trigger.txt
+            git add build_trigger.txt
+            git commit -m "Hourly Trigger: $(date)" || echo "No changes to commit"
+            git push

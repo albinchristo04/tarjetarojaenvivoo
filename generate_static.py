@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 # Configuration
 JSON_URL = "https://raw.githubusercontent.com/albinchristo04/tarjetarojaenvivoo/refs/heads/main/results/player_urls_latest.json"
-OUTPUT_DIR = "static_site"
+OUTPUT_DIR = os.path.join("web", "dist")
 DOMAIN = "https://www.tarjetarojaenvivo.live"
 
 # Ensure directories exist
@@ -55,13 +55,43 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         .container {{ max-width: 1000px; margin: 20px auto; padding: 0 15px; }}
         .card {{ background: #fff; color: #333; border-radius: 8px; overflow: hidden; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }}
         .card-header {{ background: #333; color: var(--yellow); padding: 15px; font-weight: bold; text-align: center; font-size: 20px; border-bottom: 2px solid var(--red); }}
-        .event-row {{ display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; }}
-        .event-row:hover {{ background: #f0f0f0; transform: scale(1.01); }}
+        .event-row {{ display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; cursor: pointer; }}
+        .event-row:hover {{ background: #f0f0f0; }}
+        .event-channels {{ display: none; background: #f9f9f9; padding: 10px; border-bottom: 1px solid #eee; }}
+        .event-channels.active {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }}
+        .chan-btn {{ background: var(--red); color: #fff; padding: 8px; border-radius: 4px; text-decoration: none; text-align: center; font-size: 12px; font-weight: bold; }}
+        .chan-btn:hover {{ background: #b71c1c; }}
         .event-time {{ font-weight: bold; background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; margin-right: 15px; min-width: 60px; text-align: center; }}
         .event-sport-icon {{ margin-right: 12px; font-size: 20px; }}
         .event-title {{ flex-grow: 1; font-weight: bold; font-size: 16px; }}
-        .player-container {{ position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; }}
-        .player-container iframe {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }}
+        .player-container {{ position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; cursor: pointer; }}
+        .player-container iframe {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; z-index: 1; }}
+        .player-shield {{ 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            z-index: 10; 
+            background: rgba(0,0,0,0.01); 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            transition: all 0.3s;
+        }}
+        .player-shield:hover {{ background: rgba(0,0,0,0.1); }}
+        .shield-msg {{ 
+            background: var(--red); 
+            color: #fff; 
+            padding: 10px 20px; 
+            border-radius: 30px; 
+            font-weight: bold; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }}
+        .player-container:hover .shield-msg {{ opacity: 1; }}
         .btn-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; padding: 20px; background: #1a1a1a; }}
         .btn {{ background: var(--red); color: #fff; padding: 12px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; text-align: center; transition: background 0.3s; }}
         .btn:hover {{ background: #b71c1c; }}
@@ -77,6 +107,32 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         .footer-links a {{ color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }}
         @media (max-width: 600px) {{ .event-row {{ flex-wrap: wrap; }} .event-title {{ width: 100%; margin-top: 10px; }} header h1 {{ font-size: 20px; }} }}
     </style>
+    <script>
+        // Popup Blocker Override
+        (function() {{
+            var oldOpen = window.open;
+            window.open = function() {{
+                console.log("Popup blocked!");
+                return {{ focus: function() {{}}, close: function() {{}} }};
+            }};
+        }})();
+
+        // Shield Logic
+        function removeShield(el) {{
+            el.style.display = 'none';
+            console.log("Shield removed, player unlocked.");
+        }}
+
+        // Accordion Logic
+        function toggleAccordion(id) {{
+            const el = document.getElementById(id);
+            const all = document.querySelectorAll('.event-channels');
+            all.forEach(item => {{
+                if (item.id !== id) item.classList.remove('active');
+            }});
+            el.classList.toggle('active');
+        }}
+    </script>
     {schema}
 </head>
 <body>
@@ -154,15 +210,20 @@ def generate_site():
     # 1. Generate Homepage
     print("🏠 Generating Optimized Homepage...")
     hp_content = '<div class="card"><div class="card-header">⚽ PROGRAMACIÓN DE HOY EN VIVO</div>'
-    for key in sorted(grouped.keys()):
+    for i, key in enumerate(sorted(grouped.keys())):
         e = grouped[key]
+        accordion_id = f"accordion-{i}"
         hp_content += f"""
-        <a href="/partido/{e['slug']}-en-vivo" class="event-row">
+        <div class="event-row" onclick="toggleAccordion('{accordion_id}')">
             <div class="event-time">{e['time']}</div>
             <div class="event-sport-icon">📺</div>
             <div class="event-title">{e['title']}</div>
-            <div style="color: var(--red); font-weight: bold;">VER GRATIS &raquo;</div>
-        </a>"""
+            <div style="color: var(--red); font-weight: bold;">VER CANALES &raquo;</div>
+        </div>
+        <div id="{accordion_id}" class="event-channels">
+            <a href="/partido/{e['slug']}-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">PÁGINA DEL PARTIDO</a>
+            {" ".join([f'<a href="/partido/{e["slug"]}-en-vivo" class="chan-btn">{c["canal_name"]}</a>' for c in e['channels']])}
+        </div>"""
     hp_content += '</div>'
     
     hp_content += """
@@ -216,14 +277,19 @@ def generate_site():
                 <div class="event-list">
         """
         # Add some events to hub
-        for key in sorted(grouped.keys())[:10]:
+        for i, key in enumerate(sorted(grouped.keys())[:10]):
             e = grouped[key]
+            accordion_id = f"hub-accordion-{i}"
             hub_content += f"""
-            <a href="/partido/{e['slug']}-en-vivo" class="event-row">
+            <div class="event-row" onclick="toggleAccordion('{accordion_id}')">
                 <div class="event-time">{e['time']}</div>
                 <div class="event-title">{e['title']}</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>"""
+            </div>
+            <div id="{accordion_id}" class="event-channels">
+                <a href="/partido/{e['slug']}-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                {" ".join([f'<a href="/partido/{e["slug"]}-en-vivo" class="chan-btn">{c["canal_name"]}</a>' for c in e['channels']])}
+            </div>"""
         
         hub_content += """
                 </div>
@@ -274,13 +340,38 @@ def generate_site():
         match_content = f"""
         <div class="card">
             <div class="card-header">🔴 EN VIVO: {e['title']}</div>
-            <div class="player-container">
-                <iframe src="{e['channels'][0]['player_url']}" allowfullscreen scrolling="no"></iframe>
+            <div class="player-container" id="player-wrapper">
+                <div class="player-shield" onclick="removeShield(this)">
+                    <div class="shield-msg">CLIC PARA VER EL PARTIDO</div>
+                </div>
+                <iframe id="main-player" src="{e['channels'][0]['player_url']}" allowfullscreen scrolling="no"></iframe>
             </div>
             <div class="btn-grid">
-                {" ".join([f'<a href="{c["player_url"]}" class="btn">{c["canal_name"]}</a>' for c in e['channels']])}
+                {" ".join([f'<button onclick="changeChannel(\'{c["player_url"]}\', this)" class="btn {"active" if i==0 else ""}">{c["canal_name"]}</button>' for i, c in enumerate(e['channels'])])}
             </div>
         </div>
+        <script>
+            function changeChannel(url, btn) {{
+                document.getElementById('main-player').src = url;
+                
+                // Reset shield
+                const wrapper = document.getElementById('player-wrapper');
+                let shield = wrapper.querySelector('.player-shield');
+                if (!shield) {{
+                    shield = document.createElement('div');
+                    shield.className = 'player-shield';
+                    shield.onclick = function() {{ removeShield(this); }};
+                    shield.innerHTML = '<div class="shield-msg">CLIC PARA VER EL PARTIDO</div>';
+                    wrapper.insertBefore(shield, wrapper.firstChild);
+                }} else {{
+                    shield.style.display = 'flex';
+                }}
+
+                // Update active button
+                document.querySelectorAll('.btn-grid .btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+            }}
+        </script>
         <div class="seo-section">
             <h2>Dónde ver {e['title']} en directo hoy</h2>
             <p>Si estás buscando dónde ver el partido <strong>{e['title']}</strong> online y totalmente gratis, has llegado al lugar correcto. En <strong>Tarjeta Roja En Vivo</strong> te ofrecemos las mejores señales de streaming para que no te pierdas ni un detalle de este emocionante encuentro de {e['sport']}.</p>
@@ -316,14 +407,19 @@ def generate_site():
     for slug, title, date_obj in dates:
         date_str = date_obj.strftime('%Y-%m-%d')
         date_content = f'<div class="card"><div class="card-header">📅 AGENDA DE FÚTBOL: {date_str}</div>'
-        for key in sorted(grouped.keys()):
+        for i, key in enumerate(sorted(grouped.keys())):
             e = grouped[key]
+            accordion_id = f"date-accordion-{i}"
             date_content += f"""
-            <a href="/partido/{e['slug']}-en-vivo" class="event-row">
+            <div class="event-row" onclick="toggleAccordion('{accordion_id}')">
                 <div class="event-time">{e['time']}</div>
                 <div class="event-title">{e['title']}</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </a>"""
+            </div>
+            <div id="{accordion_id}" class="event-channels">
+                <a href="/partido/{e['slug']}-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                {" ".join([f'<a href="/partido/{e["slug"]}-en-vivo" class="chan-btn">{c["canal_name"]}</a>' for c in e['channels']])}
+            </div>"""
         date_content += '</div>'
         
         date_html = get_template(title, f"Consulta la agenda de fútbol en vivo para {slug}. Todos los partidos de hoy y mañana en Rojadirecta y Tarjeta Roja.", f"{DOMAIN}/agenda/futbol-en-vivo-{slug}", date_content)
@@ -349,6 +445,38 @@ def generate_site():
         for sm in ["sitemap-hubs.xml", "sitemap-matches.xml", "sitemap-dates.xml"]:
             f.write(f'  <sitemap><loc>{DOMAIN}/{sm}</loc></sitemap>\n')
         f.write('</sitemapindex>')
+
+    # 6. Generate Legal and Contact Pages
+    print("⚖️ Generating Legal and Contact Pages...")
+    legal_content = """
+    <div class="card">
+        <div class="card-header">AVISO LEGAL</div>
+        <div class="seo-section" style="box-shadow: none; margin-top: 0;">
+            <p>Este sitio web es un portal de información deportiva que recopila enlaces de terceros disponibles públicamente en internet. No alojamos ningún contenido audiovisual en nuestros servidores.</p>
+            <p>Todo el material que aparece en este sitio web ha sido recolectado de sitios públicos como YouTube, Twitch, y otros portales de streaming. Si usted es el propietario de algún contenido y desea que sea retirado, por favor contacte con la fuente original o escríbanos a nuestro correo de contacto.</p>
+        </div>
+    </div>"""
+    legal_html = get_template("Aviso Legal | Tarjeta Roja En Vivo", "Información legal y términos de uso de Tarjeta Roja En Vivo.", f"{DOMAIN}/aviso-legal", legal_content)
+    with open(os.path.join(OUTPUT_DIR, "aviso-legal.html"), "w", encoding="utf-8") as f:
+        f.write(legal_html)
+
+    contacto_content = """
+    <div class="card">
+        <div class="card-header">CONTACTO</div>
+        <div class="seo-section" style="box-shadow: none; margin-top: 0;">
+            <p>Si tienes alguna duda, sugerencia o reclamación, puedes ponerte en contacto con nosotros a través del siguiente correo electrónico:</p>
+            <p style="text-align: center; font-weight: bold; font-size: 20px; color: var(--red);">contacto@tarjetarojaenvivo.live</p>
+            <p>Responderemos a la brevedad posible.</p>
+        </div>
+    </div>"""
+    contacto_html = get_template("Contacto | Tarjeta Roja En Vivo", "Ponte en contacto con el equipo de Tarjeta Roja En Vivo.", f"{DOMAIN}/contacto", contacto_content)
+    with open(os.path.join(OUTPUT_DIR, "contacto.html"), "w", encoding="utf-8") as f:
+        f.write(contacto_html)
+
+    # 7. Generate robots.txt
+    print("🤖 Generating robots.txt...")
+    with open(os.path.join(OUTPUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write(f"User-agent: *\nAllow: /\nSitemap: {DOMAIN}/sitemap.xml")
 
     print(f"✅ Success! Elite SEO Site generated in '{OUTPUT_DIR}'.")
 
