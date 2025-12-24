@@ -109,51 +109,84 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         .footer-links {{ margin-bottom: 20px; }}
         .footer-links a {{ color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }}
         @media (max-width: 600px) {{ .event-row {{ flex-wrap: wrap; }} .event-title {{ width: 100%; margin-top: 10px; }} header h1 {{ font-size: 20px; }} }}
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: 'unsafe-inline' 'unsafe-eval'; img-src 'self' data: https:; frame-src https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:;">
+    <!-- Google Analytics (GA4) - Agent 15 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JQBNW4FQ3S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+        gtag('config', 'G-JQBNW4FQ3S');
+    </script>
     </style>
     <script>
-        // Advanced Popup & Ad Defense
+        // 🛡 AGENT 14 — MOBILE POPUP & REDIRECT DEFENSE ENGINE
         (function() {{
             const noop = () => {{}};
-            const blockedLog = (type) => console.log(`[AdBlock] Blocked ${{type}}`);
-
-            // 1. Robust window.open Override
-            const originalOpen = window.open;
-            window.open = function() {{
-                blockedLog("window.open");
-                return {{ focus: noop, close: noop, closed: true }};
-            }};
-
-            // 2. Block other common popup methods
+            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+            
+            // 1. JS API INTERCEPTION
+            window.open = function() {{ return {{ focus: noop, close: noop, closed: true }}; }};
+            
+            // 2. DIALOG & EXIT-TRAP NEUTRALIZATION
             window.alert = noop;
             window.confirm = noop;
             window.prompt = noop;
-
-            // 3. Prevent "Are you sure you want to leave?" popups
             window.onbeforeunload = null;
 
-            // 4. Intercept suspicious click events
+            // 3. RUNTIME SCRIPT INJECTION BLOCKING
+            const observer = new MutationObserver((mutations) => {{
+                mutations.forEach((mutation) => {{
+                    mutation.addedNodes.forEach((node) => {{
+                        if (node.tagName === 'SCRIPT') {{
+                            const src = node.src || '';
+                            if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare')) {{
+                                node.remove();
+                            }}
+                        }}
+                        if (node.tagName === 'IFRAME' && !node.id.includes('main-player')) {{
+                            node.remove();
+                        }}
+                    }});
+                }});
+            }});
+            observer.observe(document.documentElement, {{ childList: true, subtree: true }});
+
+            // 4. MOBILE TAP & CLICK HIJACK DEFENSE
             document.addEventListener('click', function(e) {{
-                // If the click is not on our UI elements and looks like a background click
                 if (e.target.tagName === 'BODY' || e.target.tagName === 'HTML') {{
                     e.preventDefault();
                     e.stopPropagation();
-                    blockedLog("Background Click");
                 }}
             }}, true);
 
-            // 5. Block postMessage popups (common in some players)
+            if (isMobile) {{
+                document.addEventListener('touchstart', function(e) {{
+                    const target = document.elementFromPoint(e.touches[0].clientX, e.touches[0].clientY);
+                    if (target && (target.tagName === 'BODY' || target.tagName === 'HTML')) {{
+                        e.preventDefault();
+                    }}
+                }}, {{ passive: false }});
+            }}
+
+            // 5. Block postMessage abuse
             window.addEventListener('message', function(e) {{
-                if (e.data && (e.data.type === 'popup' || e.data.action === 'open')) {{
+                if (e.data && typeof e.data === 'string' && (e.data.includes('open') || e.data.includes('popup'))) {{
                     e.stopImmediatePropagation();
-                    blockedLog("postMessage Popup");
                 }}
             }}, true);
         }})();
 
+        // Agent 15: Telegram Share Logic
+        function shareToTelegram(title, time, url) {{
+            const text = `⚽ ${{title}}\\n⏰ ${{time}}\\n📺 Ver en vivo:\\n${{url}}\\n\\n#tarjetaroja #rojadirecta #futbolenvivo`;
+            const telegramUrl = `https://t.me/share/url?url=${{encodeURIComponent(url)}}&text=${{encodeURIComponent(text)}}`;
+            window.location.href = telegramUrl;
+        }}
+
         // Shield Logic
         function removeShield(el) {{
             el.style.display = 'none';
-            console.log("Shield removed, player unlocked.");
         }}
 
         // Accordion Logic
@@ -485,6 +518,11 @@ def generate_site():
             </div>
             <div class="btn-grid">
                 {" ".join([f'<button onclick="changeChannel(\'{c["player_url"]}\', this)" class="btn {"active" if i==0 else ""}">{c["canal_name"]}</button>' for i, c in enumerate(e['channels'])])}
+            </div>
+            <div style="padding: 15px; text-align: center;">
+                <button onclick="shareToTelegram('{e['title']}', '{e['time']}', '{match_url}')" class="btn" style="background: #0088cc; width: 100%; max-width: 300px;">
+                    ✈️ COMPARTIR EN TELEGRAM
+                </button>
             </div>
         </div>
         <script>

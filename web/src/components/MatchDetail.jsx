@@ -10,44 +10,65 @@ const MatchDetail = () => {
     const [activeChannel, setActiveChannel] = useState(null);
 
     useEffect(() => {
-        // Advanced Popup & Ad Defense
+        // 🛡 AGENT 14 — MOBILE POPUP & REDIRECT DEFENSE ENGINE
         const noop = () => { };
-        const blockedLog = (type) => console.log(`[AdBlock] Blocked ${type}`);
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
-        // 1. Robust window.open Override
+        // 1. JS API INTERCEPTION
         const originalOpen = window.open;
-        window.open = function () {
-            blockedLog("window.open");
-            return { focus: noop, close: noop, closed: true };
-        };
+        window.open = function () { return { focus: noop, close: noop, closed: true }; };
 
-        // 2. Block other common popup methods
+        // 2. DIALOG & EXIT-TRAP NEUTRALIZATION
         const originalAlert = window.alert;
         const originalConfirm = window.confirm;
         const originalPrompt = window.prompt;
         window.alert = noop;
         window.confirm = noop;
         window.prompt = noop;
-
-        // 3. Prevent "Are you sure you want to leave?" popups
         const originalBeforeUnload = window.onbeforeunload;
         window.onbeforeunload = null;
 
-        // 4. Intercept suspicious click events
+        // 3. RUNTIME SCRIPT INJECTION BLOCKING
+        const observer = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                mutation.addedNodes.forEach((node) => {
+                    if (node.tagName === 'SCRIPT') {
+                        const src = node.src || '';
+                        if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare')) {
+                            node.remove();
+                        }
+                    }
+                    if (node.tagName === 'IFRAME' && !node.id?.includes('main-player')) {
+                        node.remove();
+                    }
+                });
+            });
+        });
+        observer.observe(document.documentElement, { childList: true, subtree: true });
+
+        // 4. MOBILE TAP & CLICK HIJACK DEFENSE
         const clickHandler = (e) => {
             if (e.target.tagName === 'BODY' || e.target.tagName === 'HTML') {
                 e.preventDefault();
                 e.stopPropagation();
-                blockedLog("Background Click");
             }
         };
         document.addEventListener('click', clickHandler, true);
 
-        // 5. Block postMessage popups
+        const touchHandler = (e) => {
+            const target = document.elementFromPoint(e.touches[0].clientX, e.touches[0].clientY);
+            if (target && (target.tagName === 'BODY' || target.tagName === 'HTML')) {
+                e.preventDefault();
+            }
+        };
+        if (isMobile) {
+            document.addEventListener('touchstart', touchHandler, { passive: false });
+        }
+
+        // 5. Block postMessage abuse
         const messageHandler = (e) => {
-            if (e.data && (e.data.type === 'popup' || e.data.action === 'open')) {
+            if (e.data && typeof e.data === 'string' && (e.data.includes('open') || e.data.includes('popup'))) {
                 e.stopImmediatePropagation();
-                blockedLog("postMessage Popup");
             }
         };
         window.addEventListener('message', messageHandler, true);
@@ -59,7 +80,9 @@ const MatchDetail = () => {
             window.prompt = originalPrompt;
             window.onbeforeunload = originalBeforeUnload;
             document.removeEventListener('click', clickHandler, true);
+            if (isMobile) document.removeEventListener('touchstart', touchHandler);
             window.removeEventListener('message', messageHandler, true);
+            observer.disconnect();
         };
     }, []);
 
