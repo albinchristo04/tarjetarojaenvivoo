@@ -1,0 +1,113 @@
+{
+  "pages": {
+    "rojadirecta": {
+      "history": [
+        {
+          "position": 4.499262799535988,
+          "impressions": 33049,
+          "ctr": 0.06189195228622773,
+          "timestamp": "2025-12-25T00:06:50.814643"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "rojadirecta-tv": {
+      "history": [
+        {
+          "position": 8.666706344989437,
+          "impressions": 2627,
+          "ctr": 0.12020348338652279,
+          "timestamp": "2025-12-25T00:06:50.814707"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "tarjeta-roja": {
+      "history": [
+        {
+          "position": 7.851892239627092,
+          "impressions": 24219,
+          "ctr": 0.024059799596426585,
+          "timestamp": "2025-12-25T00:06:50.814723"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "tarjeta-roja-en-vivo": {
+      "history": [
+        {
+          "position": 6.475765368179041,
+          "impressions": 49865,
+          "ctr": 0.12167021892584935,
+          "timestamp": "2025-12-25T00:06:50.814734"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "tarjeta-roja-tv": {
+      "history": [
+        {
+          "position": 13.048597749213378,
+          "impressions": 32174,
+          "ctr": 0.010083347530122964,
+          "timestamp": "2025-12-25T00:06:50.814743"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "pirlotv": {
+      "history": [
+        {
+          "position": 12.749729528709919,
+          "impressions": 29970,
+          "ctr": 0.06462847026071047,
+          "timestamp": "2025-12-25T00:06:50.814751"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "pirlo-tv-rojadirecta": {
+      "history": [
+        {
+          "position": 1.1189632053310015,
+          "impressions": 9355,
+          "ctr": 0.10163396149997954,
+          "timestamp": "2025-12-25T00:06:50.814760"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "roja-directa-en-vivo-f\u00fatbol-gratis": {
+      "history": [
+        {
+          "position": 2.9134836475519594,
+          "impressions": 34723,
+          "ctr": 0.14618079736300332,
+          "timestamp": "2025-12-25T00:06:50.814768"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    },
+    "tarjeta-roja-f\u00fatbol-en-vivo": {
+      "history": [
+        {
+          "position": 5.5857527528859094,
+          "impressions": 46083,
+          "ctr": 0.04114919552195912,
+          "timestamp": "2025-12-25T00:06:50.814775"
+        }
+      ],
+      "current_elements": null,
+      "last_rewrite": null
+    }
+  },
+  "global_history": []
+}

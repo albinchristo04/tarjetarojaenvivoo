@@ -1,0 +1,82 @@
+{
+  "dónde puedo ver fútbol gratis": {
+    "original": "¿Dónde puedo ver fútbol gratis?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-2",
+    "score": 30,
+    "timestamp": "2025-12-25T00:14:25.932864"
+  },
+  "cómo ver dazn gratis sin pagar": {
+    "original": "¿Cómo ver DAZN gratis sin pagar?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-2",
+    "score": 30,
+    "timestamp": "2025-12-25T00:14:25.932949"
+  },
+  "cómo ver uefa tv gratis": {
+    "original": "¿Cómo ver UEFA TV gratis?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-2",
+    "score": 30,
+    "timestamp": "2025-12-25T00:14:25.932977"
+  },
+  "dónde ver el real madrid hoy": {
+    "original": "¿Dónde ver el Real Madrid hoy?",
+    "intent": "freshness",
+    "target_page_type": "date",
+    "priority": "tier-3",
+    "score": 10,
+    "timestamp": "2025-12-25T00:14:25.932999"
+  },
+  "qué es tarjeta roja en vivo": {
+    "original": "¿Qué es Tarjeta Roja En Vivo?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-2",
+    "score": 30,
+    "timestamp": "2025-12-25T00:14:25.933023"
+  },
+  "es seguro ver fútbol en tarjeta roja": {
+    "original": "¿Es seguro ver fútbol en Tarjeta Roja?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-3",
+    "score": 10,
+    "timestamp": "2025-12-25T00:14:25.933048"
+  },
+  "cómo funciona rojadirecta tv": {
+    "original": "¿Cómo funciona Rojadirecta TV?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-3",
+    "score": 10,
+    "timestamp": "2025-12-25T00:14:25.933070"
+  },
+  "cuál es la página oficial de rojadirecta": {
+    "original": "¿Cuál es la página oficial de Rojadirecta?",
+    "intent": "informational",
+    "target_page_type": "hub",
+    "priority": "tier-3",
+    "score": 10,
+    "timestamp": "2025-12-25T00:14:25.933098"
+  },
+  "cómo ver pirlo tv online gratis": {
+    "original": "¿Cómo ver Pirlo TV online gratis?",
+    "intent": "transactional",
+    "target_page_type": "match",
+    "priority": "tier-2",
+    "score": 30,
+    "timestamp": "2025-12-25T00:14:25.933119"
+  },
+  "qué partidos transmite pirlo tv hoy": {
+    "original": "¿Qué partidos transmite Pirlo TV hoy?",
+    "intent": "freshness",
+    "target_page_type": "date",
+    "priority": "tier-3",
+    "score": 10,
+    "timestamp": "2025-12-25T00:14:25.933137"
+  }
+}

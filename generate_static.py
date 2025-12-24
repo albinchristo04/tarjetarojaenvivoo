@@ -2,6 +2,7 @@ import json
 import os
 import re
 import requests
+import random
 from datetime import datetime, timedelta
 
 # Configuration
@@ -217,6 +218,45 @@ def generate_faq_schema(questions):
     }}
     </script>"""
 
+def get_paa_content(type, data):
+    """Agent 12: SERP Feature Hijack (PAA & Snippets) powered by Agent 13 Intelligence."""
+    paa_db = {}
+    if os.path.exists("paa_questions.json"):
+        with open("paa_questions.json", "r", encoding="utf-8") as f:
+            paa_db = json.load(f)
+    
+    # Filter questions by target page type and priority
+    target_type = "match" if type == "match" else "hub"
+    relevant_qs = [
+        v for k, v in paa_db.items() 
+        if v["target_page_type"] == target_type and v["priority"] in ["tier-1", "tier-2"]
+    ]
+    
+    # If not enough relevant questions, take any tier-1
+    if len(relevant_qs) < 3:
+        relevant_qs += [v for k, v in paa_db.items() if v["priority"] == "tier-1" and v not in relevant_qs]
+
+    # Select 3-5 questions
+    selected = random.sample(relevant_qs, min(len(relevant_qs), 5))
+    
+    # Format for template
+    questions = [(q["original"], "Esta es una respuesta optimizada para Google Snippets. " + q["original"].replace("¿", "").replace("?", "") + " es posible gracias a nuestra plataforma de streaming estable.") for q in selected]
+    
+    # Special handling for match pages to inject match title
+    if type == "match":
+        match_qs = [
+            (f"¿Dónde ver {data.get('title')} en vivo?", f"Puedes ver {data.get('title')} en vivo y en directo a través de los canales de streaming gratuitos disponibles en Tarjeta Roja En Vivo y Rojadirecta."),
+            (f"¿A qué hora juega {data.get('title')} hoy?", f"El partido {data.get('title')} está programado para iniciar hoy a las {data.get('time')}. Te recomendamos entrar 10 minutos antes para elegir el mejor canal.")
+        ]
+        questions = match_qs + questions[:2]
+
+    content = '<div class="paa-section"><h3>Preguntas Frecuentes (PAA)</h3>'
+    for q, a in questions:
+        content += f"<h3>{q}</h3><p>{a}</p>"
+    content += "</div>"
+    
+    return content, questions
+
 def get_seo_content(type, data):
     """Agent 3 & 4: Generates 800-1200 words of SEO-optimized content with link sculpting."""
     if type == "match":
@@ -275,6 +315,12 @@ def generate_site():
     except Exception as e:
         print(f"❌ Error fetching JSON: {e}")
         return
+
+    # Load Agent 11 Optimized Elements
+    rank_state = {}
+    if os.path.exists("seo_rank_state.json"):
+        with open("seo_rank_state.json", "r") as f:
+            rank_state = json.load(f).get("pages", {})
 
     events = data['events']
     grouped = {}
@@ -338,19 +384,27 @@ def generate_site():
 
     # 2. Generate Hub Pages (Aggressive Content)
     hubs = [
-        ("rojadirecta", "Rojadirecta TV Online | Ver Fútbol En Vivo Gratis", "Sigue toda la emoción de Rojadirecta TV en vivo. La mejor programación de fútbol online gratis, Champions League, La Liga y más en Rojadirecta."),
-        ("rojadirecta-tv", "Rojadirecta TV ⚽ Tarjeta Roja En Vivo | Deportes Online", "Entra en Rojadirecta TV para ver deportes en directo. Enlaces actualizados de fútbol, NBA y tenis. La alternativa número 1 a Rojadirecta."),
-        ("tarjeta-roja", "Tarjeta Roja En Vivo | Ver Fútbol Online Gratis Hoy", "Disfruta de Tarjeta Roja En Vivo para ver todos los partidos de hoy. La mejor calidad en streaming para fútbol, baloncesto y motor."),
-        ("tarjeta-roja-tv", "Tarjeta Roja TV 🔴 Rojadirecta En Vivo Gratis", "Ver Tarjeta Roja TV online. Accede a los mejores canales de deportes en vivo. Fútbol gratis, NBA y F1 en directo."),
-        ("pirlotv", "Pirlo TV Online ⚽ Ver Fútbol En Vivo Gratis | Tarjeta Roja", "Accede a Pirlo TV para ver fútbol en vivo. La mejor alternativa a PirloTV y Rojadirecta para disfrutar del deporte rey gratis.")
+        ("rojadirecta", "🔴 Rojadirecta TV Online | Ver Fútbol En Vivo Gratis Hoy ⚽", "Sigue toda la emoción de Rojadirecta TV en vivo. La mejor programación de fútbol online gratis, Champions League, La Liga y más en Rojadirecta."),
+        ("rojadirecta-tv", "📺 Rojadirecta TV ⚽ Tarjeta Roja En Vivo | Deportes Online Gratis", "Entra en Rojadirecta TV para ver deportes en directo. Enlaces actualizados de fútbol, NBA y tenis. La alternativa número 1 a Rojadirecta."),
+        ("tarjeta-roja", "🔴 Tarjeta Roja En Vivo | Ver Fútbol Online Gratis Hoy ⚽", "Disfruta de Tarjeta Roja En Vivo para ver todos los partidos de hoy. La mejor calidad en streaming para fútbol, baloncesto y motor."),
+        ("tarjeta-roja-tv", "📺 Tarjeta Roja TV 🔴 Rojadirecta En Vivo Gratis Hoy", "Ver Tarjeta Roja TV online. Accede a los mejores canales de deportes en vivo. Fútbol gratis, NBA y F1 en directo."),
+        ("pirlotv", "⚽ Pirlo TV Online 🔴 Ver Fútbol En Vivo Gratis Hoy | Tarjeta Roja", "Accede a Pirlo TV para ver fútbol en vivo. La mejor alternativa a PirloTV y Rojadirecta para disfrutar del deporte rey gratis.")
     ]
 
     for slug, title, desc in hubs:
+        # Agent 11: Apply Auto-Rewrite if triggered
+        h1_override = None
+        if slug in rank_state and rank_state[slug].get("current_elements"):
+            opt = rank_state[slug]["current_elements"]
+            title = opt["title"]
+            desc = opt["meta"]
+            h1_override = opt["h1"]
+
         hub_content = f"""
         <div class="card">
-            <div class="card-header">{title.upper()}</div>
+            <div class="card-header">{h1_override.upper() if h1_override else title.upper()}</div>
             <div class="seo-section" style="box-shadow: none; margin-top: 0;">
-                <h2>{title}</h2>
+                <h2>{h1_override if h1_override else title}</h2>
                 <p>Bienvenido a la sección dedicada a <strong>{slug.replace('-', ' ').title()}</strong> en nuestro portal. Aquí encontrarás la mejor selección de enlaces para ver deportes en vivo y en directo.</p>
                 <p><strong>{slug.replace('-', ' ').title()}</strong> ha sido durante años el referente para millones de aficionados que buscan ver fútbol gratis. En <strong>Tarjeta Roja En Vivo</strong>, continuamos ese legado ofreciendo una plataforma robusta, rápida y optimizada para dispositivos móviles.</p>
                 <h3>¿Por qué elegir nuestra señal de {slug.replace('-', ' ').title()}?</h3>
@@ -376,16 +430,20 @@ def generate_site():
         
         hub_content += "</div>"
         hub_content += get_seo_content("hub", {"slug": slug})
+        
+        # Agent 12: PAA Injection
+        paa_html, paa_qs = get_paa_content("hub", {"slug": slug})
+        hub_content += paa_html
         hub_content += "</div>"
         
-        hub_html = get_template(title, desc, f"{DOMAIN}/{slug}/", hub_content)
+        hub_html = get_template(title, desc, f"{DOMAIN}/{slug}/", hub_content, schema=generate_faq_schema(paa_qs), h1_title=h1_override)
         with open(os.path.join(OUTPUT_DIR, slug, "index.html"), "w", encoding="utf-8") as f:
             f.write(hub_html)
 
     # 3. Generate Match Pages (Expanded Content)
     print("🏟️ Generating Expanded Match Pages...")
     for key, e in grouped.items():
-        match_title = f"⚽ Ver {e['title']} EN VIVO Online Gratis | Tarjeta Roja"
+        match_title = f"🔴 Ver {e['title']} EN VIVO Online Gratis Hoy | Tarjeta Roja TV ⚽"
         match_desc = f"🔴 Disfruta del partido {e['title']} en vivo y gratis hoy. Enlaces de Rojadirecta, Pirlo TV y Tarjeta Roja para ver {e['sport']} online en HD."
         match_url = f"{DOMAIN}/partido/{e['slug']}-en-vivo"
         
@@ -450,7 +508,14 @@ def generate_site():
         """
         match_content += get_seo_content("match", e)
         
-        match_html = get_template(match_title, match_desc, match_url, match_content, schema, h1_title=f"Ver {e['title']} en Vivo")
+        # Agent 12: PAA Injection
+        paa_html, paa_qs = get_paa_content("match", e)
+        match_content += paa_html
+        
+        # Combine Schemas
+        match_schema = schema + generate_faq_schema(paa_qs)
+        
+        match_html = get_template(match_title, match_desc, match_url, match_content, match_schema, h1_title=f"Ver {e['title']} en Vivo")
         file_path = os.path.join(OUTPUT_DIR, "partido", f"{e['slug']}-en-vivo.html")
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(match_html)

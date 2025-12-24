@@ -22,6 +22,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
+      - name: Run PAA Intelligence (Agent 13)
+        run: python paa_scraper.py
+
+      - name: Run Rank Tracker (Agent 11)
+        run: python rank_tracker.py
+
       - name: Generate Static SEO Pages
         run: python generate_static.py
 
@@ -30,8 +36,8 @@ jobs:
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
             echo "$(date)" > build_trigger.txt
-            git add build_trigger.txt
-            git commit -m "Hourly Trigger: $(date)" || echo "No changes to commit"
+            git add build_trigger.txt seo_rank_state.json seo_rank_history.json paa_questions.json || echo "No state files yet"
+            git commit -m "Hourly Trigger & SEO/PAA State Update: $(date)" || echo "No changes to commit"
             git push
 
       - name: Ping Search Engines (IndexNow)
