@@ -6,7 +6,9 @@ from datetime import datetime, timedelta
 
 # Configuration
 JSON_URL = "https://raw.githubusercontent.com/albinchristo04/tarjetarojaenvivoo/refs/heads/main/results/player_urls_latest.json"
-OUTPUT_DIR = os.path.join("web", "dist")
+# Get the absolute path to the 'web/dist' directory
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(BASE_DIR, "web", "dist")
 DOMAIN = "https://www.tarjetarojaenvivo.live"
 
 # Ensure directories exist

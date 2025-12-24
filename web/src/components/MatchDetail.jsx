@@ -7,6 +7,7 @@ const MatchDetail = () => {
     const [match, setMatch] = useState(null);
     const [loading, setLoading] = useState(true);
     const [showShield, setShowShield] = useState(true);
+    const [activeChannel, setActiveChannel] = useState(null);
 
     useEffect(() => {
         // Popup Blocker Override
