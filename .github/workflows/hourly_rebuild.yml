@@ -31,13 +31,19 @@ jobs:
       - name: Generate Static SEO Pages
         run: python generate_static.py
 
+      - name: Run Telegram Bot (Agent 16)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: python telegram_bot.py
+
       - name: Trigger Cloudflare Build
         run: |
             git config --global user.name "GitHub Action"
             git config --global user.email "action@github.com"
             echo "$(date)" > build_trigger.txt
-            git add build_trigger.txt seo_rank_state.json seo_rank_history.json paa_questions.json || echo "No state files yet"
-            git commit -m "Hourly Trigger & SEO/PAA State Update: $(date)" || echo "No changes to commit"
+            git add build_trigger.txt seo_rank_state.json seo_rank_history.json paa_questions.json telegram_sent_posts.json || echo "No state files yet"
+            git commit -m "Hourly Trigger & SEO/PAA/Telegram State Update: $(date)" || echo "No changes to commit"
             git push
 
       - name: Ping Search Engines (IndexNow)
