@@ -205,7 +205,7 @@ if __name__ == "__main__":
     print("="*70)
     
     extractor = IframeChainExtractor()
-    data = extractor.extract_all_events(target_url, limit=25)
+    data = extractor.extract_all_events(target_url, limit=100)
     
     if 'error' in data:
         print(f"\n✗ Error: {data['error']}")
