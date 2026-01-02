@@ -2,6 +2,7 @@ import os
 import json
 import datetime
 import requests
+import random
 import pickle
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -93,17 +94,22 @@ def create_post(service, event):
     # Check if post already exists (simple check by title)
     # In a real scenario, you might want to store IDs or use labels
     try:
-        search = service.posts().list(blogId=BLOG_ID, q=title).execute()
+        # Use search() instead of list() for query parameter 'q'
+        search = service.posts().search(blogId=BLOG_ID, q=title).execute()
         if 'items' in search and len(search['items']) > 0:
-            print(f"⚠️ Post already exists: {title}")
-            return False # Skip
+            # Double check exact title match to be safe
+            for item in search['items']:
+                if item['title'] == title:
+                    print(f"⚠️ Post already exists: {title}")
+                    return False # Skip
             
         body = {
             "kind": "blogger#post",
             "blog": {"id": BLOG_ID},
             "title": title,
             "content": content,
-            "labels": [event['sport'], "Rojadirecta", "En Vivo"]
+            "labels": [event['sport'], "Rojadirecta", "En Vivo"],
+            "status": "LIVE"
         }
         
         posts = service.posts().insert(blogId=BLOG_ID, body=body).execute()
@@ -138,15 +144,17 @@ def main():
             }
         grouped[key]['channels'].append(e)
     
-    # Sort matches by time to ensure we post the most immediate ones first
-    # But shuffle slightly or pick from upcoming to avoid always picking the same if run fails?
-    # Actually, standard behavior is usually next upcoming.
-    
-    print(f"🎯 Starting auto-post run. Processing {len(grouped)} unique match groups...")
+    # Limit to 5 posts per run to avoid rate limits (User Request)
+    posts_limit = 5
+    print(f"🎯 Target for this run: {posts_limit} new posts.")
     
     posts_created = 0
     
     for key, event in grouped.items():
+        if posts_created >= posts_limit:
+            print("🛑 Reached post limit for this run. Exiting.")
+            break
+            
         if create_post(service, event):
             posts_created += 1
             # Add a small delay between posts to be safer and avoid rate limits
