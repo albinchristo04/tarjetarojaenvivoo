@@ -175,8 +175,16 @@
     <div class="container">
         <b:section class='main' id='main' showaddelement='no'>
             <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
-                <b:includable id='main'>
-                    <!-- HOMEPAGE VIEW -->
+                <b:includable id='main' var='top'>
+                    
+                    <!-- 1. MATCH PAGE (Item View) -->
+                    <b:if cond='data:blog.pageType == "item"'>
+                        <b:loop values='data:posts' var='post'>
+                            <data:post.body/>
+                        </b:loop>
+                    </b:if>
+
+                    <!-- 2. HOMEPAGE (Index View) -->
                     <b:if cond='data:blog.pageType == "index"'>
                         <div class="card">
                             <div class="card-header">⚽ PROGRAMACIÓN DE HOY EN VIVO</div>
@@ -206,28 +214,22 @@
                                 <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + "_blog-pager-older-link"' title='Older Posts'>Siguiente &gt;</a>
                             </b:if>
                         </div>
-                    
-                    <!-- MATCH/POST VIEW -->
-                    <b:else/>
-                        <b:if cond='data:blog.pageType == "item"'>
-                            <b:loop values='data:posts' var='post'>
-                                <data:post.body/>
-                            </b:loop>
-                        
-                        <!-- ARCHIVE/SEARCH VIEW -->
-                        <b:else/>
-                            <div class="card">
-                                <div class="card-header">RESULTADOS DE BÚSQUEDA</div>
-                                <b:loop values='data:posts' var='post'>
-                                    <a expr:href='data:post.url' class="event-row">
-                                        <div class="event-sport-icon">📺</div>
-                                        <div class="event-title"><data:post.title/></div>
-                                        <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-                                    </a>
-                                </b:loop>
-                            </div>
-                        </b:if>
                     </b:if>
+
+                    <!-- 3. SEARCH/ARCHIVE VIEW -->
+                    <b:if cond='data:blog.pageType != "item" and data:blog.pageType != "index"'>
+                        <div class="card">
+                            <div class="card-header">RESULTADOS DE BÚSQUEDA</div>
+                            <b:loop values='data:posts' var='post'>
+                                <a expr:href='data:post.url' class="event-row">
+                                    <div class="event-sport-icon">📺</div>
+                                    <div class="event-title"><data:post.title/></div>
+                                    <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
+                                </a>
+                            </b:loop>
+                        </div>
+                    </b:if>
+
                 </b:includable>
             </b:widget>
         </b:section>
@@ -240,7 +242,7 @@
             <a href="/p/contacto.html">CONTACTO</a>
         </div>
         <p>TARJETA ROJA | Rojadirecta TV | Pirlo TV</p>
-        <p>&copy; 2025 tarjetarojaenvivo.live</p>
+        <p>&#169; 2025 tarjetarojaenvivo.live</p>
     </footer>
 </body>
 </html>

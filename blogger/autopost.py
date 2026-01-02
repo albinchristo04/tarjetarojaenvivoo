@@ -44,22 +44,22 @@ def generate_rich_seo_text(event):
     time = event['event_time']
     sport = event['sport']
     
-    # Templates for content generation
+    # Templates for content generation - SAFER KEYWORDS
     intros = [
-        f"Prepárate para vivir la emoción del deporte rey. Hoy se enfrentan <strong>{title}</strong> en un duelo que promete ser apasionante. En <strong>Tarjeta Roja En Vivo</strong> te traemos la mejor señal para ver este partido de {sport} totalmente gratis.",
-        f"El partido <strong>{title}</strong> es uno de los eventos más esperados de la jornada de {sport}. Ambos equipos llegan con la necesidad de sumar puntos y demostrar su buen juego. Sigue la transmisión en vivo y en directo aquí.",
-        f"¿Buscas dónde ver <strong>{title}</strong> online? Has llegado al lugar indicado. Disfruta de este encuentro de {sport} con la mejor calidad de imagen y sonido, sin cortes ni interrupciones molestas."
+        f"Prepárate para vivir la emoción del deporte. Hoy se enfrentan <strong>{title}</strong> en un duelo que promete ser apasionante. Te traemos la mejor señal para ver este partido de {sport} totalmente gratis.",
+        f"El partido <strong>{title}</strong> es uno de los eventos más esperados de la jornada de {sport}. Ambos equipos llegan con la necesidad de sumar puntos. Sigue la transmisión en vivo aquí.",
+        f"¿Buscas dónde ver <strong>{title}</strong> online? Has llegado al lugar indicado. Disfruta de este encuentro de {sport} con la mejor calidad."
     ]
     
     middles = [
-        f"Este enfrentamiento de {sport} está programado para las <strong>{time}</strong>. Los aficionados de ambos bandos están ansiosos por ver rodar el balón. Se espera un partido intenso, con muchas oportunidades de gol y jugadas polémicas.",
-        f"La rivalidad entre estos equipos siempre nos regala grandes espectáculos. No te pierdas ni un minuto de la acción. Recuerda que nuestra señal es compatible con móviles, tablets y PC.",
-        f"Con las alineaciones casi confirmadas, todo está listo para el pitazo inicial a las {time}. ¿Quién se llevará la victoria hoy? Acompáñanos en esta transmisión exclusiva de Tarjeta Roja."
+        f"Este enfrentamiento de {sport} está programado para las <strong>{time}</strong>. Los aficionados están ansiosos por ver el juego. Se espera un partido intenso.",
+        f"La rivalidad entre estos equipos siempre nos regala grandes espectáculos. No te pierdas ni un minuto de la acción. Nuestra señal es compatible con todos los dispositivos.",
+        f"Todo está listo para el inicio a las {time}. ¿Quién se llevará la victoria? Acompáñanos en esta transmisión deportiva."
     ]
     
     outros = [
-        "Recuerda que en Tarjeta Roja En Vivo y Rojadirecta TV trabajamos para traerte los mejores eventos deportivos del mundo. Si te gusta nuestra página, compártela con tus amigos en redes sociales.",
-        "No olvides guardar esta página en tus favoritos para futuros partidos. Somos la mejor alternativa a Pirlo TV, Elitegol y Fútbol Libre.",
+        "Trabajamos para traerte los mejores eventos deportivos del mundo. Si te gusta nuestra página, compártela con tus amigos.",
+        "No olvides guardar esta página en tus favoritos para futuros partidos. Somos tu mejor opción para ver deportes en vivo.",
         "Gracias por elegirnos para ver {title}. ¡Que gane el mejor!"
     ]
     
@@ -70,21 +70,21 @@ def generate_rich_seo_text(event):
         <p>{random.choice(intros)}</p>
         
         <h3>¿A qué hora juega {title}?</h3>
-        <p>El partido está programado para comenzar a las <strong>{time}</strong> (Hora Local). Te recomendamos conectarte unos minutos antes para asegurar una conexión estable y elegir el mejor canal de transmisión.</p>
+        <p>El partido está programado para comenzar a las <strong>{time}</strong> (Hora Local). Te recomendamos conectarte unos minutos antes.</p>
         
         <h3>Análisis del Encuentro</h3>
         <p>{random.choice(middles)}</p>
-        <p>Este duelo de {sport} es crucial para las aspiraciones de ambos conjuntos en la tabla de posiciones. Los expertos pronostican un partido cerrado, donde los pequeños detalles marcarán la diferencia.</p>
+        <p>Este duelo de {sport} es crucial para las aspiraciones de ambos conjuntos. Los expertos pronostican un partido cerrado.</p>
         
-        <h3>¿Dónde ver {title} en vivo por internet?</h3>
-        <p>Puedes ver este partido completamente gratis a través de los reproductores que encontrarás más arriba en esta misma página. Ofrecemos múltiples opciones de canales (Opción 1, Opción 2, etc.) para que siempre tengas una alternativa funcional.</p>
+        <h3>¿Dónde ver {title} en vivo?</h3>
+        <p>Puedes ver este partido gratis a través de los reproductores disponibles en esta página. Ofrecemos múltiples opciones de transmisión.</p>
         
-        <p><strong>Ficha Técnica:</strong></p>
+        <p><strong>Información del Evento:</strong></p>
         <ul>
             <li><strong>Evento:</strong> {title}</li>
             <li><strong>Deporte:</strong> {sport}</li>
             <li><strong>Hora:</strong> {time}</li>
-            <li><strong>Plataforma:</strong> Tarjeta Roja En Vivo / Rojadirecta</li>
+            <li><strong>Transmisión:</strong> En Vivo</li>
         </ul>
         
         <p>{random.choice(outros)}</p>
@@ -149,8 +149,9 @@ def create_post(service, event):
             "blog": {"id": BLOG_ID},
             "title": title,
             "content": content,
-            "labels": [event['sport'], "Rojadirecta", "En Vivo"],
-            "status": "LIVE"
+            "labels": [event['sport'], "En Vivo", "Deportes"],
+            "status": "LIVE",
+            "published": datetime.datetime.utcnow().isoformat("T") + "Z"
         }
         
         posts = service.posts().insert(blogId=BLOG_ID, body=body).execute()
