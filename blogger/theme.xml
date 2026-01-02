@@ -70,7 +70,8 @@
     </style>
 
     <script>
-        // 🛡 AGENT 14 — MOBILE POPUP &amp; REDIRECT DEFENSE ENGINE
+    //<![CDATA[
+        // 🛡 AGENT 14 — MOBILE POPUP & REDIRECT DEFENSE ENGINE
         (function() {
             const noop = () => {};
             const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
@@ -86,11 +87,11 @@
                     mutation.addedNodes.forEach((node) => {
                         if (node.tagName === 'SCRIPT') {
                             const src = node.src || '';
-                            if (src &amp;&amp; !src.includes(window.location.hostname) &amp;&amp; !src.includes('google') &amp;&amp; !src.includes('cloudflare')) {
+                            if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare')) {
                                 node.remove();
                             }
                         }
-                        if (node.tagName === 'IFRAME' &amp;&amp; !node.id.includes('main-player')) {
+                        if (node.tagName === 'IFRAME' && !node.id.includes('main-player')) {
                             node.remove();
                         }
                     });
@@ -108,14 +109,14 @@
             if (isMobile) {
                 document.addEventListener('touchstart', function(e) {
                     const target = document.elementFromPoint(e.touches[0].clientX, e.touches[0].clientY);
-                    if (target &amp;&amp; (target.tagName === 'BODY' || target.tagName === 'HTML')) {
+                    if (target && (target.tagName === 'BODY' || target.tagName === 'HTML')) {
                         e.preventDefault();
                     }
                 }, { passive: false });
             }
 
             window.addEventListener('message', function(e) {
-                if (e.data &amp;&amp; typeof e.data === 'string' &amp;&amp; (e.data.includes('open') || e.data.includes('popup'))) {
+                if (e.data && typeof e.data === 'string' && (e.data.includes('open') || e.data.includes('popup'))) {
                     e.stopImmediatePropagation();
                 }
             }, true);
@@ -124,7 +125,7 @@
         // Helper Functions
         function shareToTelegram(title, time, url) {
             const text = `⚽ ${title}\n⏰ ${time}\n📺 Ver en vivo:\n${url}\n\n#tarjetaroja #rojadirecta #futbolenvivo`;
-            const telegramUrl = `https://t.me/share/url?url=${encodeURIComponent(url)}&amp;text=${encodeURIComponent(text)}`;
+            const telegramUrl = `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
             window.location.href = telegramUrl;
         }
 
@@ -140,7 +141,7 @@
                 shield = document.createElement('div');
                 shield.className = 'player-shield';
                 shield.onclick = function() { removeShield(this); };
-                shield.innerHTML = '&lt;div class="shield-msg"&gt;CLIC PARA VER EL PARTIDO&lt;/div&gt;';
+                shield.innerHTML = '<div class="shield-msg">CLIC PARA VER EL PARTIDO</div>';
                 wrapper.insertBefore(shield, wrapper.firstChild);
             } else {
                 shield.style.display = 'flex';
@@ -148,6 +149,7 @@
             document.querySelectorAll('.btn-grid .btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
         }
+    //]]>
     </script>
 </head>
 <body>
@@ -173,33 +175,58 @@
     <div class="container">
         <b:section class='main' id='main' showaddelement='no'>
             <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
-                <b:includable id='main' var='top'>
-                    <!-- Homepage View: List of Matches -->
+                <b:includable id='main'>
+                    <!-- HOMEPAGE VIEW -->
                     <b:if cond='data:blog.pageType == "index"'>
                         <div class="card">
                             <div class="card-header">⚽ PROGRAMACIÓN DE HOY EN VIVO</div>
                             <b:loop values='data:posts' var='post'>
                                 <a expr:href='data:post.url' class="event-row">
-                                    <!-- We assume the post title is formatted like "[14:00] Real Madrid vs Barcelona" -->
                                     <div class="event-sport-icon">📺</div>
                                     <div class="event-title"><data:post.title/></div>
                                     <div style="color: var(--red); font-weight: bold;">VER CANALES &raquo;</div>
                                 </a>
                             </b:loop>
+                            <b:if cond='data:posts.empty'>
+                                <div style="padding: 20px; text-align: center;">No hay partidos programados en este momento.</div>
+                            </b:if>
                         </div>
                         
-                        <!-- Homepage SEO Content -->
                         <div class="seo-section">
                             <h2>Ver Fútbol En Vivo en Tarjeta Roja</h2>
                             <p>Bienvenido a <strong>Tarjeta Roja En Vivo</strong>. La mejor alternativa a Rojadirecta y Pirlo TV.</p>
                         </div>
-                    </b:if>
-
-                    <!-- Post Page View: Match Player -->
-                    <b:if cond='data:blog.pageType == "item"'>
-                        <b:loop values='data:posts' var='post'>
-                            <data:post.body/>
-                        </b:loop>
+                        
+                        <!-- Pagination -->
+                        <div class='blog-pager' id='blog-pager'>
+                            <b:if cond='data:newerPageUrl'>
+                                <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + "_blog-pager-newer-link"' title='Newer Posts'>&lt; Anterior</a>
+                            </b:if>
+                            <b:if cond='data:olderPageUrl'>
+                                <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + "_blog-pager-older-link"' title='Older Posts'>Siguiente &gt;</a>
+                            </b:if>
+                        </div>
+                    
+                    <!-- MATCH/POST VIEW -->
+                    <b:else/>
+                        <b:if cond='data:blog.pageType == "item"'>
+                            <b:loop values='data:posts' var='post'>
+                                <data:post.body/>
+                            </b:loop>
+                        
+                        <!-- ARCHIVE/SEARCH VIEW -->
+                        <b:else/>
+                            <div class="card">
+                                <div class="card-header">RESULTADOS DE BÚSQUEDA</div>
+                                <b:loop values='data:posts' var='post'>
+                                    <a expr:href='data:post.url' class="event-row">
+                                        <div class="event-sport-icon">📺</div>
+                                        <div class="event-title"><data:post.title/></div>
+                                        <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
+                                    </a>
+                                </b:loop>
+                            </div>
+                        </b:if>
                     </b:if>
                 </b:includable>
             </b:widget>
