@@ -38,6 +38,7 @@ class IframeChainExtractor:
             
             return BeautifulSoup(response.content, 'html.parser')
         except Exception as e:
+            print(f"  ✗ Error fetching {url}: {str(e)}")
             return None
     
     def extract_iframes(self, soup, base_url):
@@ -106,84 +107,84 @@ class IframeChainExtractor:
         
         events = []
         
-        # Find all list items with class matching sports (NBA, etc.)
-        event_items = soup.find_all('li', class_=True)
+        # Find all list items with class 'toggle-submenu'
+        event_items = soup.find_all('li', class_='toggle-submenu')
         
         for item in event_items:
-            # Skip subitem entries
-            if 'subitem' in ' '.join(item.get('class', [])):
+            # Extract event info from the match-item div
+            match_item = item.find('div', class_='match-item')
+            if not match_item:
                 continue
             
-            # Get the main event link (the one with #)
-            main_link = item.find('a', href='#')
-            if not main_link:
+            info_div = match_item.find('div', class_='info')
+            if not info_div:
                 continue
             
-            # Extract event title and time
-            event_title = main_link.get_text(strip=True)
+            # Extract time
+            time_elem = info_div.find('time')
+            event_time = time_elem.get('datetime') if time_elem else None
             
-            # Extract time from span with class 't'
-            time_span = main_link.find('span', class_='t')
-            event_time = time_span.get_text(strip=True) if time_span else None
-            if event_time:
-                event_time = re.sub(r'[^0-9:]', '', event_time)
+            # Extract event title from span
+            title_span = info_div.find('span')
+            event_title = title_span.get_text(strip=True) if title_span else 'Unknown Event'
             
-            # Remove time from title if present
-            if event_time and event_time in event_title:
-                event_title = event_title.replace(event_time, '').strip()
-            
-            # Get sport category
-            sport_category = ' '.join(item.get('class', []))
+            # Get sport category from data-category attribute
+            sport_category = item.get('data-category', 'Unknown')
             
             # Find all canal links within this event's submenu
-            submenu = item.find('ul')
+            submenu = item.find('ul', class_='submenu')
             if submenu:
-                canal_links = submenu.find_all('a', href=True)
+                canal_links = submenu.find_all('a', class_='submenu-item')
                 
                 for canal_link in canal_links:
                     canal_href = canal_link.get('href')
-                    canal_name = canal_link.get_text(strip=True)
+                    if not canal_href:
+                        continue
+                    
+                    # Extract canal name from span inside the link
+                    canal_span = canal_link.find('span')
+                    canal_name = canal_span.get_text(strip=True) if canal_span else 'Unknown Canal'
+                    
+                    # Get absolute URL
                     canal_url = urljoin(home_url, canal_href)
                     
-                    # Only process if it's a canal-XX.php link or similar
-                    if re.search(r'canal-?\d+\.php', canal_href, re.IGNORECASE) or 'capo-deportes' in canal_href:
-                        print(f"\n{'='*70}")
-                        print(f"Event: {event_title}")
-                        if event_time:
-                            print(f"Time: {event_time}")
-                        print(f"Sport: {sport_category}")
-                        print(f"Canal: {canal_name}")
-                        print(f"{'='*70}")
+                    print(f"\n{'='*70}")
+                    print(f"Event: {event_title}")
+                    if event_time:
+                        print(f"Time: {event_time}")
+                    print(f"Sport: {sport_category}")
+                    print(f"Canal: {canal_name}")
+                    print(f"{'='*70}")
+                    
+                    # Follow to find final player URL
+                    player_url = self.follow_iframe_chain(canal_url, max_depth=5)
+                    
+                    if player_url:
+                        domain = urlparse(player_url).netloc
                         
-                        # Follow to find final player URL
-                        player_url = self.follow_iframe_chain(canal_url, max_depth=5)
+                        event = {
+                            'event_title': event_title,
+                            'event_time': event_time,
+                            'sport': sport_category,
+                            'canal_name': canal_name,
+                            'canal_url': canal_url,
+                            'player_url': player_url,
+                            'player_domain': domain
+                        }
                         
-                        if player_url:
-                            domain = urlparse(player_url).netloc
-                            
-                            event = {
-                                'event_title': event_title,
-                                'event_time': event_time,
-                                'sport': sport_category,
-                                'canal_name': canal_name,
-                                'canal_url': canal_url,
-                                'player_url': player_url,
-                                'player_domain': domain
-                            }
-                            
-                            events.append(event)
-                            print(f"  ✓ Player: {player_url}")
-                        else:
-                            print(f"  ✗ No player URL found")
-                        
-                        # Limit if specified
-                        if limit and len(events) >= limit:
-                            print(f"\n⚠ Limiting to first {limit} events")
-                            return {
-                                'source_url': home_url,
-                                'total_events': len(events),
-                                'events': events
-                            }
+                        events.append(event)
+                        print(f"  ✓ Player: {player_url}")
+                    else:
+                        print(f"  ✗ No player URL found")
+                    
+                    # Limit if specified
+                    if limit and len(events) >= limit:
+                        print(f"\n⚠ Limiting to first {limit} events")
+                        return {
+                            'source_url': home_url,
+                            'total_events': len(events),
+                            'events': events
+                        }
         
         return {
             'source_url': home_url,
@@ -201,7 +202,7 @@ if __name__ == "__main__":
     target_url = "https://tarjetaroja.com.co/"
     
     print("="*70)
-    print("EVENT EXTRACTOR WITH TITLES & TIMES")
+    print("TARJETA ROJA EVENT EXTRACTOR")
     print("="*70)
     
     extractor = IframeChainExtractor()
