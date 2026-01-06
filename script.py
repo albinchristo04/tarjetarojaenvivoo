@@ -199,7 +199,7 @@ def save_to_json(data, filename='player_urls.json'):
     print(f"\n✓ Data saved to {filename}")
 
 if __name__ == "__main__":
-    target_url = "https://rojadirectahd.futbol/"
+    target_url = "https://tarjetaroja.com.co"
     
     print("="*70)
     print("TARJETA ROJA EVENT EXTRACTOR")
