@@ -1,0 +1,618 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 68,
+  "events": [
+    {
+      "event_title": "Bundesliga: Borussia Monchengladbach vs Stuttgart",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Liga de Campeones 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lczIucGhw&h=7c09dc29371b7b6d338b6b3d8b133d88",
+      "player_url": "https://www.capoplay.net/ligadecampeones2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Bundesliga: Borussia Monchengladbach vs Stuttgart",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 29",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjkucGhw&h=d7c518cc31dcb043ff1d377e906e872e",
+      "player_url": "https://voodc.com/embed/85818c9a9f8c9a88847a859aa18d988b8b.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Bundesliga: Borussia Monchengladbach vs Stuttgart",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 30 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzAucGhw&h=3a5844ebcccd22fd7224d97643ded814",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espn2",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Bundesliga: Borussia Monchengladbach vs Stuttgart",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 31 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzEucGhw&h=17ef346a6be0e2eb901d1dbc90bf5ed2",
+      "player_url": "https://streamvv33.lat/global1.php?channel=disney10",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTUucGhw&h=69b3e4b4902b39076f4046b629cd7a25",
+      "player_url": "https://rereyano.ru/player/capo/71",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTYucGhw&h=89e393ba6a440614762e0d5768cf7cfc",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espnplus3",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTcucGhw&h=bed9f51ff07da9e995863c213ec8e670",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espndeportes",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTgucGhw&h=d7e74565ce656bdb751a5be7daf4f971",
+      "player_url": "https://voodc.com/embed/85818c9a9f8c9d85847a85979e8c9885847a.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMy5waHA&h=7122a93bc91e62588201057d35eb5fd8",
+      "player_url": "https://www.capoplay.net/canal3.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Barcelona vs Real Oviedo",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNC5waHA&h=a6efff438f2994181bc46e454f73ba9c",
+      "player_url": "https://streamvv33.lat/global1.php?channel=skylaliga",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga 2: Eibar vs Almeria",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Deportes Plus",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2RlcG9ydGVzcGx1cy5waHA&h=f0d281d530d9595f802d628ca7a2a2a8",
+      "player_url": "https://www.capoplay.net/deportesplus.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga 2: Eibar vs Almeria",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 32",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzIucGhw&h=a75fd1d3e659eb3ac94a8fe200a1303f",
+      "player_url": "https://voodc.com/embed/85818c9a9f8c9d85847a85979e8d9885847b.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "LaLiga 2: Eibar vs Almeria",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 33 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzMucGhw&h=f2b5dc2952521e486be665a47a3988fd",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=laligahypermotion",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "LaLiga 2: Eibar vs Almeria",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 34 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzQucGhw&h=1aa30910f3b0e49c3895d9ccd968192c",
+      "player_url": "https://streamvv33.lat/global1.php?channel=hyper1",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Liga Portugal: Nacional vs Rio Ave",
+      "event_time": "10:30:00",
+      "sport": "",
+      "canal_name": "Canal 35",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzUucGhw&h=4191bb8692311e1284b88eb034437f0c",
+      "player_url": "https://voodc.com/embed/85818c9a9f8c9e8d847a85979f8f9885857d.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga Portugal: Nacional vs Rio Ave",
+      "event_time": "10:30:00",
+      "sport": "",
+      "canal_name": "Canal 36",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzYucGhw&h=35bf8ce9b67276ad5ef51a6934805cfe",
+      "player_url": "https://dairytissue.rest/embed/xt4p2tyjgzsp4t",
+      "player_domain": "dairytissue.rest"
+    },
+    {
+      "event_title": "Eredivisie: Feyenoord Rotterdam vs Heracles Almelo",
+      "event_time": "10:45:00",
+      "sport": "",
+      "canal_name": "Liga de Campeones 4",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lczQucGhw&h=ca960a97bf4c5a9b4e2dd9a0c9b2f306",
+      "player_url": "https://www.capoplay.net/ligadecampeones4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Eredivisie: Feyenoord Rotterdam vs Heracles Almelo",
+      "event_time": "10:45:00",
+      "sport": "",
+      "canal_name": "Canal 37",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzcucGhw&h=645196bb84ea96740b1378179b6d34a5",
+      "player_url": "https://rereyano.ru/player/capo/90",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Eredivisie: Feyenoord Rotterdam vs Heracles Almelo",
+      "event_time": "10:45:00",
+      "sport": "",
+      "canal_name": "Canal 38 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzgucGhw&h=a1e5dc883fc58cbe43e550be5ed7b331",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espn4",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Eredivisie: Feyenoord Rotterdam vs Heracles Almelo",
+      "event_time": "10:45:00",
+      "sport": "",
+      "canal_name": "Canal 39 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzkucGhw&h=e02817ff7c13b6e8a661460b717e9b08",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espn3mx",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Ligue 1: Metz vs Olympique Lyon",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Liga de Campeones 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lczMucGhw&h=06d87415e66520b1f491b4665e6e60c9",
+      "player_url": "https://www.capoplay.net/ligadecampeones3.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Ligue 1: Metz vs Olympique Lyon",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 40",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDAucGhw&h=ee41162d1723785096382f7cdd5f13ca",
+      "player_url": "https://rereyano.ru/player/capo/89",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Ligue 1: Metz vs Olympique Lyon",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 41 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDEucGhw&h=c67587190c45ac0362cc9bab7b98092e",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espn3",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Ligue 1: Metz vs Olympique Lyon",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 42 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDIucGhw&h=45684dcf49a9e0c1637ac2191a21c4c9",
+      "player_url": "https://streamvv33.lat/global1.php?channel=foxone7",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Ligue 1: Brest vs Toulouse",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 43",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDMucGhw&h=00c35b8c7fda05cf08e9ca3c046aec5f",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=disney12",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Ligue 1: Brest vs Toulouse",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 44",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDQucGhw&h=87de6a8832731fd1d844d509bb4aac29",
+      "player_url": "https://streamvv33.lat/global1.php?channel=foxone3",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Ligue 1: Paris FC vs Angers",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 45",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDUucGhw&h=041495717399a67c9d0044e13bb4df45",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=disney14",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Ligue 1: Paris FC vs Angers",
+      "event_time": "11:15:00",
+      "sport": "",
+      "canal_name": "Canal 46",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDYucGhw&h=a0f4fd58b5c77e1b2aaeff02a2ea2f83",
+      "player_url": "https://streamvv33.lat/global1.php?channel=foxone7",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Manchester United",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczIucGhw&h=d69783614bbddea4475899b36820a533",
+      "player_url": "https://www.capoplay.net/capodeportes2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Manchester United",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI1LnBocA&h=c8e2b2348c2942af4324d92f0faa5bec",
+      "player_url": "https://rereyano.ru/player/capo/87",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Manchester United",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI2LnBocA&h=5362c7913c60f6bd9c05a2affa2f30e6",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espn",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Manchester United",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI3LnBocA&h=03afe8fc9e7b38a1926249e8af62e4dc",
+      "player_url": "https://streamvv33.lat/global1.php?channel=disney15",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Manchester United",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI4LnBocA&h=7963f7c6436d8fba24f2ab364e02a34c",
+      "player_url": "https://voodc.com/embed/85818c9a9e90a286847a85959c8898898881.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Manchester United",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNS5waHA&h=8b2d7162f60ed447a5f4aa71990db147",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=max3",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Bundesliga: Freiburg vs Cologne",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 47",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDcucGhw&h=3879548054e2985fd299b3610e09de28",
+      "player_url": "https://voodc.com/embed/85818c9a9f8ca18a847a8597a28a9885887e.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Bundesliga: Freiburg vs Cologne",
+      "event_time": "11:30:00",
+      "sport": "",
+      "canal_name": "Canal 48 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDgucGhw&h=7ae592fadba0cc4a579f98c7c98672f9",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=disney16",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Napoli",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczMucGhw&h=6a839b0983c0dc523634788c6a19ec4e",
+      "player_url": "https://www.capoplay.net/capodeportes3.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Napoli",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTEucGhw&h=20abbb41528fb0d840e149c7f21de686",
+      "player_url": "https://rereyano.ru/player/capo/88",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Napoli",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTIucGhw&h=7cfb9567dcafaa276628576d090dc9b2",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espn2",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Napoli",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTMucGhw&h=fc26397763d2aa3512c4ce588d6ccd9e",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espnmx",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Napoli",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTQucGhw&h=57f01032f260002d120e3b3887ba44e9",
+      "player_url": "https://voodc.com/embed/85818c9a9d90a089847a85989e8b98858883.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Napoli",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMS5waHA&h=24fecbf55103c2c62ee9a59e2ba299b4",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=disney17",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Super Lig: Fenerbahce vs Goztepe",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 50",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNTAucGhw&h=f8079e68c115e0f8a06476374c900216",
+      "player_url": "https://voodc.com/embed/85818c9a9e90a286847a8595a48c98898a82.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Super Lig: Fenerbahce vs Goztepe",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://rereyano.ru/player/capo/100",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Celta Vigo",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTEucGhw&h=b0ef3e6f9c9115a641738bda1b0e86a6",
+      "player_url": "https://rereyano.ru/player/capo/87",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Celta Vigo",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTIucGhw&h=d57827d5a1250683c2c4832571b66c15",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=espn",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Celta Vigo",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTMucGhw&h=95c2a5933d96da532910d5931150db11",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espndeportes",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Celta Vigo",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTQucGhw&h=c7abb18b53521018dce1ab43d109b465",
+      "player_url": "https://voodc.com/embed/85818c9a9f8b9f84847a859a9e8b988889.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Celta Vigo",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMi5waHA&h=f75b2135b0ab0a8e03438a2b6a2072ff",
+      "player_url": "https://streamvv33.lat/global1.php?channel=max2",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga 2: Real Zaragoza vs Castellon",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 7",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtpcloud.com/global1.php?stream=disney1",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "LaLiga 2: Real Zaragoza vs Castellon",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espn4mx",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga 2: Real Zaragoza vs Castellon",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 9 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://rereyano.ru/player/capo/90",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Riyadh vs Al Hilal",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 10",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTAucGhw&h=e99e43f33ef3b85896d78aef444a5076",
+      "player_url": "https://streamtpcloud.com/global1.php?stream=espn4",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Riyadh vs Al Hilal",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 11",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTEucGhw&h=8d4dfdcff350e6a92d57199a948c3bd9",
+      "player_url": "https://streamvv33.lat/global1.php?channel=disney2",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Liga Portugal: Benfica vs Estrela",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 12",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTIucGhw&h=b0ed027365906d3ec475726d6f024d9f",
+      "player_url": "https://voodc.com/embed/85818c9a9f8b9f84847a859a9e8c98888a.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga Portugal: Benfica vs Estrela",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 13",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTMucGhw&h=97fa912dd2629032539a6593804e1a29",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=laligahypermotion",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Campeonato Paulista: Santos FC vs Red Bull Bragantino",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 14",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTQucGhw&h=b7ea7f2fecdefda68283a02ac512905a",
+      "player_url": "https://streamvv33.lat/global1.php?channel=hyper1",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Campeonato Paulista: Santos FC vs Red Bull Bragantino",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 15",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTUucGhw&h=152c2b6230598eda30def4476ff456ee",
+      "player_url": "https://voodc.com/embed/85818c9a9f8ba28a847a859aa08b988a87.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Amistoso Internacional: Bolivia vs Mexico",
+      "event_time": "14:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczQucGhw&h=80d7aef8df77bd3ffb7e5d370dcf6ca5",
+      "player_url": "https://www.capoplay.net/capodeportes4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Amistoso Internacional: Bolivia vs Mexico",
+      "event_time": "14:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDEucGhw&h=c4187489129a864b5007f184a2ae5dd2",
+      "player_url": "https://rereyano.ru/player/capo/68",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Amistoso Internacional: Bolivia vs Mexico",
+      "event_time": "14:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDIucGhw&h=153faedf1f944248a5631a4b4d27608a",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=tudn_usa",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Amistoso Internacional: Bolivia vs Mexico",
+      "event_time": "14:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDMucGhw&h=2107450307cc6e43736a04f5c1b08472",
+      "player_url": "https://streamvv33.lat/global1.php?channel=azteca7",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Amistoso Internacional: Bolivia vs Mexico",
+      "event_time": "14:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDQucGhw&h=329455046283ccee94280745d0e3a9ac",
+      "player_url": "https://voodc.com/embed/85818c9a9d8a9984847a8595a2909886867d.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Serie A: AS Roma vs AC Milan",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTUucGhw&h=18b4dc98e2182fd733480989980d59d4",
+      "player_url": "https://voodc.com/embed/85818c9a9f879b8c847a85969f8f988a857d.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Serie A: AS Roma vs AC Milan",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTYucGhw&h=6e6aab41b9edfdf41bc7bf06d24c4e18",
+      "player_url": "https://streamtpcloud.com/global2.php?stream=liga1max",
+      "player_domain": "streamtpcloud.com"
+    },
+    {
+      "event_title": "Serie A: AS Roma vs AC Milan",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTcucGhw&h=d5397a6557e4ad3731cf86d9688fcff6",
+      "player_url": "https://streamvv33.lat/global1.php?channel=liga1max",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Serie A: AS Roma vs AC Milan",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTgucGhw&h=640cb6b687029848608dd1dc1f5b78b7",
+      "player_url": "https://www.capoplay.net/seriea8.php",
+      "player_domain": "www.capoplay.net"
+    }
+  ]
+}
