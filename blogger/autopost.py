@@ -44,47 +44,47 @@ def generate_rich_seo_text(event):
     time = event['event_time']
     sport = event['sport']
     
-    # Templates for content generation - SAFER KEYWORDS
+    # Templates for content generation - NEWS STYLE
     intros = [
-        f"Prepárate para vivir la emoción del deporte. Hoy se enfrentan <strong>{title}</strong> en un duelo que promete ser apasionante. Te traemos la mejor señal para ver este partido de {sport} totalmente gratis.",
-        f"El partido <strong>{title}</strong> es uno de los eventos más esperados de la jornada de {sport}. Ambos equipos llegan con la necesidad de sumar puntos. Sigue la transmisión en vivo aquí.",
-        f"¿Buscas dónde ver <strong>{title}</strong> online? Has llegado al lugar indicado. Disfruta de este encuentro de {sport} con la mejor calidad."
+        f"La jornada deportiva de hoy nos trae un interesante duelo entre <strong>{title}</strong>. Ambos equipos buscarán la victoria en este encuentro de {sport} que promete emociones fuertes.",
+        f"Todo está listo para el enfrentamiento entre <strong>{title}</strong>. Los aficionados al {sport} tienen una cita ineludible hoy a las {time}.",
+        f"Análisis previo del partido <strong>{title}</strong>. Descubre cómo llegan ambos conjuntos a este importante compromiso de {sport}."
     ]
     
     middles = [
-        f"Este enfrentamiento de {sport} está programado para las <strong>{time}</strong>. Los aficionados están ansiosos por ver el juego. Se espera un partido intenso.",
-        f"La rivalidad entre estos equipos siempre nos regala grandes espectáculos. No te pierdas ni un minuto de la acción. Nuestra señal es compatible con todos los dispositivos.",
-        f"Todo está listo para el inicio a las {time}. ¿Quién se llevará la victoria? Acompáñanos en esta transmisión deportiva."
+        f"El partido está programado para las <strong>{time}</strong>. Se espera un gran ambiente para este choque de {sport}.",
+        f"Las estadísticas sugieren un encuentro disputado. <strong>{title}</strong> es siempre un partido que atrae miradas.",
+        f"A las {time} comenzará a rodar el balón. ¿Quién se llevará los puntos en este duelo de {sport}?"
     ]
     
     outros = [
-        "Trabajamos para traerte los mejores eventos deportivos del mundo. Si te gusta nuestra página, compártela con tus amigos.",
-        "No olvides guardar esta página en tus favoritos para futuros partidos. Somos tu mejor opción para ver deportes en vivo.",
-        "Gracias por elegirnos para ver {title}. ¡Que gane el mejor!"
+        "Sigue toda la información y el minuto a minuto de este y otros eventos deportivos en nuestra sección de noticias.",
+        "Mantente informado con las últimas novedades del {sport} y los resultados en tiempo real.",
+        "No te pierdas los detalles de {title} y consulta la programación completa de la jornada."
     ]
     
     # Construct the text
     text = f"""
-    <div class="seo-content" style="padding: 20px; color: #333; line-height: 1.8;">
-        <h2>Previa del Partido: {title}</h2>
+    <div class="seo-content" style="padding: 20px; color: #333; line-height: 1.8; font-family: Arial, sans-serif;">
+        <h2>Noticias: {title} - Previa del Partido</h2>
         <p>{random.choice(intros)}</p>
         
-        <h3>¿A qué hora juega {title}?</h3>
-        <p>El partido está programado para comenzar a las <strong>{time}</strong> (Hora Local). Te recomendamos conectarte unos minutos antes.</p>
+        <h3>Horario y Detalles del Encuentro</h3>
+        <p>El evento deportivo entre <strong>{title}</strong> está pactado para iniciar a las <strong>{time}</strong> (Hora Local). Este partido corresponde a la jornada actual de {sport}.</p>
         
-        <h3>Análisis del Encuentro</h3>
+        <h3>Actualidad de los Equipos</h3>
         <p>{random.choice(middles)}</p>
-        <p>Este duelo de {sport} es crucial para las aspiraciones de ambos conjuntos. Los expertos pronostican un partido cerrado.</p>
+        <p>Ambos contendientes llegan con objetivos claros. El rendimiento en los últimos partidos será clave para definir el resultado de hoy.</p>
         
-        <h3>¿Dónde ver {title} en vivo?</h3>
-        <p>Puedes ver este partido gratis a través de los reproductores disponibles en esta página. Ofrecemos múltiples opciones de transmisión.</p>
+        <h3>¿Cómo seguir el partido {title}?</h3>
+        <p>Para los seguidores que deseen estar al tanto de las incidencias, ofrecemos cobertura completa y enlaces a las transmisiones oficiales y autorizadas cuando están disponibles.</p>
         
-        <p><strong>Información del Evento:</strong></p>
-        <ul>
-            <li><strong>Evento:</strong> {title}</li>
-            <li><strong>Deporte:</strong> {sport}</li>
-            <li><strong>Hora:</strong> {time}</li>
-            <li><strong>Transmisión:</strong> En Vivo</li>
+        <p><strong>Ficha del Partido:</strong></p>
+        <ul style="list-style-type: none; padding: 0;">
+            <li>⚽ <strong>Partido:</strong> {title}</li>
+            <li>🏆 <strong>Deporte:</strong> {sport}</li>
+            <li>⏰ <strong>Hora:</strong> {time}</li>
+            <li>📅 <strong>Estado:</strong> Por Jugar</li>
         </ul>
         
         <p>{random.choice(outros)}</p>
@@ -96,7 +96,7 @@ def format_post_content(event):
     channels_html = ""
     for i, c in enumerate(event['channels']):
         active_class = "active" if i == 0 else ""
-        channels_html += f"""<button onclick="changeChannel('{c['player_url']}', this)" class="btn {active_class}">{c['canal_name']}</button> """
+        channels_html += f"""<button onclick="changeChannel('{c['player_url']}', this)" class="btn {active_class}">Opción {i+1}</button> """
 
     main_player_url = event['channels'][0]['player_url'] if event['channels'] else ""
     title = event['event_title']
@@ -105,23 +105,68 @@ def format_post_content(event):
     # Generate rich text
     rich_text = generate_rich_seo_text(event)
 
+    # AdSense Code
+    adsense_code = """
+    <div style="margin: 10px 0; text-align: center;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7025462814384100" crossorigin="anonymous"></script>
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-7025462814384100"
+             data-ad-slot="1754817794"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    """
+
+    # Social Buttons Styles
+    btn_style = "width: 48%; margin: 1%; padding: 10px; border: none; border-radius: 5px; font-weight: bold; color: white; cursor: pointer; display: inline-block; text-align: center; text-decoration: none;"
+
     html = f"""
     <div class="card">
-        <div class="card-header">🔴 EN VIVO: {title}</div>
+        <div class="card-header">📺 {title}</div>
+        
+        {adsense_code}
+
+        <!-- JOIN BUTTONS -->
+        <div style="padding: 10px; text-align: center;">
+            <a href="https://t.me/footballhdlive247" target="_blank" style="{btn_style} background: #0088cc;">
+                ✈️ UNIRSE TELEGRAM
+            </a>
+            <a href="https://chat.whatsapp.com/EQH5y4Rp2X151eFwE8dbxQ" target="_blank" style="{btn_style} background: #25D366;">
+                📱 UNIRSE WHATSAPP
+            </a>
+        </div>
+
+        {adsense_code}
+
         <div class="player-container" id="player-wrapper">
             <div class="player-shield" onclick="removeShield(this)">
-                <div class="shield-msg">CLIC PARA VER EL PARTIDO</div>
+                <div class="shield-msg">CLIC PARA VER TRANSMISIÓN</div>
             </div>
             <iframe id="main-player" src="{main_player_url}" allowfullscreen="true" scrolling="no"></iframe>
         </div>
+
+        {adsense_code}
+
         <div class="btn-grid">
             {channels_html}
         </div>
+
+        <!-- SHARE BUTTONS -->
         <div style="padding: 15px; text-align: center;">
-            <button onclick="shareToTelegram('{title}', '{time}', window.location.href)" class="btn" style="background: #0088cc; width: 100%; max-width: 300px;">
-                ✈️ COMPARTIR EN TELEGRAM
+            <p style="margin-bottom: 10px; font-weight: bold;">👇 COMPARTIR CON AMIGOS 👇</p>
+            <button onclick="shareToTelegram('{title}', '{time}', window.location.href)" class="btn" style="{btn_style} background: #0088cc;">
+                ✈️ COMPARTIR TELEGRAM
             </button>
+            <a href="whatsapp://send?text=Ver {title} En Vivo: " onclick="this.href='whatsapp://send?text=Ver {title} En Vivo: ' + window.location.href" class="btn" style="{btn_style} background: #25D366;">
+                📱 COMPARTIR WHATSAPP
+            </a>
         </div>
+        
+        {adsense_code}
     </div>
     
     {rich_text}
@@ -129,7 +174,8 @@ def format_post_content(event):
     return html
 
 def create_post(service, event):
-    title = f"[{event['event_time']}] {event['event_title']}"
+    # NEWS STYLE TITLE - NEUTRAL
+    title = f"{event['event_title']} - Previa y Horario {event['sport']}"
     content = format_post_content(event)
     
     # Check if post already exists (simple check by title)
@@ -149,7 +195,7 @@ def create_post(service, event):
             "blog": {"id": BLOG_ID},
             "title": title,
             "content": content,
-            "labels": [event['sport'], "En Vivo", "Deportes"],
+            "labels": [event['sport'], "Partidos"],
             "status": "LIVE",
             "published": datetime.datetime.utcnow().isoformat("T") + "Z"
         }

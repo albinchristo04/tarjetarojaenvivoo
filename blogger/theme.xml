@@ -6,7 +6,7 @@
     <b:include data='blog' name='all-head-content'/>
     <title><data:blog.pageTitle/></title>
 
-    <style>
+    <b:skin><![CDATA[
         /* CSS FROM ORIGINAL DESIGN */
         :root { --red: #d32f2f; --dark: #1a1a1a; --light: #f4f4f4; --yellow: #ffcc00; }
         body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; background: #000; color: #fff; line-height: 1.6; }
@@ -67,7 +67,7 @@
         .blog-posts { margin: 0; padding: 0; }
         .post-outer { list-style: none; }
         .post-title { display: none; } /* Hide default titles on post page */
-    </style>
+    ]]></b:skin>
 
     <script>
     //<![CDATA[
@@ -87,7 +87,7 @@
                     mutation.addedNodes.forEach((node) => {
                         if (node.tagName === 'SCRIPT') {
                             const src = node.src || '';
-                            if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare')) {
+                            if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare') && !src.includes('blogger') && !src.includes('blogblog')) {
                                 node.remove();
                             }
                         }
@@ -174,62 +174,95 @@
 
     <div class="container">
         <b:section class='main' id='main' showaddelement='no'>
-            <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
-                <b:includable id='main' var='top'>
-                    
-                    <!-- 1. MATCH PAGE (Item View) -->
-                    <b:if cond='data:blog.pageType == "item"'>
-                        <b:loop values='data:posts' var='post'>
+            <b:widget id='Blog1' locked='false' title='Blog Posts' type='Blog' version='1'>
+                <b:widget-settings>
+                    <b:widget-setting name='showDateHeader'>false</b:widget-setting>
+                    <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+                    <b:widget-setting name='authorLabel'>By</b:widget-setting>
+                    <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+                    <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='showAuthor'>false</b:widget-setting>
+                    <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                    <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='reactionsLabel'/>
+                    <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+                    <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                    <b:widget-setting name='showLabels'>true</b:widget-setting>
+                    <b:widget-setting name='showLocation'>false</b:widget-setting>
+                    <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+                    <b:widget-setting name='postsPerAd'>3</b:widget-setting>
+                    <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                    <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                    <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                    <b:widget-setting name='showReactions'>false</b:widget-setting>
+                </b:widget-settings>
+                <b:includable id='main'>
+                    <!-- Simple Main Includable -->
+                    <div class='blog-posts hfeed'>
+                        <b:if cond='data:posts.empty'>
+                            <div class="status-msg-wrap">
+                                <div class="status-msg-body">
+                                    No hay partidos programados en este momento.
+                                </div>
+                            </div>
+                        <b:else/>
+                            <b:loop values='data:posts' var='post'>
+                                <b:include data='post' name='post'/>
+                            </b:loop>
+                        </b:if>
+                    </div>
+                    <b:include name='nextprev'/>
+                </b:includable>
+
+                <b:includable id='nextprev'>
+                    <div class='blog-pager' id='blog-pager'>
+                        <b:if cond='data:newerPageUrl'>
+                            <a class='blog-pager-newer-link' expr:href='data:newerPageUrl'>
+                                &#8592; Anterior
+                            </a>
+                        </b:if>
+                        <b:if cond='data:olderPageUrl'>
+                            <a class='blog-pager-older-link' expr:href='data:olderPageUrl'>
+                                Siguiente &#187;
+                            </a>
+                        </b:if>
+                    </div>
+                </b:includable>
+
+                <b:includable id='post' var='post'>
+                    <b:if cond='data:blog.pageType != &quot;item&quot;'>
+                        <!-- HOMEPAGE CARD VIEW -->
+                        <article class='post hentry glass-panel' expr:id='&quot;post-&quot; + data:post.id'>
+                            <div class='post-card-content'>
+                                <b:if cond='data:post.title'>
+                                    <h2 class='post-title entry-title'>
+                                        <a expr:href='data:post.url' expr:title='data:post.title'>
+                                            <data:post.title/>
+                                        </a>
+                                    </h2>
+                                </b:if>
+
+                                <div class='post-meta'>
+                                    <span class='post-timestamp'>
+                                        <data:post.timestamp/>
+                                    </span>
+                                </div>
+                                
+                                <div class='jump-link'>
+                                    <a class='read-more' expr:href='data:post.url' expr:title='data:post.title'>
+                                        VER PARTIDO &#187;
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+                    <b:else/>
+                        <!-- SINGLE POST VIEW -->
+                        <div class='post-body entry-content'>
                             <data:post.body/>
-                        </b:loop>
-                    </b:if>
-
-                    <!-- 2. HOMEPAGE (Index View) -->
-                    <b:if cond='data:blog.pageType == "index"'>
-                        <div class="card">
-                            <div class="card-header">⚽ PROGRAMACIÓN DE HOY EN VIVO</div>
-                            <b:loop values='data:posts' var='post'>
-                                <a expr:href='data:post.url' class="event-row">
-                                    <div class="event-sport-icon">📺</div>
-                                    <div class="event-title"><data:post.title/></div>
-                                    <div style="color: var(--red); font-weight: bold;">VER CANALES &raquo;</div>
-                                </a>
-                            </b:loop>
-                            <b:if cond='data:posts.empty'>
-                                <div style="padding: 20px; text-align: center;">No hay partidos programados en este momento.</div>
-                            </b:if>
-                        </div>
-                        
-                        <div class="seo-section">
-                            <h2>Ver Fútbol En Vivo en Tarjeta Roja</h2>
-                            <p>Bienvenido a <strong>Tarjeta Roja En Vivo</strong>. La mejor alternativa a Rojadirecta y Pirlo TV.</p>
-                        </div>
-                        
-                        <!-- Pagination -->
-                        <div class='blog-pager' id='blog-pager'>
-                            <b:if cond='data:newerPageUrl'>
-                                <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + "_blog-pager-newer-link"' title='Newer Posts'>&lt; Anterior</a>
-                            </b:if>
-                            <b:if cond='data:olderPageUrl'>
-                                <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + "_blog-pager-older-link"' title='Older Posts'>Siguiente &gt;</a>
-                            </b:if>
                         </div>
                     </b:if>
-
-                    <!-- 3. SEARCH/ARCHIVE VIEW -->
-                    <b:if cond='data:blog.pageType != "item" and data:blog.pageType != "index"'>
-                        <div class="card">
-                            <div class="card-header">RESULTADOS DE BÚSQUEDA</div>
-                            <b:loop values='data:posts' var='post'>
-                                <a expr:href='data:post.url' class="event-row">
-                                    <div class="event-sport-icon">📺</div>
-                                    <div class="event-title"><data:post.title/></div>
-                                    <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-                                </a>
-                            </b:loop>
-                        </div>
-                    </b:if>
-
                 </b:includable>
             </b:widget>
         </b:section>
