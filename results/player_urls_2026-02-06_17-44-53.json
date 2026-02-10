@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Saudi Pro League: Al Nassr vs Al Ittihad",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Capo Deportes",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://dishtrainer.net/embed/o7ft3fp",
+      "player_domain": "dishtrainer.net"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Nassr vs Al Ittihad",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://rereyano.ru/player/capo/70",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Nassr vs Al Ittihad",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtp10.com/global2.php?stream=fox_deportes_usa",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Nassr vs Al Ittihad",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamx10.cloud/global1.php?channel=foxone1",
+      "player_domain": "streamx10.cloud"
+    }
+  ]
+}

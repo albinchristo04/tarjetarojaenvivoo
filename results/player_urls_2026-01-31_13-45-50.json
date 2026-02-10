@@ -1,0 +1,96 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 10,
+  "events": [
+    {
+      "event_title": "LaLiga: Real Oviedo vs Girona",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Real Oviedo vs Girona",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTEucGhw&h=b0ef3e6f9c9115a641738bda1b0e86a6",
+      "player_url": "https://rereyano.ru/player/capo/94",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "LaLiga: Real Oviedo vs Girona",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTIucGhw&h=d57827d5a1250683c2c4832571b66c15",
+      "player_url": "https://streamtp10.com/global2.php?stream=espnplus1",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "LaLiga: Real Oviedo vs Girona",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTMucGhw&h=95c2a5933d96da532910d5931150db11",
+      "player_url": "https://streamvv33.lat/global1.php?channel=dsports",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "LaLiga: Real Oviedo vs Girona",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTQucGhw&h=c7abb18b53521018dce1ab43d109b465",
+      "player_url": "https://www.capoplay.net/laliga4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Real Oviedo vs Girona",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMS5waHA&h=24fecbf55103c2c62ee9a59e2ba299b4",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espndeportes",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Serie A: Pisa vs Sassuolo",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Capo Deportes 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczYucGhw&h=f099547c93114279b102c344ac9c0cc9",
+      "player_url": "https://www.capoplay.net/capodeportes6.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Serie A: Pisa vs Sassuolo",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://rereyano.ru/player/capo/97",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Serie A: Pisa vs Sassuolo",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney2",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Serie A: Pisa vs Sassuolo",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espnmx",
+      "player_domain": "streamvv33.lat"
+    }
+  ]
+}

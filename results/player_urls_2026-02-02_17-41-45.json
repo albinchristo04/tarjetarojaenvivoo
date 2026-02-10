@@ -1,0 +1,60 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 6,
+  "events": [
+    {
+      "event_title": "Saudi Pro League: Al Riyadh vs Al Nassr",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Capo Deportes",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Riyadh vs Al Nassr",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://rereyano.ru/player/capo/70",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Riyadh vs Al Nassr",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtp10.com/global2.php?stream=fox_deportes_usa",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Saudi Pro League: Al Riyadh vs Al Nassr",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamvv33.lat/global1.php?channel=foxone1",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Super Lig: Kocaelispor vs Fenerbahce",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 9",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney1",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Super Lig: Kocaelispor vs Fenerbahce",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 10",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTAucGhw&h=e99e43f33ef3b85896d78aef444a5076",
+      "player_url": "https://streamvv33.lat/global1.php?channel=fox2ar",
+      "player_domain": "streamvv33.lat"
+    }
+  ]
+}

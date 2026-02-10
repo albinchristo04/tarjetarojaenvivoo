@@ -1,0 +1,456 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 50,
+  "events": [
+    {
+      "event_title": "Liga de Colombia: Aguilas Doradas vs Deportivo Cali",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Win Sports +",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3dpbnNwb3J0c3BsdXMucGhw&h=ddd5ac0ec8a644e48870d29ee3462b95",
+      "player_url": "https://www.capoplay.net/winsportsplus.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga de Colombia: Aguilas Doradas vs Deportivo Cali",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 41",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDEucGhw&h=c67587190c45ac0362cc9bab7b98092e",
+      "player_url": "https://voodc.com/embed/85818c9aa3899988847a8597a38f98858580.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Aguilas Doradas vs Deportivo Cali",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 42 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDIucGhw&h=45684dcf49a9e0c1637ac2191a21c4c9",
+      "player_url": "https://streamtp10.com/global2.php?stream=winplus2",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Aguilas Doradas vs Deportivo Cali",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 43 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDMucGhw&h=00c35b8c7fda05cf08e9ca3c046aec5f",
+      "player_url": "https://streamvv33.lat/global1.php?channel=winplus",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Liga de Argentina: Belgrano vs Tigre",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "ESPN Premium",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2VzcG5wcmVtaXVtLnBocA&h=64fbcab50fd52b891eb829cf8b193542",
+      "player_url": "https://www.capoplay.net/espnpremium.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga de Argentina: Belgrano vs Tigre",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 44",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDQucGhw&h=87de6a8832731fd1d844d509bb4aac29",
+      "player_url": "https://voodc.com/embed/85818c9aa3899d8d847a8597a48d9885867e.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Belgrano vs Tigre",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 45 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDUucGhw&h=041495717399a67c9d0044e13bb4df45",
+      "player_url": "https://streamtp10.com/global2.php?stream=espnpremium",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Belgrano vs Tigre",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 46 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDYucGhw&h=a0f4fd58b5c77e1b2aaeff02a2ea2f83",
+      "player_url": "https://streamvv33.lat/global1.php?channel=espnpremium",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Liga de Argentina: Lanus vs Union Santa Fe",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "TNT Sports Argentina",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3RudGFyZ2VudGluYS5waHA&h=708bb9e6b73816794f0f1a3dc9eea741",
+      "player_url": "https://www.capoplay.net/tntargentina.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga de Argentina: Lanus vs Union Santa Fe",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 47",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDcucGhw&h=3879548054e2985fd299b3610e09de28",
+      "player_url": "https://voodc.com/embed/85818c9aa3899d8d847a8597a48e9885867f.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Lanus vs Union Santa Fe",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 48 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDgucGhw&h=7ae592fadba0cc4a579f98c7c98672f9",
+      "player_url": "https://streamtp10.com/global2.php?stream=tycinternacional",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Lanus vs Union Santa Fe",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 49 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDkucGhw&h=fc87904da4da9d79b2ebfb0612771136",
+      "player_url": "https://streamvv33.lat/global1.php?channel=tntar",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Brasileirao: Mirassol vs Vasco da Gama",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Capo Deportes 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczIucGhw&h=d69783614bbddea4475899b36820a533",
+      "player_url": "https://www.capoplay.net/capodeportes2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Brasileirao: Mirassol vs Vasco da Gama",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://dairytissue.rest/embed/qyuasy56q",
+      "player_domain": "dairytissue.rest"
+    },
+    {
+      "event_title": "Brasileirao: Mirassol vs Vasco da Gama",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtp10.com/global2.php?stream=premiere1",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Brasileirao: Mirassol vs Vasco da Gama",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://voodc.com/embed/85818c9aa389a08a847a85989d8b9885887a.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Internacional de Bogota",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 9",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://voodc.com/embed/85818c9aa389a186847a85989d8d9885887c.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Internacional de Bogota",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 10 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTAucGhw&h=e99e43f33ef3b85896d78aef444a5076",
+      "player_url": "https://streamtp10.com/global2.php?stream=winplus2",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Internacional de Bogota",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 11 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTEucGhw&h=8d4dfdcff350e6a92d57199a948c3bd9",
+      "player_url": "https://streamvv33.lat/global1.php?channel=winplus",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "NBA: Philadelphia 76ers vs Sacramento Kings",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 12",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTIucGhw&h=b0ed027365906d3ec475726d6f024d9f",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9a86847a85959c8b98858981.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Philadelphia 76ers vs Sacramento Kings",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 13",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTMucGhw&h=97fa912dd2629032539a6593804e1a29",
+      "player_url": "https://rereyano.ru/player/capo/175",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "NBA: Washington Wizards vs Milwaukee Bucks",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Capo Deportes",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "NBA: Washington Wizards vs Milwaukee Bucks",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 14",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTQucGhw&h=b7ea7f2fecdefda68283a02ac512905a",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9a86847a85959c889885897e.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Washington Wizards vs Milwaukee Bucks",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 15 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTUucGhw&h=152c2b6230598eda30def4476ff456ee",
+      "player_url": "https://streamvv33.lat/global1.php?channel=amazon1",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "NBA: Washington Wizards vs Milwaukee Bucks",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 16 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTYucGhw&h=fb060ee742ab16197ce20f33103140d9",
+      "player_url": "https://streamtp10.com/global2.php?stream=nba1",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Sarmiento vs Banfield",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 17",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTcucGhw&h=af9bb50ecb2958acd696945b8f53e378",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9c84847a8595a2889886857b.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Sarmiento vs Banfield",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 18 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTgucGhw&h=221f30614159aba8f589624d1dd986bf",
+      "player_url": "https://streamtp10.com/global2.php?stream=espnpremium",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Sarmiento vs Banfield",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 19 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTkucGhw&h=0b1db91b371beae6abd575c4adca1389",
+      "player_url": "https://streamtp10.com/global2.php?stream=tycinternacional",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Rio Cuarto vs Argentinos Jrs",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 20",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjAucGhw&h=5b57c114418bd17df2a6d1f676a64d0a",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9c84847a8595a2879886857a.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Rio Cuarto vs Argentinos Jrs",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 21 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjEucGhw&h=46e34aa930522dedb83a508f4add55ac",
+      "player_url": "https://streamtp10.com/global2.php?stream=tntar",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Rio Cuarto vs Argentinos Jrs",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 22 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjIucGhw&h=ab522f97a0e179dabfd4a828d6aa86e4",
+      "player_url": "https://streamtp10.com/global2.php?stream=tntsports",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Brasileirao: Botafogo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Capo Deportes 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczMucGhw&h=6a839b0983c0dc523634788c6a19ec4e",
+      "player_url": "https://www.capoplay.net/capodeportes3.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Brasileirao: Botafogo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 23",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjMucGhw&h=3ab5b143324e19f74741e8bd5dcc13e3",
+      "player_url": "https://dairytissue.rest/embed/57g57feq",
+      "player_domain": "dairytissue.rest"
+    },
+    {
+      "event_title": "Brasileirao: Botafogo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 24 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjQucGhw&h=54eeea4a0b57b8ef0ad1109e8e3518be",
+      "player_url": "https://streamvv33.lat/global1.php?channel=amazon2",
+      "player_domain": "streamvv33.lat"
+    },
+    {
+      "event_title": "Brasileirao: Botafogo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 25 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjUucGhw&h=2f79fd69daa977dbe98ed4e5f93e5e9a",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9c84847a8595a2899886857c.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Atlanta Hawks vs Houston Rockets",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 26",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjYucGhw&h=8b0561d9bb5ff016adcb4f639cc28e42",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9d8c847a8595a28c98868580.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Atlanta Hawks vs Houston Rockets",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 27",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjcucGhw&h=c7b418dcefcc3cc5e35a32603073b99b",
+      "player_url": "https://rereyano.ru/player/capo/177",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "NBA: Chicago Bulls vs Miami Heat",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 28",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjgucGhw&h=18ceee824ea2f7d1f36994e6fb84ce71",
+      "player_url": "https://voodc.com/embed/85818c9aa38a9d8c847a8595a28e98868582.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Chicago Bulls vs Miami Heat",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 29",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjkucGhw&h=d7c518cc31dcb043ff1d377e906e872e",
+      "player_url": "https://rereyano.ru/player/capo/178",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Liga de Colombia: America de Cali vs Once Caldas",
+      "event_time": "20:20:00",
+      "sport": "",
+      "canal_name": "Canal 30",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzAucGhw&h=3a5844ebcccd22fd7224d97643ded814",
+      "player_url": "https://voodc.com/embed/85818c9aa3889f8c847a8597a18c988d87.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "Liga de Colombia: America de Cali vs Once Caldas",
+      "event_time": "20:20:00",
+      "sport": "",
+      "canal_name": "Canal 31 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzEucGhw&h=17ef346a6be0e2eb901d1dbc90bf5ed2",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney10",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Liga de Colombia: America de Cali vs Once Caldas",
+      "event_time": "20:20:00",
+      "sport": "",
+      "canal_name": "Canal 32 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzIucGhw&h=a75fd1d3e659eb3ac94a8fe200a1303f",
+      "player_url": "https://voodc.com/embed/85818c9aa3889f8c847a8597a190988d8b.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Dallas Mavericks vs Charlotte Hornets",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 33",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzMucGhw&h=f2b5dc2952521e486be665a47a3988fd",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney3",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "NBA: Dallas Mavericks vs Charlotte Hornets",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 34",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzQucGhw&h=1aa30910f3b0e49c3895d9ccd968192c",
+      "player_url": "https://voodc.com/embed/85818c9aa3889f8c847a8597a188988c8d.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Denver Nuggets vs Brooklyn Nets",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 35",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzUucGhw&h=4191bb8692311e1284b88eb034437f0c",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney9",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "NBA: Denver Nuggets vs Brooklyn Nets",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 36",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzYucGhw&h=35bf8ce9b67276ad5ef51a6934805cfe",
+      "player_url": "https://voodc.com/embed/85818c9aa3889f8c847a8597a38798858483.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Phoenix Suns vs Detroit Pistons",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 37",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzcucGhw&h=645196bb84ea96740b1378179b6d34a5",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney7",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "NBA: Phoenix Suns vs Detroit Pistons",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 38",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzgucGhw&h=a1e5dc883fc58cbe43e550be5ed7b331",
+      "player_url": "https://voodc.com/embed/85818c9aa3889f8c847a8597a38a9885857c.html",
+      "player_domain": "voodc.com"
+    },
+    {
+      "event_title": "NBA: Minnesota Timberwolves vs Oklahoma City Thunder",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 39",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzkucGhw&h=e02817ff7c13b6e8a661460b717e9b08",
+      "player_url": "https://streamtp10.com/global2.php?stream=tycinternacional",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "NBA: Minnesota Timberwolves vs Oklahoma City Thunder",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 40 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDAucGhw&h=ee41162d1723785096382f7cdd5f13ca",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney2",
+      "player_domain": "streamtp10.com"
+    }
+  ]
+}
