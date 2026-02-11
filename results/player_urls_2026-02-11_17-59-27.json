@@ -1,0 +1,78 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 8,
+  "events": [
+    {
+      "event_title": "Copa AFC: FK Arkadag vs Al-Nassr",
+      "event_time": "08:45:00",
+      "sport": "",
+      "canal_name": "Capo Deportes",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://capo6play.com/capo.php?player=desktop&live=capodeportes",
+      "player_domain": "capo6play.com"
+    },
+    {
+      "event_title": "Copa AFC: FK Arkadag vs Al-Nassr",
+      "event_time": "08:45:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://rereyano.ru/player/capo/97",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Copa AFC: FK Arkadag vs Al-Nassr",
+      "event_time": "08:45:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtp10.com/global2.php?stream=disney1",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Copa AFC: FK Arkadag vs Al-Nassr",
+      "event_time": "08:45:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamx10.cloud/global1.php?channel=espnmx",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Formula 1: Test de Bahrein (Pretemporada)",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Capo Deportes 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczIucGhw&h=d69783614bbddea4475899b36820a533",
+      "player_url": "https://capo6play.com/capo.php?player=desktop&live=capodeportes2",
+      "player_domain": "capo6play.com"
+    },
+    {
+      "event_title": "Formula 1: Test de Bahrein (Pretemporada)",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 9",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://rereyano.ru/player/capo/87",
+      "player_domain": "rereyano.ru"
+    },
+    {
+      "event_title": "Formula 1: Test de Bahrein (Pretemporada)",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 10 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTAucGhw&h=e99e43f33ef3b85896d78aef444a5076",
+      "player_url": "https://streamtp10.com/global2.php?stream=espn",
+      "player_domain": "streamtp10.com"
+    },
+    {
+      "event_title": "Formula 1: Test de Bahrein (Pretemporada)",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 11 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTEucGhw&h=8d4dfdcff350e6a92d57199a948c3bd9",
+      "player_url": "https://streamx10.cloud/global1.php?channel=espn",
+      "player_domain": "streamx10.cloud"
+    }
+  ]
+}
