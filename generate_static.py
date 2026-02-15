@@ -140,11 +140,11 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
                     mutation.addedNodes.forEach((node) => {{
                         if (node.tagName === 'SCRIPT') {{
                             const src = node.src || '';
-                            if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare')) {{
+                            if (src && !src.includes(window.location.hostname) && !src.includes('google') && !src.includes('cloudflare') && !src.includes('highperformanceformat') && !src.includes('effectivegatecpm')) {{
                                 node.remove();
                             }}
                         }}
-                        if (node.tagName === 'IFRAME' && !node.id.includes('main-player')) {{
+                        if (node.tagName === 'IFRAME' && !node.id.includes('main-player') && !node.closest('.ad-container')) {{
                             node.remove();
                         }}
                     }});
@@ -202,6 +202,19 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
     {schema}
 </head>
 <body>
+    <!-- Top Banner Ad (320x50) -->
+    <div align="center" class="ad-container">
+      <script>
+        atOptions = {{
+          'key' : 'bfc5336b29b89b752c1b8d12eb6f945d',
+          'format' : 'iframe',
+          'height' : 50,
+          'width' : 320,
+          'params' : {{}}
+        }};
+      </script>
+      <script src="https://www.highperformanceformat.com/bfc5336b29b89b752c1b8d12eb6f945d/invoke.js"></script>
+    </div>
     <header>
         <h1>{h1}</h1>
     </header>
@@ -228,6 +241,21 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         <p>TARJETA ROJA | Rojadirecta TV | Pirlo TV | Deportes En Vivo Online Gratis</p>
         <p>&copy; 2025 tarjetarojaenvivo.live - La mejor alternativa para ver fútbol gratis</p>
     </footer>
+    <!-- Bottom Banner Ad (300x250) -->
+    <div align="center" class="ad-container">
+      <script>
+        atOptions = {{
+          'key' : '78e3a616f8000082247c32440d4163a7',
+          'format' : 'iframe',
+          'height' : 250,
+          'width' : 300,
+          'params' : {{}}
+        }};
+      </script>
+      <script src="https://www.highperformanceformat.com/78e3a616f8000082247c32440d4163a7/invoke.js"></script>
+    </div>
+    <!-- Popop Ad -->
+    <script src="https://pl27890594.effectivegatecpm.com/3e/cf/1a/3ecf1aaaddc532721ccb0f176dea9d4c.js"></script>
 </body>
 </html>"""
 
