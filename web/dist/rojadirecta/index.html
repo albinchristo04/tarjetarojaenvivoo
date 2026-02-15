@@ -78,31 +78,82 @@
         .footer-links a { color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }
         @media (max-width: 600px) { .event-row { flex-wrap: wrap; } .event-title { width: 100%; margin-top: 10px; } header h1 { font-size: 20px; } }
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: 'unsafe-inline' 'unsafe-eval'; img-src 'self' data: https:; frame-src https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:;">
-    <!-- Google Analytics (GA4) - Agent 15 -->
+    <!-- Google Analytics (GA4) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JQBNW4FQ3S"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-JQBNW4FQ3S');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JQBNW4FQ3S');
     </script>
+    
+    <style>
+        :root { --red: #d32f2f; --dark: #1a1a1a; --light: #f4f4f4; --yellow: #ffcc00; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; background: #000; color: #fff; line-height: 1.6; }
+        header { background: var(--red); padding: 15px; text-align: center; border-bottom: 3px solid #fff; position: sticky; top: 0; z-index: 1000; }
+        header h1 { margin: 0; font-size: 26px; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
+        nav { background: #333; padding: 10px; text-align: center; overflow-x: auto; white-space: nowrap; }
+        nav a { color: #fff; margin: 0 10px; text-decoration: none; font-weight: bold; font-size: 13px; text-transform: uppercase; }
+        nav a:hover { color: var(--yellow); }
+        .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
+        .card { background: #fff; color: #333; border-radius: 8px; overflow: hidden; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
+        .card-header { background: #333; color: var(--yellow); padding: 15px; font-weight: bold; text-align: center; font-size: 20px; border-bottom: 2px solid var(--red); }
+        .event-row { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; cursor: pointer; }
+        .event-row:hover { background: #f0f0f0; }
+        .event-channels { display: none; background: #f9f9f9; padding: 10px; border-bottom: 1px solid #eee; }
+        .event-channels.active { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
+        .chan-btn { background: var(--red); color: #fff; padding: 8px; border-radius: 4px; text-decoration: none; text-align: center; font-size: 12px; font-weight: bold; }
+        .chan-btn:hover { background: #b71c1c; }
+        .event-time { font-weight: bold; background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; margin-right: 15px; min-width: 60px; text-align: center; }
+        .event-sport-icon { margin-right: 12px; font-size: 20px; }
+        .event-title { flex-grow: 1; font-weight: bold; font-size: 16px; }
+        .player-container { position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; cursor: pointer; }
+        .player-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; z-index: 1; }
+        .player-shield { 
+            position: absolute; 
+            top: 0; 
+            left: 0; 
+            width: 100%; 
+            height: 100%; 
+            z-index: 10; 
+            background: rgba(0,0,0,0.01); 
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            transition: all 0.3s;
+        }
+        .player-shield:hover { background: rgba(0,0,0,0.1); }
+        .shield-msg { 
+            background: var(--red); 
+            color: #fff; 
+            padding: 10px 20px; 
+            border-radius: 30px; 
+            font-weight: bold; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .player-container:hover .shield-msg { opacity: 1; }
+        .btn-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; padding: 20px; background: #1a1a1a; }
+        .btn { background: var(--red); color: #fff; padding: 12px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; text-align: center; transition: background 0.3s; }
+        .btn:hover { background: #b71c1c; }
+        .btn.active { background: var(--yellow); color: #000; }
+        .seo-section { background: #fff; color: #333; padding: 30px; border-radius: 8px; margin-top: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
+        .seo-section h2 { color: var(--red); border-left: 5px solid var(--red); padding-left: 15px; margin-top: 0; }
+        .seo-section h3 { color: #333; margin-top: 25px; }
+        .faq-item { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 15px; }
+        .faq-q { font-weight: bold; color: var(--red); cursor: pointer; }
+        .faq-a { margin-top: 10px; color: #555; }
+        footer { background: var(--red); color: #fff; text-align: center; padding: 30px; margin-top: 50px; border-top: 3px solid #fff; }
+        .footer-links { margin-bottom: 20px; }
+        .footer-links a { color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }
+        @media (max-width: 600px) { .event-row { flex-wrap: wrap; } .event-title { width: 100%; margin-top: 10px; } header h1 { font-size: 20px; } }
     </style>
     <script>
         // 🛡 AGENT 14 — MOBILE POPUP & REDIRECT DEFENSE ENGINE
         (function() {
-            const noop = () => {};
-            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-            
-            // 1. JS API INTERCEPTION
-            window.open = function() { return { focus: noop, close: noop, closed: true }; };
-            
-            // 2. DIALOG & EXIT-TRAP NEUTRALIZATION
-            window.alert = noop;
-            window.confirm = noop;
-            window.prompt = noop;
-            window.onbeforeunload = null;
-
-            // 3. RUNTIME SCRIPT INJECTION BLOCKING
+            // 1. RUNTIME SCRIPT INJECTION BLOCKING
             const observer = new MutationObserver((mutations) => {
                 mutations.forEach((mutation) => {
                     mutation.addedNodes.forEach((node) => {
@@ -120,24 +171,7 @@
             });
             observer.observe(document.documentElement, { childList: true, subtree: true });
 
-            // 4. MOBILE TAP & CLICK HIJACK DEFENSE
-            document.addEventListener('click', function(e) {
-                if (e.target.tagName === 'BODY' || e.target.tagName === 'HTML') {
-                    e.preventDefault();
-                    e.stopPropagation();
-                }
-            }, true);
-
-            if (isMobile) {
-                document.addEventListener('touchstart', function(e) {
-                    const target = document.elementFromPoint(e.touches[0].clientX, e.touches[0].clientY);
-                    if (target && (target.tagName === 'BODY' || target.tagName === 'HTML')) {
-                        e.preventDefault();
-                    }
-                }, { passive: false });
-            }
-
-            // 5. Block postMessage abuse
+            // 2. Block postMessage abuse
             window.addEventListener('message', function(e) {
                 if (e.data && typeof e.data === 'string' && (e.data.includes('open') || e.data.includes('popup'))) {
                     e.stopImmediatePropagation();
@@ -242,6 +276,18 @@
                 <a href="/partido/ligue-1-le-havre-ac-vs-toulouse-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
                 <a href="/partido/ligue-1-le-havre-ac-vs-toulouse-en-vivo" class="chan-btn">Canal 30</a> <a href="/partido/ligue-1-le-havre-ac-vs-toulouse-en-vivo" class="chan-btn">Canal 31</a>
             </div>
+    <div align="center" class="ad-container" style="margin: 15px 0;">
+      <script>
+        atOptions = {
+          'key' : 'bfc5336b29b89b752c1b8d12eb6f945d',
+          'format' : 'iframe',
+          'height' : 50,
+          'width' : 320,
+          'params' : {}
+        };
+      </script>
+      <script src="https://www.highperformanceformat.com/bfc5336b29b89b752c1b8d12eb6f945d/invoke.js"></script>
+    </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-3')">
                 <div class="event-time">09:00:00</div>
                 <div class="event-title">Serie A: Cremonese vs Genoa</div>
@@ -410,6 +456,19 @@
             <p>Disfruta de la mejor calidad, enlaces verificados y una comunidad de miles de usuarios que, al igual que tú, viven la pasión del deporte minuto a minuto.</p>
         </div>
         <div class="paa-section"><h3>Preguntas Frecuentes (PAA)</h3></div></div>
+        <!-- Bottom Banner Ad (300x250) -->
+        <div align="center" class="ad-container" style="margin: 20px 0;">
+          <script>
+            atOptions = {
+              'key' : '78e3a616f8000082247c32440d4163a7',
+              'format' : 'iframe',
+              'height' : 250,
+              'width' : 300,
+              'params' : {}
+            };
+          </script>
+          <script src="https://www.highperformanceformat.com/78e3a616f8000082247c32440d4163a7/invoke.js"></script>
+        </div>
     </div>
     <footer>
         <div class="footer-links">
@@ -423,19 +482,6 @@
         <p>TARJETA ROJA | Rojadirecta TV | Pirlo TV | Deportes En Vivo Online Gratis</p>
         <p>&copy; 2025 tarjetarojaenvivo.live - La mejor alternativa para ver fútbol gratis</p>
     </footer>
-    <!-- Bottom Banner Ad (300x250) -->
-    <div align="center" class="ad-container">
-      <script>
-        atOptions = {
-          'key' : '78e3a616f8000082247c32440d4163a7',
-          'format' : 'iframe',
-          'height' : 250,
-          'width' : 300,
-          'params' : {}
-        };
-      </script>
-      <script src="https://www.highperformanceformat.com/78e3a616f8000082247c32440d4163a7/invoke.js"></script>
-    </div>
     <!-- Popop Ad -->
     <script src="https://pl27890594.effectivegatecpm.com/3e/cf/1a/3ecf1aaaddc532721ccb0f176dea9d4c.js"></script>
 </body>
