@@ -6,6 +6,7 @@
     <title>📺 Rojadirecta TV ⚽ Tarjeta Roja En Vivo | Deportes Online Gratis</title>
     <meta name="description" content="Entra en Rojadirecta TV para ver deportes en directo. Enlaces actualizados de fútbol, NBA y tenis. La alternativa número 1 a Rojadirecta.">
     <link rel="canonical" href="https://www.tarjetarojaenvivo.live/rojadirecta-tv/">
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://www.tarjetarojaenvivo.live/"},{"@type":"ListItem","position":2,"name":"Rojadirecta Tv","item":"https://www.tarjetarojaenvivo.live/rojadirecta-tv/"}]}</script>
     <link rel="icon" href="/favicon.ico">
     
     <!-- Open Graph -->
@@ -15,69 +16,51 @@
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.tarjetarojaenvivo.live/og-image.jpg">
     
-    <style>
-        :root { --red: #d32f2f; --dark: #1a1a1a; --light: #f4f4f4; --yellow: #ffcc00; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; background: #000; color: #fff; line-height: 1.6; }
-        header { background: var(--red); padding: 15px; text-align: center; border-bottom: 3px solid #fff; position: sticky; top: 0; z-index: 1000; }
-        header h1 { margin: 0; font-size: 26px; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
-        nav { background: #333; padding: 10px; text-align: center; overflow-x: auto; white-space: nowrap; }
-        nav a { color: #fff; margin: 0 10px; text-decoration: none; font-weight: bold; font-size: 13px; text-transform: uppercase; }
-        nav a:hover { color: var(--yellow); }
-        .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
-        .card { background: #fff; color: #333; border-radius: 8px; overflow: hidden; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
-        .card-header { background: #333; color: var(--yellow); padding: 15px; font-weight: bold; text-align: center; font-size: 20px; border-bottom: 2px solid var(--red); }
-        .event-row { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; cursor: pointer; }
-        .event-row:hover { background: #f0f0f0; }
-        .event-channels { display: none; background: #f9f9f9; padding: 10px; border-bottom: 1px solid #eee; }
-        .event-channels.active { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
-        .chan-btn { background: var(--red); color: #fff; padding: 8px; border-radius: 4px; text-decoration: none; text-align: center; font-size: 12px; font-weight: bold; }
-        .chan-btn:hover { background: #b71c1c; }
-        .event-time { font-weight: bold; background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; margin-right: 15px; min-width: 60px; text-align: center; }
-        .event-sport-icon { margin-right: 12px; font-size: 20px; }
-        .event-title { flex-grow: 1; font-weight: bold; font-size: 16px; }
-        .player-container { position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; cursor: pointer; }
-        .player-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; z-index: 1; }
-        .player-shield { 
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%; 
-            z-index: 10; 
-            background: rgba(0,0,0,0.01); 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            transition: all 0.3s;
-        }
-        .player-shield:hover { background: rgba(0,0,0,0.1); }
-        .shield-msg { 
-            background: var(--red); 
-            color: #fff; 
-            padding: 10px 20px; 
-            border-radius: 30px; 
-            font-weight: bold; 
-            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.3s;
-        }
-        .player-container:hover .shield-msg { opacity: 1; }
-        .btn-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; padding: 20px; background: #1a1a1a; }
-        .btn { background: var(--red); color: #fff; padding: 12px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; text-align: center; transition: background 0.3s; }
-        .btn:hover { background: #b71c1c; }
-        .btn.active { background: var(--yellow); color: #000; }
-        .seo-section { background: #fff; color: #333; padding: 30px; border-radius: 8px; margin-top: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
-        .seo-section h2 { color: var(--red); border-left: 5px solid var(--red); padding-left: 15px; margin-top: 0; }
-        .seo-section h3 { color: #333; margin-top: 25px; }
-        .faq-item { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 15px; }
-        .faq-q { font-weight: bold; color: var(--red); cursor: pointer; }
-        .faq-a { margin-top: 10px; color: #555; }
-        footer { background: var(--red); color: #fff; text-align: center; padding: 30px; margin-top: 50px; border-top: 3px solid #fff; }
-        .footer-links { margin-bottom: 20px; }
-        .footer-links a { color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }
-        @media (max-width: 600px) { .event-row { flex-wrap: wrap; } .event-title { width: 100%; margin-top: 10px; } header h1 { font-size: 20px; } }
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="📺 Rojadirecta TV ⚽ Tarjeta Roja En Vivo | Deportes Online Gratis">
+    <meta name="twitter:description" content="Entra en Rojadirecta TV para ver deportes en directo. Enlaces actualizados de fútbol, NBA y tenis. La alternativa número 1 a Rojadirecta.">
+    <meta name="twitter:image" content="https://www.tarjetarojaenvivo.live/og-image.jpg">
+    
+    <!-- Hreflang -->
+    <link rel="alternate" hreflang="es" href="https://www.tarjetarojaenvivo.live/rojadirecta-tv/">
+    <link rel="alternate" hreflang="x-default" href="https://www.tarjetarojaenvivo.live/rojadirecta-tv/">
+    
+    <!-- Preconnect hints -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.highperformanceformat.com">
+    <link rel="dns-prefetch" href="https://pl27890594.effectivegatecpm.com">
+    
+    <!-- External CSS -->
+    <link rel="stylesheet" href="/style.css">
+    
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: 'unsafe-inline' 'unsafe-eval'; img-src 'self' data: https:; frame-src https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:;">
+    
+    <!-- Organization + WebSite Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Tarjeta Roja En Vivo",
+        "url": "https://www.tarjetarojaenvivo.live",
+        "logo": "https://www.tarjetarojaenvivo.live/favicon.ico",
+        "sameAs": []
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Tarjeta Roja En Vivo",
+        "url": "https://www.tarjetarojaenvivo.live",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.tarjetarojaenvivo.live/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+    
     <!-- Google Analytics (GA4) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JQBNW4FQ3S"></script>
     <script>
@@ -86,70 +69,6 @@
       gtag('js', new Date());
       gtag('config', 'G-JQBNW4FQ3S');
     </script>
-    
-    <style>
-        :root { --red: #d32f2f; --dark: #1a1a1a; --light: #f4f4f4; --yellow: #ffcc00; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; background: #000; color: #fff; line-height: 1.6; }
-        header { background: var(--red); padding: 15px; text-align: center; border-bottom: 3px solid #fff; position: sticky; top: 0; z-index: 1000; }
-        header h1 { margin: 0; font-size: 26px; text-transform: uppercase; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
-        nav { background: #333; padding: 10px; text-align: center; overflow-x: auto; white-space: nowrap; }
-        nav a { color: #fff; margin: 0 10px; text-decoration: none; font-weight: bold; font-size: 13px; text-transform: uppercase; }
-        nav a:hover { color: var(--yellow); }
-        .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
-        .card { background: #fff; color: #333; border-radius: 8px; overflow: hidden; margin-bottom: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
-        .card-header { background: #333; color: var(--yellow); padding: 15px; font-weight: bold; text-align: center; font-size: 20px; border-bottom: 2px solid var(--red); }
-        .event-row { display: flex; align-items: center; padding: 15px; border-bottom: 1px solid #eee; text-decoration: none; color: inherit; transition: all 0.2s; cursor: pointer; }
-        .event-row:hover { background: #f0f0f0; }
-        .event-channels { display: none; background: #f9f9f9; padding: 10px; border-bottom: 1px solid #eee; }
-        .event-channels.active { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; }
-        .chan-btn { background: var(--red); color: #fff; padding: 8px; border-radius: 4px; text-decoration: none; text-align: center; font-size: 12px; font-weight: bold; }
-        .chan-btn:hover { background: #b71c1c; }
-        .event-time { font-weight: bold; background: #333; color: #fff; padding: 4px 10px; border-radius: 4px; margin-right: 15px; min-width: 60px; text-align: center; }
-        .event-sport-icon { margin-right: 12px; font-size: 20px; }
-        .event-title { flex-grow: 1; font-weight: bold; font-size: 16px; }
-        .player-container { position: relative; padding-top: 56.25%; background: #000; border-bottom: 1px solid #333; cursor: pointer; }
-        .player-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; z-index: 1; }
-        .player-shield { 
-            position: absolute; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%; 
-            z-index: 10; 
-            background: rgba(0,0,0,0.01); 
-            display: flex; 
-            align-items: center; 
-            justify-content: center; 
-            transition: all 0.3s;
-        }
-        .player-shield:hover { background: rgba(0,0,0,0.1); }
-        .shield-msg { 
-            background: var(--red); 
-            color: #fff; 
-            padding: 10px 20px; 
-            border-radius: 30px; 
-            font-weight: bold; 
-            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.3s;
-        }
-        .player-container:hover .shield-msg { opacity: 1; }
-        .btn-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; padding: 20px; background: #1a1a1a; }
-        .btn { background: var(--red); color: #fff; padding: 12px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; text-align: center; transition: background 0.3s; }
-        .btn:hover { background: #b71c1c; }
-        .btn.active { background: var(--yellow); color: #000; }
-        .seo-section { background: #fff; color: #333; padding: 30px; border-radius: 8px; margin-top: 25px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); }
-        .seo-section h2 { color: var(--red); border-left: 5px solid var(--red); padding-left: 15px; margin-top: 0; }
-        .seo-section h3 { color: #333; margin-top: 25px; }
-        .faq-item { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 15px; }
-        .faq-q { font-weight: bold; color: var(--red); cursor: pointer; }
-        .faq-a { margin-top: 10px; color: #555; }
-        footer { background: var(--red); color: #fff; text-align: center; padding: 30px; margin-top: 50px; border-top: 3px solid #fff; }
-        .footer-links { margin-bottom: 20px; }
-        .footer-links a { color: #fff; margin: 0 10px; text-decoration: none; font-size: 12px; }
-        @media (max-width: 600px) { .event-row { flex-wrap: wrap; } .event-title { width: 100%; margin-top: 10px; } header h1 { font-size: 20px; } }
-    </style>
     <script>
         // 🛡 AGENT 14 — MOBILE POPUP & REDIRECT DEFENSE ENGINE
         (function() {
@@ -233,48 +152,52 @@
         <a href="/rojadirecta/">ROJADIRECTA</a>
         <a href="/tarjeta-roja/">TARJETA ROJA</a>
         <a href="/pirlotv/">PIRLO TV</a>
-        <a href="/categoria/nba-en-vivo">NBA</a>
+        <a href="/champions-league-en-vivo/">CHAMPIONS</a>
+        <a href="/la-liga-en-vivo/">LA LIGA</a>
+        <a href="/nba-en-vivo/">NBA</a>
     </nav>
+    <div class="breadcrumb" style="padding:8px 15px;font-size:13px;color:#aaa;background:#111;"><a href="https://www.tarjetarojaenvivo.live/" style="color:var(--yellow);text-decoration:none;">Inicio</a> › <span style="color:#ccc;">Rojadirecta Tv</span></div>
     <div class="container">
         
         <div class="card">
             <div class="card-header">📺 ROJADIRECTA TV ⚽ TARJETA ROJA EN VIVO | DEPORTES ONLINE GRATIS</div>
             <div class="seo-section" style="box-shadow: none; margin-top: 0;">
                 <h2>📺 Rojadirecta TV ⚽ Tarjeta Roja En Vivo | Deportes Online Gratis</h2>
-                <p>Bienvenido a la sección dedicada a <strong>Rojadirecta Tv</strong> en nuestro portal. Aquí encontrarás la mejor selección de enlaces para ver deportes en vivo y en directo.</p>
-                <p><strong>Rojadirecta Tv</strong> ha sido durante años el referente para millones de aficionados que buscan ver fútbol gratis. En <strong>Tarjeta Roja En Vivo</strong>, continuamos ese legado ofreciendo una plataforma robusta, rápida y optimizada para dispositivos móviles.</p>
-                <h3>¿Por qué elegir nuestra señal de Rojadirecta Tv?</h3>
-                <p>A diferencia de otros sitios que están llenos de publicidad intrusiva, nosotros priorizamos la experiencia del usuario. Nuestros enlaces de <strong>Rojadirecta TV</strong> y <strong>Pirlo TV</strong> son verificados constantemente para asegurar que la transmisión no se corte en el momento más importante del partido.</p>
-                <p>Ya sea que busques ver el Clásico, la final de la Champions o un partido de la NBA, nuestra sección de <strong>Rojadirecta Tv</strong> tiene todo lo que necesitas.</p>
+                
+                <p>Bienvenido a <strong>Rojadirecta TV</strong>, tu portal de referencia para seguir los mejores eventos deportivos en directo. Nuestra plataforma te conecta con las señales más estables del mundo del streaming deportivo.</p>
+                <p>En <strong>Rojadirecta TV</strong> nos especializamos en ofrecer transmisiones de alta calidad para fútbol, baloncesto, tenis, Fórmula 1 y muchos más deportes. Cada enlace es verificado por nuestro equipo antes de ser publicado.</p>
+                <h3>La alternativa número 1 a Rojadirecta</h3>
+                <p>Si buscas una experiencia sin interrupciones, <strong>Rojadirecta TV</strong> en Tarjeta Roja En Vivo es tu mejor opción. Ofrecemos múltiples canales por evento para que siempre tengas una señal disponible, incluso en los partidos más demandados.</p>
+                <p>Compatible con todos los dispositivos: Smart TV, PC, tablet y smartphone. Nuestra web se adapta automáticamente a tu pantalla.</p>
                 <h3>Programación Destacada de Hoy</h3>
                 <div class="event-list">
         
             <div class="event-row" onclick="toggleAccordion('hub-accordion-0')">
-                <div class="event-time">09:00:00</div>
-                <div class="event-title">FA Cup: Oxford United vs Sunderland</div>
+                <div class="event-time">17:00:00</div>
+                <div class="event-title">Copa Libertadores: Carabobo vs Huachipato</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-0" class="event-channels">
-                <a href="/partido/fa-cup-oxford-united-vs-sunderland-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/fa-cup-oxford-united-vs-sunderland-en-vivo" class="chan-btn">Canal 23</a> <a href="/partido/fa-cup-oxford-united-vs-sunderland-en-vivo" class="chan-btn">Canal 24</a>
+                <a href="/partido/copa-libertadores-carabobo-vs-huachipato-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-libertadores-carabobo-vs-huachipato-en-vivo" class="chan-btn">Capo Deportes 2</a> <a href="/partido/copa-libertadores-carabobo-vs-huachipato-en-vivo" class="chan-btn">Canal 17</a> <a href="/partido/copa-libertadores-carabobo-vs-huachipato-en-vivo" class="chan-btn">Canal 18 (HD)</a> <a href="/partido/copa-libertadores-carabobo-vs-huachipato-en-vivo" class="chan-btn">Canal 19 (HD)</a>
             </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-1')">
-                <div class="event-time">09:00:00</div>
-                <div class="event-title">FA Cup: Stoke City vs Fulham</div>
+                <div class="event-time">17:45:00</div>
+                <div class="event-title">Copa Argentina: Tigre vs Claypole</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-1" class="event-channels">
-                <a href="/partido/fa-cup-stoke-city-vs-fulham-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/fa-cup-stoke-city-vs-fulham-en-vivo" class="chan-btn">Capo Deportes 2</a> <a href="/partido/fa-cup-stoke-city-vs-fulham-en-vivo" class="chan-btn">Canal 20</a> <a href="/partido/fa-cup-stoke-city-vs-fulham-en-vivo" class="chan-btn">Canal 21 (HD)</a> <a href="/partido/fa-cup-stoke-city-vs-fulham-en-vivo" class="chan-btn">Canal 22 (HD)</a>
+                <a href="/partido/copa-argentina-tigre-vs-claypole-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-argentina-tigre-vs-claypole-en-vivo" class="chan-btn">TyC Sports</a> <a href="/partido/copa-argentina-tigre-vs-claypole-en-vivo" class="chan-btn">Canal 20</a> <a href="/partido/copa-argentina-tigre-vs-claypole-en-vivo" class="chan-btn">Canal 21 (HD)</a> <a href="/partido/copa-argentina-tigre-vs-claypole-en-vivo" class="chan-btn">Canal 22 (HD)</a>
             </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-2')">
-                <div class="event-time">09:00:00</div>
-                <div class="event-title">Ligue 1: Le Havre AC vs Toulouse</div>
+                <div class="event-time">18:00:00</div>
+                <div class="event-title">Liga de Colombia: Jaguares de Cordoba vs Independiente Santa Fe</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-2" class="event-channels">
-                <a href="/partido/ligue-1-le-havre-ac-vs-toulouse-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/ligue-1-le-havre-ac-vs-toulouse-en-vivo" class="chan-btn">Canal 30</a> <a href="/partido/ligue-1-le-havre-ac-vs-toulouse-en-vivo" class="chan-btn">Canal 31</a>
+                <a href="/partido/liga-de-colombia-jaguares-de-cordoba-vs-independiente-santa-fe-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/liga-de-colombia-jaguares-de-cordoba-vs-independiente-santa-fe-en-vivo" class="chan-btn">Win Sports +</a> <a href="/partido/liga-de-colombia-jaguares-de-cordoba-vs-independiente-santa-fe-en-vivo" class="chan-btn">Canal 23</a> <a href="/partido/liga-de-colombia-jaguares-de-cordoba-vs-independiente-santa-fe-en-vivo" class="chan-btn">Canal 24 (HD)</a> <a href="/partido/liga-de-colombia-jaguares-de-cordoba-vs-independiente-santa-fe-en-vivo" class="chan-btn">Canal 25 (HD)</a>
             </div>
     <div align="center" class="ad-container" style="margin: 15px 0;">
       <script>
@@ -289,157 +212,49 @@
       <script src="https://www.highperformanceformat.com/bfc5336b29b89b752c1b8d12eb6f945d/invoke.js"></script>
     </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-3')">
-                <div class="event-time">09:00:00</div>
-                <div class="event-title">Serie A: Cremonese vs Genoa</div>
+                <div class="event-time">19:30:00</div>
+                <div class="event-title">Copa Libertadores: 2 de Mayo vs Sporting Cristal</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-3" class="event-channels">
-                <a href="/partido/serie-a-cremonese-vs-genoa-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/serie-a-cremonese-vs-genoa-en-vivo" class="chan-btn">Liga de Campeones 6</a> <a href="/partido/serie-a-cremonese-vs-genoa-en-vivo" class="chan-btn">Canal 25</a> <a href="/partido/serie-a-cremonese-vs-genoa-en-vivo" class="chan-btn">Canal 26 (HD)</a> <a href="/partido/serie-a-cremonese-vs-genoa-en-vivo" class="chan-btn">Canal 27 (HD)</a>
+                <a href="/partido/copa-libertadores-2-de-mayo-vs-sporting-cristal-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-libertadores-2-de-mayo-vs-sporting-cristal-en-vivo" class="chan-btn">Canal 1</a> <a href="/partido/copa-libertadores-2-de-mayo-vs-sporting-cristal-en-vivo" class="chan-btn">Canal 2</a> <a href="/partido/copa-libertadores-2-de-mayo-vs-sporting-cristal-en-vivo" class="chan-btn">Canal 3 (HD)</a> <a href="/partido/copa-libertadores-2-de-mayo-vs-sporting-cristal-en-vivo" class="chan-btn">Canal 4 (HD)</a> <a href="/partido/copa-libertadores-2-de-mayo-vs-sporting-cristal-en-vivo" class="chan-btn">Canal 6 (HD)</a>
             </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-4')">
-                <div class="event-time">09:00:00</div>
-                <div class="event-title">Serie A: Parma vs Hellas Verona</div>
+                <div class="event-time">19:30:00</div>
+                <div class="event-title">Copa Libertadores: Liverpool vs Independiente Medellin</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-4" class="event-channels">
-                <a href="/partido/serie-a-parma-vs-hellas-verona-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/serie-a-parma-vs-hellas-verona-en-vivo" class="chan-btn">Canal 28</a> <a href="/partido/serie-a-parma-vs-hellas-verona-en-vivo" class="chan-btn">Canal 29</a>
+                <a href="/partido/copa-libertadores-liverpool-vs-independiente-medellin-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-libertadores-liverpool-vs-independiente-medellin-en-vivo" class="chan-btn">Canal 2</a> <a href="/partido/copa-libertadores-liverpool-vs-independiente-medellin-en-vivo" class="chan-btn">Canal 3 (HD)</a> <a href="/partido/copa-libertadores-liverpool-vs-independiente-medellin-en-vivo" class="chan-btn">Canal 4 (HD)</a> <a href="/partido/copa-libertadores-liverpool-vs-independiente-medellin-en-vivo" class="chan-btn">Canal 5 (HD)</a> <a href="/partido/copa-libertadores-liverpool-vs-independiente-medellin-en-vivo" class="chan-btn">Canal 6 (HD)</a>
             </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-5')">
-                <div class="event-time">09:30:00</div>
-                <div class="event-title">Bundesliga: Augsburgo vs Heidenheim 1846</div>
+                <div class="event-time">20:00:00</div>
+                <div class="event-title">CONCACAF Champions Cup: Atletico Ottawa vs Nashville SC</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-5" class="event-channels">
-                <a href="/partido/bundesliga-augsburgo-vs-heidenheim-1846-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/bundesliga-augsburgo-vs-heidenheim-1846-en-vivo" class="chan-btn">Canal 32</a> <a href="/partido/bundesliga-augsburgo-vs-heidenheim-1846-en-vivo" class="chan-btn">Canal 33</a>
+                <a href="/partido/concacaf-champions-cup-atletico-ottawa-vs-nashville-sc-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/concacaf-champions-cup-atletico-ottawa-vs-nashville-sc-en-vivo" class="chan-btn">Capo Deportes</a> <a href="/partido/concacaf-champions-cup-atletico-ottawa-vs-nashville-sc-en-vivo" class="chan-btn">Canal 29</a> <a href="/partido/concacaf-champions-cup-atletico-ottawa-vs-nashville-sc-en-vivo" class="chan-btn">Canal 30 (HD)</a> <a href="/partido/concacaf-champions-cup-atletico-ottawa-vs-nashville-sc-en-vivo" class="chan-btn">Canal 31 (HD)</a>
             </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-6')">
-                <div class="event-time">10:00:00</div>
-                <div class="event-title">Liga de Chile: Universidad de Concepcion vs Deportes Concepcion</div>
+                <div class="event-time">20:00:00</div>
+                <div class="event-title">Copa Argentina: River Plate vs Ciudad de Bolivar</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-6" class="event-channels">
-                <a href="/partido/liga-de-chile-universidad-de-concepcion-vs-deportes-concepcion-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/liga-de-chile-universidad-de-concepcion-vs-deportes-concepcion-en-vivo" class="chan-btn">TNT Sports Chile</a> <a href="/partido/liga-de-chile-universidad-de-concepcion-vs-deportes-concepcion-en-vivo" class="chan-btn">Canal 34</a> <a href="/partido/liga-de-chile-universidad-de-concepcion-vs-deportes-concepcion-en-vivo" class="chan-btn">Canal 35 (HD)</a> <a href="/partido/liga-de-chile-universidad-de-concepcion-vs-deportes-concepcion-en-vivo" class="chan-btn">Canal 36 (HD)</a>
+                <a href="/partido/copa-argentina-river-plate-vs-ciudad-de-bolivar-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/copa-argentina-river-plate-vs-ciudad-de-bolivar-en-vivo" class="chan-btn">Canal 26</a> <a href="/partido/copa-argentina-river-plate-vs-ciudad-de-bolivar-en-vivo" class="chan-btn">Canal 27 (HD)</a> <a href="/partido/copa-argentina-river-plate-vs-ciudad-de-bolivar-en-vivo" class="chan-btn">Canal 28 (HD)</a>
             </div>
             <div class="event-row" onclick="toggleAccordion('hub-accordion-7')">
-                <div class="event-time">10:15:00</div>
-                <div class="event-title">LaLiga 2: Eibar vs Racing Santander</div>
+                <div class="event-time">22:00:00</div>
+                <div class="event-title">CONCACAF Champions Cup: Real Espana vs Los Angeles FC</div>
                 <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
             </div>
             <div id="hub-accordion-7" class="event-channels">
-                <a href="/partido/laliga-2-eibar-vs-racing-santander-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/laliga-2-eibar-vs-racing-santander-en-vivo" class="chan-btn">Deportes Plus</a> <a href="/partido/laliga-2-eibar-vs-racing-santander-en-vivo" class="chan-btn">Canal 37</a> <a href="/partido/laliga-2-eibar-vs-racing-santander-en-vivo" class="chan-btn">Canal 38 (HD)</a> <a href="/partido/laliga-2-eibar-vs-racing-santander-en-vivo" class="chan-btn">Canal 39 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-8')">
-                <div class="event-time">10:15:00</div>
-                <div class="event-title">LaLiga 2: Huesca vs Ceuta</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-8" class="event-channels">
-                <a href="/partido/laliga-2-huesca-vs-ceuta-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/laliga-2-huesca-vs-ceuta-en-vivo" class="chan-btn">Canal 40</a> <a href="/partido/laliga-2-huesca-vs-ceuta-en-vivo" class="chan-btn">Canal 41 (HD)</a> <a href="/partido/laliga-2-huesca-vs-ceuta-en-vivo" class="chan-btn">Canal 42 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-9')">
-                <div class="event-time">10:15:00</div>
-                <div class="event-title">LaLiga: Rayo Vallecano vs Atletico Madrid</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-9" class="event-channels">
-                <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn">Canal 1</a> <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn">Canal 2</a> <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn">Canal 3 (HD)</a> <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn">Canal 4 (HD)</a> <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn">Canal 5 (HD)</a> <a href="/partido/laliga-rayo-vallecano-vs-atletico-madrid-en-vivo" class="chan-btn">Canal 6 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-10')">
-                <div class="event-time">10:30:00</div>
-                <div class="event-title">Liga Portugal: Nacional vs Porto</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-10" class="event-channels">
-                <a href="/partido/liga-portugal-nacional-vs-porto-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/liga-portugal-nacional-vs-porto-en-vivo" class="chan-btn">Canal 43</a> <a href="/partido/liga-portugal-nacional-vs-porto-en-vivo" class="chan-btn">Canal 44</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-11')">
-                <div class="event-time">11:15:00</div>
-                <div class="event-title">Ligue 1: Lorient vs Angers</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-11" class="event-channels">
-                <a href="/partido/ligue-1-lorient-vs-angers-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/ligue-1-lorient-vs-angers-en-vivo" class="chan-btn">Canal 45</a> <a href="/partido/ligue-1-lorient-vs-angers-en-vivo" class="chan-btn">Canal 46</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-12')">
-                <div class="event-time">11:15:00</div>
-                <div class="event-title">Ligue 1: Metz vs AJ Auxerre</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-12" class="event-channels">
-                <a href="/partido/ligue-1-metz-vs-aj-auxerre-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/ligue-1-metz-vs-aj-auxerre-en-vivo" class="chan-btn">Canal 47</a> <a href="/partido/ligue-1-metz-vs-aj-auxerre-en-vivo" class="chan-btn">Canal 48</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-13')">
-                <div class="event-time">11:30:00</div>
-                <div class="event-title">Bundesliga: RB Leipzig vs Wolfsburg</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-13" class="event-channels">
-                <a href="/partido/bundesliga-rb-leipzig-vs-wolfsburg-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/bundesliga-rb-leipzig-vs-wolfsburg-en-vivo" class="chan-btn">Liga de Campeones 5</a> <a href="/partido/bundesliga-rb-leipzig-vs-wolfsburg-en-vivo" class="chan-btn">Canal 49</a> <a href="/partido/bundesliga-rb-leipzig-vs-wolfsburg-en-vivo" class="chan-btn">Canal 50 (HD)</a> <a href="/partido/bundesliga-rb-leipzig-vs-wolfsburg-en-vivo" class="chan-btn">Canal 6 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-14')">
-                <div class="event-time">11:30:00</div>
-                <div class="event-title">FA Cup: Arsenal vs Wigan Athletic</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-14" class="event-channels">
-                <a href="/partido/fa-cup-arsenal-vs-wigan-athletic-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/fa-cup-arsenal-vs-wigan-athletic-en-vivo" class="chan-btn">Canal 2</a> <a href="/partido/fa-cup-arsenal-vs-wigan-athletic-en-vivo" class="chan-btn">Canal 3 (HD)</a> <a href="/partido/fa-cup-arsenal-vs-wigan-athletic-en-vivo" class="chan-btn">Canal 4 (HD)</a> <a href="/partido/fa-cup-arsenal-vs-wigan-athletic-en-vivo" class="chan-btn">Canal 5 (HD)</a> <a href="/partido/fa-cup-arsenal-vs-wigan-athletic-en-vivo" class="chan-btn">Canal 6 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-15')">
-                <div class="event-time">12:00:00</div>
-                <div class="event-title">Serie A: Torino vs Bologna</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-15" class="event-channels">
-                <a href="/partido/serie-a-torino-vs-bologna-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/serie-a-torino-vs-bologna-en-vivo" class="chan-btn">Liga de Campeones 3</a> <a href="/partido/serie-a-torino-vs-bologna-en-vivo" class="chan-btn">Canal 7</a> <a href="/partido/serie-a-torino-vs-bologna-en-vivo" class="chan-btn">Canal 8 (HD)</a> <a href="/partido/serie-a-torino-vs-bologna-en-vivo" class="chan-btn">Canal 9 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-16')">
-                <div class="event-time">12:00:00</div>
-                <div class="event-title">Super Lig: Istanbul Basaksehir vs Besiktas</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-16" class="event-channels">
-                <a href="/partido/super-lig-istanbul-basaksehir-vs-besiktas-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/super-lig-istanbul-basaksehir-vs-besiktas-en-vivo" class="chan-btn">Canal 10</a> <a href="/partido/super-lig-istanbul-basaksehir-vs-besiktas-en-vivo" class="chan-btn">Canal 11</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-17')">
-                <div class="event-time">12:30:00</div>
-                <div class="event-title">LaLiga 2: Albacete vs Sporting Gijon</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-17" class="event-channels">
-                <a href="/partido/laliga-2-albacete-vs-sporting-gijon-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/laliga-2-albacete-vs-sporting-gijon-en-vivo" class="chan-btn">Canal 12</a> <a href="/partido/laliga-2-albacete-vs-sporting-gijon-en-vivo" class="chan-btn">Canal 13 (HD)</a> <a href="/partido/laliga-2-albacete-vs-sporting-gijon-en-vivo" class="chan-btn">Canal 14 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-18')">
-                <div class="event-time">12:30:00</div>
-                <div class="event-title">LaLiga: Levante vs Valencia</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-18" class="event-channels">
-                <a href="/partido/laliga-levante-vs-valencia-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/laliga-levante-vs-valencia-en-vivo" class="chan-btn">Canal 2</a> <a href="/partido/laliga-levante-vs-valencia-en-vivo" class="chan-btn">Canal 3 (HD)</a> <a href="/partido/laliga-levante-vs-valencia-en-vivo" class="chan-btn">Canal 4 (HD)</a> <a href="/partido/laliga-levante-vs-valencia-en-vivo" class="chan-btn">Canal 5 (HD)</a> <a href="/partido/laliga-levante-vs-valencia-en-vivo" class="chan-btn">Canal 6 (HD)</a>
-            </div>
-            <div class="event-row" onclick="toggleAccordion('hub-accordion-19')">
-                <div class="event-time">13:00:00</div>
-                <div class="event-title">Liga de Peru: Sport Huancayo vs FC Cajamarca</div>
-                <div style="color: var(--red); font-weight: bold;">VER &raquo;</div>
-            </div>
-            <div id="hub-accordion-19" class="event-channels">
-                <a href="/partido/liga-de-peru-sport-huancayo-vs-fc-cajamarca-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
-                <a href="/partido/liga-de-peru-sport-huancayo-vs-fc-cajamarca-en-vivo" class="chan-btn">Liga 1 Max Peru</a> <a href="/partido/liga-de-peru-sport-huancayo-vs-fc-cajamarca-en-vivo" class="chan-btn">Canal 15</a> <a href="/partido/liga-de-peru-sport-huancayo-vs-fc-cajamarca-en-vivo" class="chan-btn">Canal 16 (HD)</a> <a href="/partido/liga-de-peru-sport-huancayo-vs-fc-cajamarca-en-vivo" class="chan-btn">Canal 17 (HD)</a>
+                <a href="/partido/concacaf-champions-cup-real-espana-vs-los-angeles-fc-en-vivo" class="chan-btn" style="background: var(--yellow); color: #000;">VER PARTIDO</a>
+                <a href="/partido/concacaf-champions-cup-real-espana-vs-los-angeles-fc-en-vivo" class="chan-btn">Canal 32</a> <a href="/partido/concacaf-champions-cup-real-espana-vs-los-angeles-fc-en-vivo" class="chan-btn">Canal 33 (HD)</a> <a href="/partido/concacaf-champions-cup-real-espana-vs-los-angeles-fc-en-vivo" class="chan-btn">Canal 34 (HD)</a>
             </div></div>
         <div class="seo-section">
             <h2>Rojadirecta Tv - La mejor programación de deportes en vivo</h2>
@@ -455,7 +270,7 @@
             
             <p>Disfruta de la mejor calidad, enlaces verificados y una comunidad de miles de usuarios que, al igual que tú, viven la pasión del deporte minuto a minuto.</p>
         </div>
-        <div class="paa-section"><h3>Preguntas Frecuentes (PAA)</h3></div></div>
+        <div class="paa-section"><h3>Preguntas Frecuentes (PAA)</h3></div><div class="seo-section" style="margin-top:20px;"><h3>Más Secciones Populares</h3><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-top:10px;"><a href="/rojadirecta/" class="chan-btn" style="padding:10px;font-size:13px;">Rojadirecta</a><a href="/tarjeta-roja/" class="chan-btn" style="padding:10px;font-size:13px;">Tarjeta Roja</a><a href="/tarjeta-roja-tv/" class="chan-btn" style="padding:10px;font-size:13px;">Tarjeta Roja Tv</a><a href="/pirlotv/" class="chan-btn" style="padding:10px;font-size:13px;">Pirlotv</a><a href="/tarjeta-roja-en-vivo/" class="chan-btn" style="padding:10px;font-size:13px;">Tarjeta Roja En Vivo</a><a href="/roja-directa/" class="chan-btn" style="padding:10px;font-size:13px;">Roja Directa</a><a href="/roja-tv/" class="chan-btn" style="padding:10px;font-size:13px;">Roja Tv</a><a href="/targeta-roja/" class="chan-btn" style="padding:10px;font-size:13px;">Targeta Roja</a><a href="/la-roja-directa/" class="chan-btn" style="padding:10px;font-size:13px;">La Roja Directa</a><a href="/rojadirecta-futbol/" class="chan-btn" style="padding:10px;font-size:13px;">Rojadirecta Futbol</a><a href="/pirlo-tv-tarjeta-roja/" class="chan-btn" style="padding:10px;font-size:13px;">Pirlo Tv Tarjeta Roja</a><a href="/roja-directa-en-vivo/" class="chan-btn" style="padding:10px;font-size:13px;">Roja Directa En Vivo</a><a href="/futbol-en-vivo-gratis/" class="chan-btn" style="padding:10px;font-size:13px;">Futbol En Vivo Gratis</a><a href="/rojadirecta-online/" class="chan-btn" style="padding:10px;font-size:13px;">Rojadirecta Online</a></div></div></div>
         <!-- Bottom Banner Ad (300x250) -->
         <div align="center" class="ad-container" style="margin: 20px 0;">
           <script>
@@ -473,16 +288,23 @@
     <footer>
         <div class="footer-links">
             <a href="/">INICIO</a> | 
-            <a href="/rojadirecta/">ROJADIRECTA TV</a> | 
-            <a href="/tarjeta-roja-tv/">TARJETA ROJA EN VIVO</a> | 
-            <a href="/pirlotv/">PIRLO TV ONLINE</a> | 
+            <a href="/rojadirecta/">ROJADIRECTA</a> | 
+            <a href="/tarjeta-roja/">TARJETA ROJA</a> | 
+            <a href="/tarjeta-roja-en-vivo/">TARJETA ROJA EN VIVO</a> | 
+            <a href="/pirlotv/">PIRLO TV</a> | 
+            <a href="/roja-directa/">ROJA DIRECTA</a> | 
+            <a href="/futbol-en-vivo-gratis/">FÚTBOL GRATIS</a> | 
+            <a href="/champions-league-en-vivo/">CHAMPIONS LEAGUE</a> | 
+            <a href="/la-liga-en-vivo/">LA LIGA</a> | 
+            <a href="/premier-league-en-vivo/">PREMIER LEAGUE</a> | 
+            <a href="/nba-en-vivo/">NBA EN VIVO</a> | 
             <a href="/aviso-legal">AVISO LEGAL</a> | 
             <a href="/contacto">CONTACTO</a>
         </div>
-        <p>TARJETA ROJA | Rojadirecta TV | Pirlo TV | Deportes En Vivo Online Gratis</p>
-        <p>&copy; 2025 tarjetarojaenvivo.live - La mejor alternativa para ver fútbol gratis</p>
+        <p>TARJETA ROJA | Rojadirecta TV | Pirlo TV | Champions League | La Liga | Premier League | NBA | Deportes En Vivo Online Gratis</p>
+        <p>&copy; 2026 tarjetarojaenvivo.live - La mejor alternativa para ver fútbol gratis</p>
     </footer>
     <!-- Popop Ad -->
-    <script src="https://pl27890594.effectivegatecpm.com/3e/cf/1a/3ecf1aaaddc532721ccb0f176dea9d4c.js"></script>
+    <script defer src="https://pl27890594.effectivegatecpm.com/3e/cf/1a/3ecf1aaaddc532721ccb0f176dea9d4c.js"></script>
 </body>
 </html>
