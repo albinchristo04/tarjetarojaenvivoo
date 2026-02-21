@@ -1,0 +1,627 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 69,
+  "events": [
+    {
+      "event_title": "Liga de Uruguay: Racing Montevideo vs Danubio",
+      "event_time": "07:45:00",
+      "sport": "",
+      "canal_name": "VTV Uruguay",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3Z0di5waHA&h=3563e0abc21d9423c84f0affbcbf3fa2",
+      "player_url": "https://bolaloca.my/player/capo/109",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Liga de Uruguay: Racing Montevideo vs Danubio",
+      "event_time": "07:45:00",
+      "sport": "",
+      "canal_name": "Canal 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNi5waHA&h=1bbe9d078eb6718338b484877633980b",
+      "player_url": "https://www.capoplay.net/canal6.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga de Uruguay: Racing Montevideo vs Danubio",
+      "event_time": "07:45:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamtp501.com/global2.php?stream=disney2",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Racing Montevideo vs Danubio",
+      "event_time": "07:45:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamx10.cloud/global1.php?channel=disney2",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Real Oviedo",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Real Oviedo",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTEucGhw&h=b0ef3e6f9c9115a641738bda1b0e86a6",
+      "player_url": "https://bolaloca.my/player/capo/89",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Real Oviedo",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTIucGhw&h=d57827d5a1250683c2c4832571b66c15",
+      "player_url": "https://streamtp501.com/global2.php?stream=espn3",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Real Oviedo",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTMucGhw&h=95c2a5933d96da532910d5931150db11",
+      "player_url": "https://streamx10.cloud/global1.php?channel=espndeportes",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Real Oviedo",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTQucGhw&h=c7abb18b53521018dce1ab43d109b465",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney15",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "LaLiga: Real Sociedad vs Real Oviedo",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMS5waHA&h=24fecbf55103c2c62ee9a59e2ba299b4",
+      "player_url": "https://www.capoplay.net/canal1.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga 2: Leganes vs Cultural Leonesa",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Deportes Plus",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2RlcG9ydGVzcGx1cy5waHA&h=f0d281d530d9595f802d628ca7a2a2a8",
+      "player_url": "https://www.capoplay.net/deportesplus.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga 2: Leganes vs Cultural Leonesa",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 9",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://bolaloca.my/player/capo/53",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "LaLiga 2: Leganes vs Cultural Leonesa",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 10 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTAucGhw&h=e99e43f33ef3b85896d78aef444a5076",
+      "player_url": "https://streamx10.cloud/global1.php?channel=hyper1",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "LaLiga 2: Leganes vs Cultural Leonesa",
+      "event_time": "08:00:00",
+      "sport": "",
+      "canal_name": "Canal 11 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTEucGhw&h=8d4dfdcff350e6a92d57199a948c3bd9",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney6",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Como",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczMucGhw&h=6a839b0983c0dc523634788c6a19ec4e",
+      "player_url": "https://www.capoplay.net/capodeportes3.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Como",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTEucGhw&h=20abbb41528fb0d840e149c7f21de686",
+      "player_url": "https://bolaloca.my/player/capo/97",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Como",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTIucGhw&h=7cfb9567dcafaa276628576d090dc9b2",
+      "player_url": "https://streamtp501.com/global2.php?stream=espn2",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Como",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTMucGhw&h=fc26397763d2aa3512c4ce588d6ccd9e",
+      "player_url": "https://streamx10.cloud/global1.php?channel=disney7",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Como",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTQucGhw&h=57f01032f260002d120e3b3887ba44e9",
+      "player_url": "https://www.capoplay.net/seriea4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Serie A: Juventus Turin vs Como",
+      "event_time": "09:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMi5waHA&h=f75b2135b0ab0a8e03438a2b6a2072ff",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney7",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Eintracht Frankfurt",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczQucGhw&h=80d7aef8df77bd3ffb7e5d370dcf6ca5",
+      "player_url": "https://www.capoplay.net/capodeportes4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Eintracht Frankfurt",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2J1bmRlc2xpZ2ExLnBocA&h=330e36acb07ca89d1a8670844bc1e614",
+      "player_url": "https://bolaloca.my/player/capo/116",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Eintracht Frankfurt",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2J1bmRlc2xpZ2EyLnBocA&h=4c789f76267d242ed7db41601dd8e6c4",
+      "player_url": "https://streamx10.cloud/global1.php?channel=disney4",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Eintracht Frankfurt",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2J1bmRlc2xpZ2EzLnBocA&h=73b0e280688e6eef5ea6a115fd611e52",
+      "player_url": "https://streamx10.cloud/global1.php?channel=skybundesliga",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Eintracht Frankfurt",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2J1bmRlc2xpZ2E0LnBocA&h=648e057e35e8d7ee52d5add542da0148",
+      "player_url": "https://www.capoplay.net/bundesliga4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Eintracht Frankfurt",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMy5waHA&h=7122a93bc91e62588201057d35eb5fd8",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney11",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Bundesliga: Union Berlin vs Bayer Leverkusen",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 12",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTIucGhw&h=b0ed027365906d3ec475726d6f024d9f",
+      "player_url": "https://streamx10.cloud/global1.php?channel=disney3",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Bundesliga: Union Berlin vs Bayer Leverkusen",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 13",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTMucGhw&h=97fa912dd2629032539a6593804e1a29",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney9",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Bundesliga: Cologne vs Hoffenheim",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 14",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTQucGhw&h=b7ea7f2fecdefda68283a02ac512905a",
+      "player_url": "https://streamx10.cloud/global1.php?channel=disney6",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Bundesliga: Cologne vs Hoffenheim",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 15",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTUucGhw&h=152c2b6230598eda30def4476ff456ee",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney10",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Bundesliga: Wolgsburg vs Augsburg",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 16",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTYucGhw&h=fb060ee742ab16197ce20f33103140d9",
+      "player_url": "https://streamx10.cloud/global1.php?channel=disney5",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Bundesliga: Wolgsburg vs Augsburg",
+      "event_time": "09:30:00",
+      "sport": "",
+      "canal_name": "Canal 17",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTcucGhw&h=af9bb50ecb2958acd696945b8f53e378",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney8",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Premier League: Chelsea vs Burnley",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczIucGhw&h=d69783614bbddea4475899b36820a533",
+      "player_url": "https://www.capoplay.net/capodeportes2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Chelsea vs Burnley",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXIxLnBocA&h=22b22665718c26f63176a6b599e58922",
+      "player_url": "https://bolaloca.my/player/capo/56",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Premier League: Chelsea vs Burnley",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXIyLnBocA&h=e13d03f5a13b5aca0c3a41fcf3855e76",
+      "player_url": "https://streamtp501.com/global1.php?stream=disney8",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Premier League: Chelsea vs Burnley",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXIzLnBocA&h=a8f0528dea9f255857044e823d653f9f",
+      "player_url": "https://streamx10.cloud/global1.php?channel=foxone1",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Premier League: Chelsea vs Burnley",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI0LnBocA&h=fbb8d584e975a6c9b75a0e9a82ba4cef",
+      "player_url": "https://www.capoplay.net/premier4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Chelsea vs Burnley",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNC5waHA&h=a6efff438f2994181bc46e454f73ba9c",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney13",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Premier League: Aston Villa vs Leeds United",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lcy5waHA&h=9789b38419ca51a76c824c17cd4ef867",
+      "player_url": "https://www.capoplay.net/ligadecampeones.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Aston Villa vs Leeds United",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI1LnBocA&h=c8e2b2348c2942af4324d92f0faa5bec",
+      "player_url": "https://bolaloca.my/player/capo/87",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Premier League: Aston Villa vs Leeds United",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI2LnBocA&h=5362c7913c60f6bd9c05a2affa2f30e6",
+      "player_url": "https://www.capoplay.net/premier6.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Aston Villa vs Leeds United",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI3LnBocA&h=03afe8fc9e7b38a1926249e8af62e4dc",
+      "player_url": "https://streamtp501.com/global1.php?stream=espn",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Premier League: Aston Villa vs Leeds United",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3ByZW1pZXI4LnBocA&h=7963f7c6436d8fba24f2ab364e02a34c",
+      "player_url": "https://streamx10.cloud/global1.php?channel=max1",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Premier League: Aston Villa vs Leeds United",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNS5waHA&h=8b2d7162f60ed447a5f4aa71990db147",
+      "player_url": "https://www.capoplay.net/canal5.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Brentford vs Brighton & Hove Albion",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Liga de Campeones 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lczYucGhw&h=e4eb1f082156918870ff03f3a7e238c9",
+      "player_url": "https://www.capoplay.net/ligadecampeones6.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Premier League: Brentford vs Brighton & Hove Albion",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 18",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTgucGhw&h=221f30614159aba8f589624d1dd986bf",
+      "player_url": "https://bolaloca.my/player/capo/58",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Premier League: Brentford vs Brighton & Hove Albion",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 19 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTkucGhw&h=0b1db91b371beae6abd575c4adca1389",
+      "player_url": "https://streamtp501.com/global2.php?stream=disney10",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Premier League: Brentford vs Brighton & Hove Albion",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 20 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjAucGhw&h=5b57c114418bd17df2a6d1f676a64d0a",
+      "player_url": "https://streamx10.cloud/global1.php?channel=foxone2",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Championship: Southampton vs Charlton Athletic",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Liga de Campeones 5",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lczUucGhw&h=20ea3dfed9db7fcb0105fca304e28f93",
+      "player_url": "https://www.capoplay.net/ligadecampeones5.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Championship: Southampton vs Charlton Athletic",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 21",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjEucGhw&h=46e34aa930522dedb83a508f4add55ac",
+      "player_url": "https://bolaloca.my/player/capo/91",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Championship: Southampton vs Charlton Athletic",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 22 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjIucGhw&h=ab522f97a0e179dabfd4a828d6aa86e4",
+      "player_url": "https://streamtp501.com/global2.php?stream=disney11",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Championship: Southampton vs Charlton Athletic",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 23 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjMucGhw&h=3ab5b143324e19f74741e8bd5dcc13e3",
+      "player_url": "https://streamx10.cloud/global1.php?channel=espn5",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Liga de Chile: Huachipato vs Palestino",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "TNT Sports Chile",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3RudGNoaWxlLnBocA&h=5aa220c5d1bddc2a3e289f28637e8e67",
+      "player_url": "https://www.capoplay.net/tntchile.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga de Chile: Huachipato vs Palestino",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 24",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjQucGhw&h=54eeea4a0b57b8ef0ad1109e8e3518be",
+      "player_url": "https://bolaloca.my/player/capo/83",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Liga de Chile: Huachipato vs Palestino",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 25 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjUucGhw&h=2f79fd69daa977dbe98ed4e5f93e5e9a",
+      "player_url": "https://streamtp501.com/global2.php?stream=max2",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Liga de Chile: Huachipato vs Palestino",
+      "event_time": "10:00:00",
+      "sport": "",
+      "canal_name": "Canal 26 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjYucGhw&h=8b0561d9bb5ff016adcb4f639cc28e42",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=tntsportschile",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Rayo Vallecano",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTUucGhw&h=69b3e4b4902b39076f4046b629cd7a25",
+      "player_url": "https://bolaloca.my/player/capo/89",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Rayo Vallecano",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTYucGhw&h=89e393ba6a440614762e0d5768cf7cfc",
+      "player_url": "https://streamtp501.com/global2.php?stream=espn3",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Rayo Vallecano",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTcucGhw&h=bed9f51ff07da9e995863c213ec8e670",
+      "player_url": "https://streamx10.cloud/global1.php?channel=espndeportes",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Rayo Vallecano",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xhbGlnYTgucGhw&h=d7e74565ce656bdb751a5be7daf4f971",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=disney15",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "LaLiga 2: Deportivo La Coruña vs Eibar",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 27",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjcucGhw&h=c7b418dcefcc3cc5e35a32603073b99b",
+      "player_url": "https://bolaloca.my/player/capo/53",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "LaLiga 2: Deportivo La Coruña vs Eibar",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 28 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjgucGhw&h=18ceee824ea2f7d1f36994e6fb84ce71",
+      "player_url": "https://streamx10.cloud/global1.php?channel=hyper1",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "LaLiga 2: Deportivo La Coruña vs Eibar",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 29 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjkucGhw&h=d7c518cc31dcb043ff1d377e906e872e",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=hypermotion1",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "LaLiga 2: Huesca vs Mirandes",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Deportes Plus 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2RlcG9ydGVzcGx1czIucGhw&h=01e95a982b0179404c3e6d34f542bd7d",
+      "player_url": "https://www.capoplay.net/deportesplus2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga 2: Huesca vs Mirandes",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 30",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzAucGhw&h=3a5844ebcccd22fd7224d97643ded814",
+      "player_url": "https://bolaloca.my/player/capo/54",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "LaLiga 2: Huesca vs Mirandes",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 31 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzEucGhw&h=17ef346a6be0e2eb901d1dbc90bf5ed2",
+      "player_url": "https://streamx10.cloud/global1.php?channel=hyper2",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "LaLiga 2: Huesca vs Mirandes",
+      "event_time": "10:15:00",
+      "sport": "",
+      "canal_name": "Canal 32 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzIucGhw&h=a75fd1d3e659eb3ac94a8fe200a1303f",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=hypermotion2",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Liga Portugal: Arouca vs Nacional",
+      "event_time": "10:30:00",
+      "sport": "",
+      "canal_name": "Canal 33",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzMucGhw&h=f2b5dc2952521e486be665a47a3988fd",
+      "player_url": "https://bolaloca.my/player/capo/146",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Liga Portugal: Arouca vs Nacional",
+      "event_time": "10:30:00",
+      "sport": "",
+      "canal_name": "Canal 34",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzQucGhw&h=1aa30910f3b0e49c3895d9ccd968192c",
+      "player_url": "https://bolaloca.my/player/capo2/146",
+      "player_domain": "bolaloca.my"
+    }
+  ]
+}
