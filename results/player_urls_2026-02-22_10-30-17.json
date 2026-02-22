@@ -1,0 +1,231 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 25,
+  "events": [
+    {
+      "event_title": "Boxeo: Ryan Garcia vs Mario Barrios",
+      "event_time": "19:55:00",
+      "sport": "",
+      "canal_name": "Capo Deportes 6",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczYucGhw&h=f099547c93114279b102c344ac9c0cc9",
+      "player_url": "https://www.capoplay.net/capodeportes6.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Boxeo: Ryan Garcia vs Mario Barrios",
+      "event_time": "19:55:00",
+      "sport": "",
+      "canal_name": "Canal 41",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDEucGhw&h=c67587190c45ac0362cc9bab7b98092e",
+      "player_url": "https://bolaloca.my/player/capo/160",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Boxeo: Ryan Garcia vs Mario Barrios",
+      "event_time": "19:55:00",
+      "sport": "",
+      "canal_name": "Canal 42",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDIucGhw&h=45684dcf49a9e0c1637ac2191a21c4c9",
+      "player_url": "https://bolaloca.my/player/capo3/160",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Boxeo: Ryan Garcia vs Mario Barrios",
+      "event_time": "19:55:00",
+      "sport": "",
+      "canal_name": "Canal 43",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNDMucGhw&h=00c35b8c7fda05cf08e9ca3c046aec5f",
+      "player_url": "https://bolaloca.my/player/capo2/160",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "MLS: Los Angeles FC vs Inter Miami",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczMucGhw&h=6a839b0983c0dc523634788c6a19ec4e",
+      "player_url": "https://www.capoplay.net/capodeportes3.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "MLS: Los Angeles FC vs Inter Miami",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTUucGhw&h=18b4dc98e2182fd733480989980d59d4",
+      "player_url": "https://bolaloca.my/player/capo/179",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "MLS: Los Angeles FC vs Inter Miami",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTYucGhw&h=6e6aab41b9edfdf41bc7bf06d24c4e18",
+      "player_url": "https://streamx10.cloud/global1.php?channel=mls9",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "MLS: Los Angeles FC vs Inter Miami",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTcucGhw&h=d5397a6557e4ad3731cf86d9688fcff6",
+      "player_url": "https://streamx10.cloud/global1.php?channel=mls9",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "MLS: Los Angeles FC vs Inter Miami",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L3NlcmllYTgucGhw&h=640cb6b687029848608dd1dc1f5b78b7",
+      "player_url": "https://www.capoplay.net/seriea8.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "MLS: Los Angeles FC vs Inter Miami",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMS5waHA&h=24fecbf55103c2c62ee9a59e2ba299b4",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=mls1es",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs Guadalajara Chivas",
+      "event_time": "22:05:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs Guadalajara Chivas",
+      "event_time": "22:05:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDEucGhw&h=c4187489129a864b5007f184a2ae5dd2",
+      "player_url": "https://bolaloca.my/player/capo/68",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs Guadalajara Chivas",
+      "event_time": "22:05:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDIucGhw&h=153faedf1f944248a5631a4b4d27608a",
+      "player_url": "https://streamtp501.com/global2.php?stream=tudn_usa",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs Guadalajara Chivas",
+      "event_time": "22:05:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDMucGhw&h=2107450307cc6e43736a04f5c1b08472",
+      "player_url": "https://streamx10.cloud/global1.php?channel=tudnmx",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs Guadalajara Chivas",
+      "event_time": "22:05:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDQucGhw&h=329455046283ccee94280745d0e3a9ac",
+      "player_url": "https://www.capoplay.net/ligamx4.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs Guadalajara Chivas",
+      "event_time": "22:05:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMi5waHA&h=f75b2135b0ab0a8e03438a2b6a2072ff",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=canal5",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "MLS: Portland Timbers vs Columbus Crew",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 33",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzMucGhw&h=f2b5dc2952521e486be665a47a3988fd",
+      "player_url": "https://streamx10.cloud/global1.php?channel=mls10",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "MLS: Portland Timbers vs Columbus Crew",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 34",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzQucGhw&h=1aa30910f3b0e49c3895d9ccd968192c",
+      "player_url": "https://bolaloca.my/player/capo/180",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "MLS: San Diego FC vs Montreal",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 35",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzUucGhw&h=4191bb8692311e1284b88eb034437f0c",
+      "player_url": "https://streamx10.cloud/global1.php?channel=mls1",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "MLS: San Diego FC vs Montreal",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 36",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzYucGhw&h=35bf8ce9b67276ad5ef51a6934805cfe",
+      "player_url": "https://bolaloca.my/player/capo/170",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs Mazatlan FC",
+      "event_time": "00:10:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDUucGhw&h=8d11398ebee06c2b8a2dc4d69f72564c",
+      "player_url": "https://bolaloca.my/player/capo/68",
+      "player_domain": "bolaloca.my"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs Mazatlan FC",
+      "event_time": "00:10:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDYucGhw&h=2199c15dd40a655ee32f088b513f1842",
+      "player_url": "https://streamtp501.com/global2.php?stream=tudn_usa",
+      "player_domain": "streamtp501.com"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs Mazatlan FC",
+      "event_time": "00:10:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDcucGhw&h=7f59b2219d756cd914180c633aebc7c2",
+      "player_url": "https://streamx10.cloud/global1.php?channel=foxone1",
+      "player_domain": "streamx10.cloud"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs Mazatlan FC",
+      "event_time": "00:10:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FteDgucGhw&h=dacc4d6bd79dd3b473b7bbeddf58cc30",
+      "player_url": "https://www.capoplay.net/ligamx8.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs Mazatlan FC",
+      "event_time": "00:10:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMy5waHA&h=7122a93bc91e62588201057d35eb5fd8",
+      "player_url": "https://streamx10.cloud/global1.php?channel=tudnus",
+      "player_domain": "streamx10.cloud"
+    }
+  ]
+}
