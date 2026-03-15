@@ -793,7 +793,7 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
                 <iframe id="main-player" src="{e['channels'][0]['player_url']}" allowfullscreen scrolling="no" sandbox="allow-forms allow-scripts allow-same-origin allow-presentation"></iframe>
             </div>
             <div class="btn-grid">
-                {" ".join([f'<button onclick="changeChannel(\'{c["player_url"]}\', this)" class="btn {"active" if i==0 else ""}">{c["canal_name"]}</button>' for i, c in enumerate(e['channels'])])}
+                {" ".join([f'<button onclick="changeChannel(\'{c["player_url"]}\', this)" class="btn {"active" if i==0 else ""}">{c["canal_name"]}</a>' for i, c in enumerate(e['channels'])])}
             </div>
             <div style="padding: 15px; text-align: center;">
                 <button onclick="shareToTelegram('{e['title']}', '{e['time']}', '{match_url}')" class="btn" style="background: #0088cc; width: 100%; max-width: 300px;">
