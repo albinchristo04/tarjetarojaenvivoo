@@ -1,0 +1,24 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 2,
+  "events": [
+    {
+      "event_title": "Liga de Ecuador: Manta FC vs Universidad Catolica",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L29mZmxpbmUucGhw&h=847b361649569bc6ccf84b7bd5ff4aa6",
+      "player_url": "https://www.capoplay.net/offline.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga de Peru: Deportivo Garcilaso vs Melgar",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/https://rojadirectablog.pl/en-vivo/liga-1-max-peru.php",
+      "player_url": "https://tarjetaroja.com.co/es/live-match/https://rojadirectablog.pl/en-vivo/liga-1-max-peru.php",
+      "player_domain": "tarjetaroja.com.co"
+    }
+  ]
+}
