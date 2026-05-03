@@ -1,0 +1,96 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 10,
+  "events": [
+    {
+      "event_title": "Boxeo: David Benavidez vs Gilberto Ramirez",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczIucGhw&h=d69783614bbddea4475899b36820a533",
+      "player_url": "https://www.capoplay.net/capodeportes2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Boxeo: David Benavidez vs Gilberto Ramirez",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 34",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzQucGhw&h=1aa30910f3b0e49c3895d9ccd968192c",
+      "player_url": "https://www.capoplay.net/canal34.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Boxeo: David Benavidez vs Gilberto Ramirez",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 35 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzUucGhw&h=4191bb8692311e1284b88eb034437f0c",
+      "player_url": "https://streamtpnew.com/global1.php?stream=espn",
+      "player_domain": "streamtpnew.com"
+    },
+    {
+      "event_title": "Boxeo: David Benavidez vs Gilberto Ramirez",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 36 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMzYucGhw&h=35bf8ce9b67276ad5ef51a6934805cfe",
+      "player_url": "https://embedsports.top/embed/delta/live-event_gilberto-zurdo-ramirez-vs-david-benavidez-live-stream/1",
+      "player_domain": "embedsports.top"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Cruz Azul",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Cruz Azul",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMi5waHA&h=f75b2135b0ab0a8e03438a2b6a2072ff",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=tudn",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Serie A: Bologna vs Cagliari",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2xpZ2FkZWNhbXBlb25lcy5waHA&h=9789b38419ca51a76c824c17cd4ef867",
+      "player_url": "https://www.capoplay.net/ligadecampeones.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Serie A: Bologna vs Cagliari",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 7",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://zonalive.click/player/capo/87",
+      "player_domain": "zonalive.click"
+    },
+    {
+      "event_title": "Serie A: Bologna vs Cagliari",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://www.capoplay.net/ott.php?id=foxdeportes",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Serie A: Bologna vs Cagliari",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 9 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://streamtpnew.com/global1.php?stream=espn",
+      "player_domain": "streamtpnew.com"
+    }
+  ]
+}
