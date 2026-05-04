@@ -1,0 +1,87 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 9,
+  "events": [
+    {
+      "event_title": "Liga MX: America vs Pumas UNAM",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX: America vs Pumas UNAM",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMS5waHA&h=24fecbf55103c2c62ee9a59e2ba299b4",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=tudn",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Brasileirao: Mirassol vs Corinthians",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 50",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNTAucGhw&h=f8079e68c115e0f8a06476374c900216",
+      "player_url": "https://streamtpnew.com/global1.php?stream=fanatiz3",
+      "player_domain": "streamtpnew.com"
+    },
+    {
+      "event_title": "Brasileirao: Mirassol vs Corinthians",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 7",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://streamx550.com/global1.php?channel=premiere3",
+      "player_domain": "streamx550.com"
+    },
+    {
+      "event_title": "NBA: Cleveland Cavaliers vs Toronto Raptors",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlczIucGhw&h=d69783614bbddea4475899b36820a533",
+      "player_url": "https://www.capoplay.net/capodeportes2.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "NBA: Cleveland Cavaliers vs Toronto Raptors",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 8",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://zonalive.click/player/capo/189",
+      "player_domain": "zonalive.click"
+    },
+    {
+      "event_title": "NBA: Cleveland Cavaliers vs Toronto Raptors",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 9 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://streamtpnew.com/global1.php?stream=max4",
+      "player_domain": "streamtpnew.com"
+    },
+    {
+      "event_title": "NBA: Cleveland Cavaliers vs Toronto Raptors",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 10 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMTAucGhw&h=e99e43f33ef3b85896d78aef444a5076",
+      "player_url": "https://streamx550.com/global1.php?channel=amazon1",
+      "player_domain": "streamx550.com"
+    },
+    {
+      "event_title": "Liga MX: Toluca vs Pachuca",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMi5waHA&h=f75b2135b0ab0a8e03438a2b6a2072ff",
+      "player_url": "https://www.capoplay.net/canal2.php",
+      "player_domain": "www.capoplay.net"
+    }
+  ]
+}
