@@ -1,0 +1,33 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 3,
+  "events": [
+    {
+      "event_title": "LaLiga: Bayern Munich vs Paris Saint-Germain",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Bayern Munich vs Paris Saint-Germain",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMS5waHA&h=24fecbf55103c2c62ee9a59e2ba299b4",
+      "player_url": "https://www.capoplay.net/canal1.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "LaLiga: Bayern Munich vs Paris Saint-Germain",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMi5waHA&h=f75b2135b0ab0a8e03438a2b6a2072ff",
+      "player_url": "https://www.capoplay.net/canal2.php",
+      "player_domain": "www.capoplay.net"
+    }
+  ]
+}
