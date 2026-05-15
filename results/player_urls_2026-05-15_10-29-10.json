@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Liga MX: Pachuca vs Pumas UNAM",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX: Pachuca vs Pumas UNAM",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNS5waHA&h=8b2d7162f60ed447a5f4aa71990db147",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=azteca7",
+      "player_domain": "la14hd.com"
+    },
+    {
+      "event_title": "Liga MX Femenil: Monterrey vs America",
+      "event_time": "22:10:00",
+      "sport": "",
+      "canal_name": "Canal 24",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjQucGhw&h=54eeea4a0b57b8ef0ad1109e8e3518be",
+      "player_url": "https://www.capoplay.net/canal24.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Liga MX Femenil: Monterrey vs America",
+      "event_time": "22:10:00",
+      "sport": "",
+      "canal_name": "Canal 25 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsMjUucGhw&h=2f79fd69daa977dbe98ed4e5f93e5e9a",
+      "player_url": "https://www.capoplay.net/canal25.php",
+      "player_domain": "www.capoplay.net"
+    }
+  ]
+}
