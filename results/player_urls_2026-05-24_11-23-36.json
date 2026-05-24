@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Eredivisie: Ajax Amsterdam vs Utrecht",
+      "event_time": "05:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhcG9kZXBvcnRlcy5waHA&h=c42113798f4cd7e8fca9aab144a4ca4e",
+      "player_url": "https://www.capoplay.net/capodeportes.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Eredivisie: Ajax Amsterdam vs Utrecht",
+      "event_time": "05:15:00",
+      "sport": "",
+      "canal_name": "Canal 7",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsNy5waHA&h=d6d25fb25a8a52fd0412f921d87869ea",
+      "player_url": "https://18zone.click/player/capo/97",
+      "player_domain": "18zone.click"
+    },
+    {
+      "event_title": "Eredivisie: Ajax Amsterdam vs Utrecht",
+      "event_time": "05:15:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOC5waHA&h=d762e4407daab1c316291d0d807323a3",
+      "player_url": "https://streamx741.com/global2.php?channel=espnmx",
+      "player_domain": "streamx741.com"
+    },
+    {
+      "event_title": "Eredivisie: Ajax Amsterdam vs Utrecht",
+      "event_time": "05:15:00",
+      "sport": "",
+      "canal_name": "Canal 9 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L2NhbmFsOS5waHA&h=db09059987eb63b23c635388ce31f05f",
+      "player_url": "https://streamx741.com/global2.php?channel=disney13",
+      "player_domain": "streamx741.com"
+    }
+  ]
+}
