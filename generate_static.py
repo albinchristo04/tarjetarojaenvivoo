@@ -542,6 +542,22 @@ def get_hub_seo_content(slug):
                 <h3>Acceso desde cualquier país</h3>
                 <p><strong>Rojadirecta Online</strong> está disponible internacionalmente. Ya sea que te conectes desde España, México, Argentina, Colombia, Chile, Perú o cualquier otro país, nuestra plataforma se adapta a tu ubicación mostrándote los horarios en tu zona horaria local.</p>
                 <p>No necesitas VPN ni configuración especial. Simplemente abre tu navegador y disfruta del mejor deporte en vivo completamente gratis.</p>""",
+        "futbol-libre": """
+                <p>Bienvenido a <strong>Fútbol Libre</strong>, la sección más popular de Tarjeta Roja En Vivo para ver partidos de fútbol online sin costo. Si buscas <strong>Fútbol Libre</strong> en Bing, Google o cualquier buscador, esta es la página definitiva para acceder a transmisiones deportivas gratuitas.</p>
+                <p><strong>Fútbol Libre</strong> significa exactamente lo que dice: acceso libre y sin restricciones a todos los partidos de fútbol que se juegan hoy. Sin registros, sin suscripciones, sin tarjetas de crédito. Solo fútbol en vivo de calidad HD.</p>
+                <h3>¿Qué es Fútbol Libre?</h3>
+                <p><strong>Fútbol Libre</strong> es el concepto de poder ver cualquier partido de fútbol del mundo de forma gratuita por internet. En Tarjeta Roja En Vivo somos la mejor plataforma de <strong>Fútbol Libre en español</strong>, con cobertura de La Liga, Champions League, Premier League, Copa Libertadores, Liga MX, Liga Profesional Argentina, Brasileirão, Liga BetPlay y todas las ligas de Latinoamérica.</p>
+                <h3>Ligas disponibles en Fútbol Libre</h3>
+                <p>Nuestra cobertura de <strong>Fútbol Libre</strong> incluye: <strong>Liga MX</strong> (América, Chivas, Cruz Azul, Monterrey), <strong>Copa Libertadores</strong> y <strong>Copa Sudamericana</strong> (Boca Juniors, River Plate, Flamengo, Palmeiras), <strong>Liga Profesional Argentina</strong> (Racing, Independiente, San Lorenzo), <strong>Brasileirão</strong> (São Paulo, Corinthians, Grêmio), <strong>Liga BetPlay</strong> (Millonarios, Atlético Nacional, América de Cali), y todas las ligas europeas.</p>
+                <p>Accede a <strong>Fútbol Libre</strong> las 24 horas del día, los 7 días de la semana. Nuestra agenda se actualiza cada hora con los partidos del día.</p>""",
+        "futbol-en-vivo": """
+                <p>¿Quieres ver <strong>Fútbol En Vivo</strong> ahora mismo? En Tarjeta Roja En Vivo tenemos la parrilla más completa de partidos de fútbol en directo con transmisiones gratuitas en streaming HD. Si llegaste aquí buscando <strong>fútbol en vivo</strong>, estás en el lugar indicado.</p>
+                <p>Ver <strong>Fútbol En Vivo</strong> en internet nunca ha sido tan sencillo. Nuestra plataforma recopila automáticamente los mejores enlaces de streaming disponibles y los organiza por liga, horario y calidad de señal para que encuentres tu partido en segundos.</p>
+                <h3>Partidos de Fútbol En Vivo Hoy</h3>
+                <p>Nuestra sección de <strong>Fútbol En Vivo</strong> cubre todas las competiciones principales: <strong>La Liga EA Sports</strong>, <strong>Champions League</strong>, <strong>Premier League</strong>, <strong>Copa Libertadores</strong>, <strong>Liga MX</strong>, <strong>Serie A</strong>, <strong>Bundesliga</strong>, <strong>Ligue 1</strong>, <strong>Copa Sudamericana</strong>, <strong>Liga Profesional Argentina</strong>, <strong>Brasileirão</strong>, <strong>Liga BetPlay</strong> y más de 50 competiciones en todo el mundo.</p>
+                <h3>¿Cómo ver Fútbol En Vivo gratis?</h3>
+                <p>Simplemente navega por la agenda de partidos del día que aparece debajo, selecciona el evento que quieres ver y elige uno de los múltiples canales disponibles. No necesitas registrarte ni proporcionar datos personales. El acceso a todo nuestro <strong>fútbol en vivo</strong> es completamente libre y anónimo.</p>
+                <p>Compatible con todos los dispositivos: smartphone, tablet, PC, portátil y Smart TV. Nuestra web se adapta automáticamente a tu pantalla para la mejor experiencia posible.</p>""",
     }
     # Default content for unknown slugs
     name = slug.replace('-', ' ').title()
@@ -794,6 +810,9 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
         ("roja-directa-en-vivo", "🔴 Roja Directa En Vivo — Ver Fútbol Online Gratis Hoy | HD", "Roja Directa En Vivo te ofrece las mejores transmisiones de fútbol online gratis hoy. Enlaces verificados de Rojadirecta TV para ver La Liga, Champions y Copa Libertadores en directo."),
         ("futbol-en-vivo-gratis", "⚽ Fútbol En Vivo Gratis — Ver Partidos Online Hoy | Tarjeta Roja", "Ver fútbol en vivo gratis hoy online en Tarjeta Roja. Transmisiones HD de La Liga, Champions League, Premier League, Copa Libertadores y más sin registro ni pagos. Entra ya."),
         ("rojadirecta-online", "🔴 Rojadirecta Online — Ver Deportes En Vivo Gratis Hoy | Streaming", "Accede a Rojadirecta Online para ver deportes en vivo y gratis hoy. La mejor alternativa para ver fútbol, NBA, tenis y F1 en streaming HD sin interrupciones ni suscripciones."),
+        # High-volume LATAM keyword hubs
+        ("futbol-libre", "⚽ Fútbol Libre — Ver Partidos de Fútbol En Vivo y Gratis Hoy Online", "Fútbol Libre te permite ver todos los partidos de fútbol en vivo y gratis hoy. La Liga, Champions League, Copa Libertadores, Liga MX, Fútbol Argentino y más sin registro ni suscripción en Tarjeta Roja."),
+        ("futbol-en-vivo", "📺 Fútbol En Vivo — Ver Partidos Online Gratis Hoy | Tarjeta Roja En Vivo", "Ver fútbol en vivo y en directo gratis hoy online. Transmisiones HD de La Liga, Champions League, Premier League, Copa Libertadores, Liga MX, Brasileirão y todos los deportes en Tarjeta Roja En Vivo."),
     ]
 
     for slug, title, desc in hubs:
@@ -1232,6 +1251,12 @@ Sitemap: {DOMAIN}/sitemap.xml
 """
     with open(os.path.join(OUTPUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
         f.write(robots_content)
+
+    # 8. Generate IndexNow key verification file
+    print("🔑 Generating IndexNow key file...")
+    indexnow_key = "tarjetarojaenvivoseo2026key01"
+    with open(os.path.join(OUTPUT_DIR, f"{indexnow_key}.txt"), "w", encoding="utf-8") as f:
+        f.write(indexnow_key)
 
     print(f"✅ Success! Elite SEO Site generated in '{OUTPUT_DIR}'.")
 
