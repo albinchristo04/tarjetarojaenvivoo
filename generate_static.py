@@ -642,19 +642,63 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
     with open(os.path.join(OUTPUT_DIR, "style.css"), "w", encoding="utf-8") as f:
         f.write(css_content)
 
-    events = data['events']
+    # Adapt to new sportsonline API format (matches[] with channels[])
+    matches_raw = data.get('matches', data.get('events', []))
+    
+    def infer_sport(title):
+        """Infer sport from match title keywords."""
+        t = title.lower()
+        if any(k in t for k in ['nba', 'knicks', 'cavaliers', 'celtics', 'lakers', 'warriors', 'bucks', 'nuggets', 'heat', 'nets', 'hawks', 'pacers', 'pistons', 'magic', 'hornets', 'raptors', 'spurs', 'rockets', 'mavericks', 'thunder', 'grizzlies', 'pelicans', 'blazers', 'clippers', 'kings', 'suns', 'jazz', 'wolves', 'wizards', 'basketball']):
+            return 'Baloncesto'
+        if any(k in t for k in ['nhl', 'canadiens', 'hurricanes', 'bruins', 'rangers', 'penguins', 'capitals', 'lightning', 'panthers', 'maple leafs', 'oilers', 'avalanche', 'stars', 'predators', 'wild', 'flames', 'jets', 'kraken', 'senators', 'sabres', 'islanders', 'hockey']):
+            return 'Hockey'
+        if any(k in t for k in ['mlb', 'yankees', 'dodgers', 'red sox', 'astros', 'padres', 'mets', 'braves', 'phillies', 'cubs', 'cardinals', 'blue jays', 'guardians', 'orioles', 'tigers', 'twins', 'royals', 'pirates', 'diamondbacks', 'rockies', 'reds', 'marlins', 'rays', 'white sox', 'athletics', 'angels', 'mariners', 'brewers', 'nationals', 'giants', 'baseball']):
+            return 'Béisbol'
+        if any(k in t for k in ['motogp', 'moto2', 'moto3', 'grand prix', 'formula', 'f1', 'nascar']):
+            return 'Motor'
+        if any(k in t for k in ['ufc', 'boxing', 'boxeo', 'fight', 'combate']):
+            return 'Combate'
+        if any(k in t for k in ['tennis', 'tenis', 'roland garros', 'wimbledon', 'us open', 'australian open']):
+            return 'Tenis'
+        return 'Fútbol'
+    
     grouped = {}
-    for e in events:
-        key = f"{e['event_time']}-{e['event_title']}"
+    for m in matches_raw:
+        # Support both old format (event_title/event_time) and new format (title/time)
+        title = m.get('title', m.get('event_title', 'Unknown'))
+        time_val = m.get('time', m.get('event_time', '00:00'))
+        sport = m.get('sport', infer_sport(title))
+        
+        key = f"{time_val}-{title}"
         if key not in grouped:
             grouped[key] = {
-                "title": e['event_title'],
-                "time": e['event_time'],
-                "sport": e['sport'],
-                "slug": get_slug(e['event_title']),
+                "title": title,
+                "time": time_val,
+                "sport": sport,
+                "slug": get_slug(title),
                 "channels": []
             }
-        grouped[key]['channels'].append(e)
+        
+        # New API has channels[] array inside each match
+        channels = m.get('channels', [])
+        if channels:
+            for ch in channels:
+                grouped[key]['channels'].append({
+                    "canal_name": ch.get('label', ch.get('canal_name', 'Canal')),
+                    "player_url": ch.get('embed_url', ch.get('stable_url', ch.get('player_url', ''))),
+                    "event_title": title,
+                    "event_time": time_val,
+                    "sport": sport,
+                })
+        else:
+            # Old format: the match itself is a channel entry
+            grouped[key]['channels'].append({
+                "canal_name": m.get('canal_name', 'Canal 1'),
+                "player_url": m.get('player_url', m.get('embed_url', '')),
+                "event_title": title,
+                "event_time": time_val,
+                "sport": sport,
+            })
 
     # 1. Generate Homepage
     print("🏠 Generating Optimized Homepage...")
