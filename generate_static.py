@@ -236,19 +236,6 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
     {schema}
 </head>
 <body>
-    <!-- Top Banner Ad (320x50) -->
-    <div align="center" class="ad-container">
-      <script>
-        atOptions = {{
-          'key' : 'bfc5336b29b89b752c1b8d12eb6f945d',
-          'format' : 'iframe',
-          'height' : 50,
-          'width' : 320,
-          'params' : {{}}
-        }};
-      </script>
-      <script src="https://www.highperformanceformat.com/bfc5336b29b89b752c1b8d12eb6f945d/invoke.js"></script>
-    </div>
     <header>
         <h1>{h1}</h1>
     </header>
@@ -268,19 +255,6 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
     {breadcrumb_html}
     <div class="container">
         {content}
-        <!-- Bottom Banner Ad (300x250) -->
-        <div align="center" class="ad-container" style="margin: 20px 0;">
-          <script>
-            atOptions = {{
-              'key' : '78e3a616f8000082247c32440d4163a7',
-              'format' : 'iframe',
-              'height' : 250,
-              'width' : 300,
-              'params' : {{}}
-            }};
-          </script>
-          <script src="https://www.highperformanceformat.com/78e3a616f8000082247c32440d4163a7/invoke.js"></script>
-        </div>
     </div>
     <footer>
         <div class="footer-links">
@@ -582,34 +556,9 @@ def generate_site():
         with open("seo_rank_state.json", "r") as f:
             rank_state = json.load(f).get("pages", {})
 
-    # Define Ad Blocks
-    AD_TOP_320_50 = """
-    <div align="center" class="ad-container" style="margin: 15px 0;">
-      <script>
-        atOptions = {
-          'key' : 'bfc5336b29b89b752c1b8d12eb6f945d',
-          'format' : 'iframe',
-          'height' : 50,
-          'width' : 320,
-          'params' : {}
-        };
-      </script>
-      <script src="https://www.highperformanceformat.com/bfc5336b29b89b752c1b8d12eb6f945d/invoke.js"></script>
-    </div>"""
-
-    AD_BOTTOM_300_250 = """
-    <div align="center" class="ad-container" style="margin: 15px 0;">
-      <script>
-        atOptions = {
-          'key' : '78e3a616f8000082247c32440d4163a7',
-          'format' : 'iframe',
-          'height' : 250,
-          'width' : 300,
-          'params' : {}
-        };
-      </script>
-      <script src="https://www.highperformanceformat.com/78e3a616f8000082247c32440d4163a7/invoke.js"></script>
-    </div>"""
+    # Banner ads removed — only popup ad kept (better SEO, less CLS penalty)
+    AD_TOP_320_50 = ""
+    AD_BOTTOM_300_250 = ""
 
     # Generate external CSS file (Fix 1: eliminate duplicate inline CSS)
     print("🎨 Generating external style.css...")
