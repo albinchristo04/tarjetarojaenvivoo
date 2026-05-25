@@ -6,7 +6,7 @@ import random
 from datetime import datetime, timedelta
 
 # Configuration
-JSON_URL = "https://raw.githubusercontent.com/albinchristo04/tarjetarojaenvivoo/refs/heads/main/results/player_urls_latest.json"
+JSON_URL = "https://sportsonline.ppvtv.top/api/matches.json"
 # Get the absolute path to the 'web/dist' directory
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, "web", "dist")
@@ -40,6 +40,15 @@ os.makedirs(os.path.join(OUTPUT_DIR, "premier-league-en-vivo"), exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "copa-libertadores-en-vivo"), exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "liga-mx-en-vivo"), exist_ok=True)
 os.makedirs(os.path.join(OUTPUT_DIR, "nba-en-vivo"), exist_ok=True)
+# New LATAM league directories
+os.makedirs(os.path.join(OUTPUT_DIR, "futbol-argentino-en-vivo"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "brasileirao-en-vivo"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "liga-betplay-en-vivo"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "liga-peru-en-vivo"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "liga-chilena-en-vivo"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "copa-sudamericana-en-vivo"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "futbol-libre"), exist_ok=True)
+os.makedirs(os.path.join(OUTPUT_DIR, "futbol-en-vivo"), exist_ok=True)
 
 def get_slug(text):
     text = text.lower()
@@ -70,15 +79,35 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title}</title>
     <meta name="description" content="{description}">
+    <meta name="keywords" content="tarjeta roja en vivo, rojadirecta, pirlo tv, roja directa en vivo, tarjeta roja tv, futbol libre, futbol libre en vivo, futbol en vivo gratis, rojadirecta tv, pirlotv, roja directa, targeta roja, la roja directa, roja tv, rojadirecta futbol, pirlo tv tarjeta roja, rojadirecta online, liga mx en vivo, copa libertadores en vivo, futbol argentino en vivo, brasileirao en vivo, liga betplay en vivo, nba en vivo, fútbol en vivo hoy">
     <link rel="canonical" href="{canonical}">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     {breadcrumb_schema}
     <link rel="icon" href="/favicon.ico">
+    
+    <!-- Bing-specific meta tags -->
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large">
+    <meta name="msnbot" content="index, follow">
+    
+    <!-- Language & Locale for Bing -->
+    <meta name="language" content="es">
+    <meta name="geo.region" content="MX">
+    <meta name="geo.placename" content="México">
+    <meta http-equiv="content-language" content="es">
+    
+    <!-- AI Citation meta tags (Copilot, ChatGPT, Perplexity) -->
+    <meta name="citation_title" content="{title}">
+    <meta name="citation_site_title" content="Tarjeta Roja En Vivo">
+    <meta name="citation_language" content="es">
+    <meta name="citation_public_url" content="{canonical}">
     
     <!-- Open Graph -->
     <meta property="og:title" content="{title}">
     <meta property="og:description" content="{description}">
     <meta property="og:url" content="{canonical}">
     <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Tarjeta Roja En Vivo">
+    <meta property="og:locale" content="es_MX">
     <meta property="og:image" content="{DOMAIN}/og-image.jpg">
     
     <!-- Twitter Card -->
@@ -109,6 +138,7 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         "name": "Tarjeta Roja En Vivo",
         "url": "{DOMAIN}",
         "logo": "{DOMAIN}/favicon.ico",
+        "alternateName": ["Tarjeta Roja TV", "Rojadirecta", "Roja Directa", "Pirlo TV", "PirloTV", "Fútbol Libre", "Roja TV", "Targeta Roja", "RojaDirecta TV"],
         "sameAs": []
     }}
     </script>
@@ -117,11 +147,29 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "Tarjeta Roja En Vivo",
+        "alternateName": ["Tarjeta Roja TV", "Rojadirecta", "Roja Directa", "Pirlo TV", "Fútbol Libre", "Roja TV", "RojaDirecta En Vivo", "Futbol Libre En Vivo", "Tarjeta Roja Pirlo TV"],
         "url": "{DOMAIN}",
+        "inLanguage": "es",
         "potentialAction": {{
             "@type": "SearchAction",
             "target": "{DOMAIN}/?q={{search_term_string}}",
             "query-input": "required name=search_term_string"
+        }}
+    }}
+    </script>
+    <script type="application/ld+json">
+    {{
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "{title}",
+        "description": "{description}",
+        "url": "{canonical}",
+        "inLanguage": "es",
+        "isPartOf": {{"@type": "WebSite", "name": "Tarjeta Roja En Vivo", "url": "{DOMAIN}"}},
+        "publisher": {{"@type": "Organization", "name": "Tarjeta Roja En Vivo", "url": "{DOMAIN}"}},
+        "speakable": {{
+            "@type": "SpeakableSpecification",
+            "cssSelector": ["h1", "h2", ".seo-section p:first-child", ".faq-q", ".faq-a"]
         }}
     }}
     </script>
@@ -206,10 +254,13 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
     </header>
     <nav>
         <a href="/">INICIO</a>
+        <a href="/futbol-libre/" style="color:#00ff88;font-weight:bold;">⚽ FÚTBOL LIBRE</a>
         <a href="/agenda/futbol-en-vivo-hoy">FÚTBOL HOY</a>
         <a href="/rojadirecta/">ROJADIRECTA</a>
         <a href="/tarjeta-roja/">TARJETA ROJA</a>
         <a href="/pirlotv/">PIRLO TV</a>
+        <a href="/liga-mx-en-vivo/">LIGA MX</a>
+        <a href="/copa-libertadores-en-vivo/">LIBERTADORES</a>
         <a href="/champions-league-en-vivo/">CHAMPIONS</a>
         <a href="/la-liga-en-vivo/">LA LIGA</a>
         <a href="/nba-en-vivo/">NBA</a>
@@ -234,12 +285,23 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
     <footer>
         <div class="footer-links">
             <a href="/">INICIO</a> | 
+            <a href="/futbol-libre/" style="color:#00ff88;">FÚTBOL LIBRE</a> | 
+            <a href="/futbol-en-vivo/">FÚTBOL EN VIVO</a> | 
             <a href="/rojadirecta/">ROJADIRECTA</a> | 
             <a href="/tarjeta-roja/">TARJETA ROJA</a> | 
             <a href="/tarjeta-roja-en-vivo/">TARJETA ROJA EN VIVO</a> | 
             <a href="/pirlotv/">PIRLO TV</a> | 
             <a href="/roja-directa/">ROJA DIRECTA</a> | 
+            <a href="/roja-directa-en-vivo/">ROJA DIRECTA EN VIVO</a> | 
             <a href="/futbol-en-vivo-gratis/">FÚTBOL GRATIS</a> | 
+            <a href="/liga-mx-en-vivo/">LIGA MX</a> | 
+            <a href="/copa-libertadores-en-vivo/">COPA LIBERTADORES</a> | 
+            <a href="/futbol-argentino-en-vivo/">FÚTBOL ARGENTINO</a> | 
+            <a href="/brasileirao-en-vivo/">BRASILEIRÃO</a> | 
+            <a href="/liga-betplay-en-vivo/">LIGA BETPLAY</a> | 
+            <a href="/liga-peru-en-vivo/">LIGA 1 PERÚ</a> | 
+            <a href="/liga-chilena-en-vivo/">LIGA CHILENA</a> | 
+            <a href="/copa-sudamericana-en-vivo/">COPA SUDAMERICANA</a> | 
             <a href="/champions-league-en-vivo/">CHAMPIONS LEAGUE</a> | 
             <a href="/la-liga-en-vivo/">LA LIGA</a> | 
             <a href="/premier-league-en-vivo/">PREMIER LEAGUE</a> | 
@@ -247,7 +309,8 @@ def get_template(title, description, canonical, content, schema="", h1_title=Non
             <a href="/aviso-legal">AVISO LEGAL</a> | 
             <a href="/contacto">CONTACTO</a>
         </div>
-        <p>TARJETA ROJA | Rojadirecta TV | Pirlo TV | Champions League | La Liga | Premier League | NBA | Deportes En Vivo Online Gratis</p>
+        <p>TARJETA ROJA EN VIVO | Rojadirecta TV | Pirlo TV | Fútbol Libre | Roja Directa | Champions League | Copa Libertadores | Liga MX | Fútbol Argentino | Brasileirão | La Liga | Premier League | Liga BetPlay | Liga 1 Perú | NBA | Deportes En Vivo Online Gratis</p>
+        <p>Tarjeta Roja En Vivo (tarjetarojaenvivo.live) es un directorio de streams deportivos. No alojamos contenido de vídeo. También conocido como Fútbol Libre, Roja Directa, RojaDirecta, Pirlo TV y Tarjeta Roja TV.</p>
         <p>&copy; 2026 tarjetarojaenvivo.live - La mejor alternativa para ver fútbol gratis</p>
     </footer>
     <!-- Popop Ad -->
@@ -631,6 +694,10 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
         ("champions-league-en-vivo", "\u26bd Champions League"), ("la-liga-en-vivo", "\u26bd La Liga"),
         ("premier-league-en-vivo", "\u26bd Premier League"), ("copa-libertadores-en-vivo", "\u26bd Copa Libertadores"),
         ("liga-mx-en-vivo", "⚽ Liga MX"), ("nba-en-vivo", "🏀 NBA En Vivo"),
+        ("futbol-libre", "⚽ Fútbol Libre"), ("futbol-en-vivo", "📺 Fútbol En Vivo"),
+        ("futbol-argentino-en-vivo", "🇦🇷 Fútbol Argentino"), ("brasileirao-en-vivo", "🇧🇷 Brasileirão"),
+        ("liga-betplay-en-vivo", "🇨🇴 Liga BetPlay"), ("liga-peru-en-vivo", "🇵🇪 Liga 1 Perú"),
+        ("liga-chilena-en-vivo", "🇨🇱 Liga Chilena"), ("copa-sudamericana-en-vivo", "🥈 Copa Sudamericana"),
     ]
     for link_slug, link_name in all_hub_links:
         hp_content += f'<a href="/{link_slug}/" class="chan-btn" style="padding:12px;font-size:14px;">{link_name}</a>'
@@ -902,6 +969,25 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
         ("nba-en-vivo", "🏀 NBA En Vivo — Ver Partidos de Baloncesto Gratis Hoy | Streaming",
          "Ver la NBA en vivo y en directo gratis hoy. Partidos de Lakers, Celtics, Warriors, Bucks y más en streaming HD. La mejor alternativa para ver baloncesto online en Tarjeta Roja.",
          "NBA En Vivo", "NBA"),
+        # New LATAM leagues
+        ("futbol-argentino-en-vivo", "⚽ Fútbol Argentino En Vivo — Ver Liga Profesional Argentina Gratis Hoy",
+         "Ver Fútbol Argentino en vivo y en directo gratis hoy. Partidos de Boca Juniors, River Plate, Racing, Independiente y más de la Liga Profesional Argentina en streaming HD por Tarjeta Roja.",
+         "Fútbol Argentino En Vivo", "Fútbol Argentino"),
+        ("brasileirao-en-vivo", "⚽ Brasileirão En Vivo — Ver Serie A de Brasil Gratis Hoy | Streaming",
+         "Ver el Brasileirão en vivo y en directo gratis hoy. Partidos de Palmeiras, Flamengo, São Paulo, Corinthians y más de la Serie A de Brasil en Tarjeta Roja.",
+         "Brasileirão En Vivo", "Brasileirão"),
+        ("liga-betplay-en-vivo", "⚽ Liga BetPlay En Vivo — Ver Fútbol Colombiano Gratis Hoy | Tarjeta Roja",
+         "Ver la Liga BetPlay en vivo y en directo gratis hoy. Partidos de Millonarios, Atlético Nacional, América de Cali, Deportivo Cali y más del fútbol colombiano en streaming HD.",
+         "Liga BetPlay En Vivo", "Liga BetPlay"),
+        ("liga-peru-en-vivo", "⚽ Liga 1 Perú En Vivo — Ver Fútbol Peruano Gratis Hoy | Streaming",
+         "Ver la Liga 1 de Perú en vivo y en directo gratis hoy. Partidos de Alianza Lima, Universitario, Sporting Cristal y más del fútbol peruano en Tarjeta Roja.",
+         "Liga 1 Perú En Vivo", "Liga 1 Perú"),
+        ("liga-chilena-en-vivo", "⚽ Liga Chilena En Vivo — Ver Primera División de Chile Gratis Hoy",
+         "Ver la Liga Chilena en vivo y en directo gratis hoy. Partidos de Colo Colo, Universidad de Chile, U. Católica y más de la Primera División en streaming por Tarjeta Roja.",
+         "Liga Chilena En Vivo", "Liga Chilena"),
+        ("copa-sudamericana-en-vivo", "⚽ Copa Sudamericana En Vivo — Ver Partidos Gratis Hoy | Tarjeta Roja",
+         "Ver la Copa Sudamericana en vivo y en directo gratis hoy. Todos los partidos del torneo CONMEBOL en streaming HD por Tarjeta Roja En Vivo.",
+         "Copa Sudamericana En Vivo", "Copa Sudamericana"),
     ]
 
     for league_slug, league_title, league_desc, league_h1, league_name in leagues:
@@ -966,7 +1052,7 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
         f"{DOMAIN}/contacto"
     ], changefreq="weekly", priority="1.0")
     
-    write_sitemap("sitemap-hubs.xml", [f"{DOMAIN}/{h[0]}/" for h in hubs])
+    write_sitemap("sitemap-hubs.xml", [f"{DOMAIN}/{h[0]}/" for h in hubs] + [f"{DOMAIN}/futbol-libre/", f"{DOMAIN}/futbol-en-vivo/"])
     write_sitemap("sitemap-leagues.xml", [f"{DOMAIN}/{l[0]}/" for l in leagues])
     write_sitemap("sitemap-matches.xml", [f"{DOMAIN}/partido/{e['slug']}-en-vivo" for e in grouped.values()])
     write_sitemap("sitemap-dates.xml", [f"{DOMAIN}/agenda/futbol-en-vivo-hoy", f"{DOMAIN}/agenda/futbol-en-vivo-manana"])
@@ -1062,10 +1148,46 @@ footer { background: var(--red); color: #fff; text-align: center; padding: 30px;
     with open(os.path.join(OUTPUT_DIR, "contacto.html"), "w", encoding="utf-8") as f:
         f.write(contacto_html)
 
-    # 7. Generate robots.txt
-    print("🤖 Generating robots.txt...")
+    # 7. Generate robots.txt with AI bot directives
+    print("🤖 Generating robots.txt with AI bot directives...")
+    robots_content = f"""# Tarjeta Roja En Vivo — Fútbol Libre · Roja Directa · Pirlo TV
+# https://www.tarjetarojaenvivo.live
+
+# Bing crawler
+User-agent: bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: msnbot
+Allow: /
+
+# AI assistants (citation optimization)
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# General crawlers
+User-agent: *
+Allow: /
+
+Sitemap: {DOMAIN}/sitemap.xml
+"""
     with open(os.path.join(OUTPUT_DIR, "robots.txt"), "w", encoding="utf-8") as f:
-        f.write(f"User-agent: *\nAllow: /\nSitemap: {DOMAIN}/sitemap.xml")
+        f.write(robots_content)
 
     print(f"✅ Success! Elite SEO Site generated in '{OUTPUT_DIR}'.")
 
