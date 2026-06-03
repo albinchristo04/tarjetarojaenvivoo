@@ -1,0 +1,60 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 6,
+  "events": [
+    {
+      "event_title": "Amistoso Internacional: Croacia vs Belgica",
+      "event_time": "11:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly93d3cuY2Fwb3BsYXkubmV0L29mZmxpbmUucGhw&h=847b361649569bc6ccf84b7bd5ff4aa6",
+      "player_url": "https://www.capoplay.net/offline.php",
+      "player_domain": "www.capoplay.net"
+    },
+    {
+      "event_title": "Amistoso Internacional: Croacia vs Belgica",
+      "event_time": "11:00:00",
+      "sport": "",
+      "canal_name": "Canal 11",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwxMS5waHA&h=959ee990e432c3ee2332ee2aca64494e",
+      "player_url": "https://18zone.click/player/capo/87",
+      "player_domain": "18zone.click"
+    },
+    {
+      "event_title": "Amistoso Internacional: Croacia vs Belgica",
+      "event_time": "11:00:00",
+      "sport": "",
+      "canal_name": "Canal 13 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwxMy5waHA&h=fd9d530c9b902bf199df2b641931d487",
+      "player_url": "https://streamx741.com/global2.php?channel=disney1",
+      "player_domain": "streamx741.com"
+    },
+    {
+      "event_title": "Amistoso Internacional: Georgia vs Rumania",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 14",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwxNC5waHA&h=417801134602decc507c2093bde891ab",
+      "player_url": "https://18zone.click/player/capo/124",
+      "player_domain": "18zone.click"
+    },
+    {
+      "event_title": "Amistoso Internacional: Haiti vs Nueva Zelanda",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 22",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwyMi5waHA&h=db67b87e5696ff98d1de730c1111cd20",
+      "player_url": "https://18zone.click/player/capo/70",
+      "player_domain": "18zone.click"
+    },
+    {
+      "event_title": "Liga de Colombia: Atletico Junior vs Atletico Nacional",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwxLnBocA&h=fdf39f038104e2e26a1c0aa8bd63426b",
+      "player_url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
+      "player_domain": "la14hd.com"
+    }
+  ]
+}
