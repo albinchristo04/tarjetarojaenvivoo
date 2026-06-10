@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Amistoso Internacional: Argentina vs Islandia",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svZGVwb3J0ZXNwbHVzLnBocA&h=eb0d7153569cc90cd62d91de383f997d",
+      "player_url": "https://playvi.click/deportesplus.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Amistoso Internacional: Argentina vs Islandia",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwxLnBocA&h=fdf39f038104e2e26a1c0aa8bd63426b",
+      "player_url": "https://playvi.click/canal1.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Amistoso Internacional: Iraq vs Venezuela",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svZGVwb3J0ZXNwbHVzMy5waHA&h=7fae164f59a8826dfc752b3a76849b57",
+      "player_url": "https://playvi.click/deportesplus3.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Amistoso Internacional: Iraq vs Venezuela",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWwyLnBocA&h=d3335052990721ccc6af5eb3949e15ea",
+      "player_url": "https://streamx741.com/global2.php?channel=eventos1",
+      "player_domain": "streamx741.com"
+    }
+  ]
+}
