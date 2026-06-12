@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Copa Mundial: Corea del Sur vs Chequia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svZGVwb3J0ZXNwbHVzLnBocA&h=eb0d7153569cc90cd62d91de383f997d",
+      "player_url": "https://playvi.click/deportesplus.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Corea del Sur vs Chequia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWw2LnBocA&h=bcb6201a261927cd5eec426b0221b113",
+      "player_url": "https://playvi.click/ott5.php?id=la1",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Corea del Sur vs Chequia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWw3LnBocA&h=dbf18af72cef0f2ec7147ad52a1fcd81",
+      "player_url": "https://streamx741.com/global2.php?channel=disney1",
+      "player_domain": "streamx741.com"
+    },
+    {
+      "event_title": "Copa Mundial: Corea del Sur vs Chequia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 8",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svY2FuYWw4LnBocA&h=06e5a42b58b0bb51182a9d6856a518f3",
+      "player_url": "https://playvi.click/canal8.php",
+      "player_domain": "playvi.click"
+    }
+  ]
+}
