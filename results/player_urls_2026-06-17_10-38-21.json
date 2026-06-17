@@ -1,0 +1,114 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 12,
+  "events": [
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "Telemundo 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9tcGQucjJpbWctc3RvY2s3MDkud29ya2Vycy5kZXYvbXBkL2RybT91cmw9YUhSMGNITTZMeTlzYVhabExXOXVaV0Z3Y0Mxd2NtUXRibVYzY3k1aGEyRnRZV2w2WldRdWJtVjBMME52Ym5SbGJuUXZRMDFCUmw5UFRESXRRMVJTTFRSekwweHBkbVV2WTJoaGJtNWxiQ2hYVGtwVktTOXRZWE4wWlhJdWJYQmsmaz1ZemN4Wm1VM1ltTTRNbVl3TXpkak5tRm1NakZtWkRJNU9XUTJNelF4WWpBNk1UTXlNak5qT1RnNE9EWm1aalF6WkROak5XWXlOekZsWldJME5UZGpZelk9&h=f55788251b8ca75399004dc010dcc8af",
+      "player_url": "https://mpd.r2img-stock709.workers.dev/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY=",
+      "player_domain": "mpd.r2img-stock709.workers.dev"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz&h=2fd8cfabf2860470ae9904b8cd3b9679",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=dsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz&h=91255f45a828b72a964fb261f9340c83",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=vtvplus",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=900c71d957302453e174b606d4ccfa0a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM&h=91f111a62007dee07060f31a8dd1d3fc",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=tycsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s&h=c23d509f577c33a9c03cd54b462ccb9a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "FOX Sports 1 USA",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ&h=ec3ca44e6f7cfd608c34d1a7fd3a0030",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=foxsports1_usa",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "futbol",
+      "canal_name": "Sportv",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg&h=3adb41ee25f1e6eb95f89e9a0d736c7d",
+      "player_url": "https://la18hd.com/vivo/canales.php?stream=sportv",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa Mundial: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svZGVwb3J0ZXNwbHVzLnBocA&h=eb0d7153569cc90cd62d91de383f997d",
+      "player_url": "https://playvi.click/deportesplus.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjEucGhw&h=6f0fe2611e7ca1cddc553047d5720a7c",
+      "player_url": "https://playvi.click/premier1.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjIucGhw&h=b802d789bbceead7fc37e31744937d83",
+      "player_url": "https://playvi.click/premier2.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Austria vs Jordania",
+      "event_time": "23:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjMucGhw&h=456915b901f45dfb33a2de3b8fa9b1c1",
+      "player_url": "https://playvi.click/premier3.php",
+      "player_domain": "playvi.click"
+    }
+  ]
+}
