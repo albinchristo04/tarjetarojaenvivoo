@@ -1,0 +1,258 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 28,
+  "events": [
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OWtiV0puWVhvMGVHWTJhbmxvTG1Oc2IzVmtabkp2Ym5RdWJtVjBMMnhwZG1VdGMzUnlaV0Z0TFdSaGFTODJPVFk1TUdObVkyTmxNR1JqTURNeE9ETXdaVGRqTVdFdll6RTBOalJrWkRVNFpEVXdOR05rTW1Fek1EazFZVEZsTVROaFpHTXlPR012WkRrM056UXpaR1V6TmpJd1lUZzJOVGcwT0dabVpqZGhPV1JsTVRSa1pHRXhZbVl5TkRBNVpDOXpaWE56YVc5dUx6azRPRFUyTWpFMUxURXhaR1l0TkRabE1pMWhNVFpqTFdFMFlXSXhPV016TkdReFl5OXRZVzVwWm1WemRDNXRjR1EvY0d4aGVXVnlQVFk1T0dRd01qVmlNV1UzTlRVNFpXVmhNVEUzWWpSa1pDWmhZMk5sYzNOZmRHOXJaVzQ5V21rMFduTmtXRFpFVFhnelYwZFZSRUYxWWtNNWEwTjRaR1p3Wms1SWRVaGlNRkpOYlRaaVEwdElTbVU1UjA1WFVVTnFWV3BvVUdodk0ycENiRWRIUlhCNWNVbG1iM2RxT1ZKWEpuVnBaRDA0YzJRelYwbFJUemgxYmxKUmQwNWhNVmt4YTBFM01sVjFVRWhqUVd4MWFTWnphV1E5VVhaMWJtUnVXVFJtWTBsd016ZEJRbHBWUkU4NVpqZHZiV1ZOYVcxdk1VNG1jR2xrUFVkeVZIbHZZVU5vVVVneU5rVnpXRGhSWmtZM1VGTnphMnN5Y1cxaVpsbFZKbkpsWmoxa2FYUjFMbU5oY21GamIyeDBkaTVqYjIwbVpYaDBYM0JpUFRBbVpYTTlaRzFpWjJGNk5IaG1ObXA1YUM1amJHOTFaR1p5YjI1MExtNWxkQ1p3Y205MGJ6MW9kSFJ3Y3lad2VqMTFjeVo0Y2oxMWN5MWxZWE4wTFRJbWJXRnVhV1psYzNSbWFXeDBaWEk5ZG1sa1pXOWZhR1ZwWjJoME9qUTRNQzB4TURndyZrPU1XTTJZbVprT0dReFkyUmtOR1JtTmpsbFlUVm1ZelJrWkRKbU1ESTFZbUk2WWpabVpEa3dNREkzWkdGak4yRTVOR0U1TkRZeFpqaGlNall6T0dOaVlqUT0&h=962b4b5577e44c1ec6bd50da1a6b5c6f",
+      "player_url": "https://la18hd.com/mpd/drm.php?url=aHR0cHM6Ly9kbWJnYXo0eGY2anloLmNsb3VkZnJvbnQubmV0L2xpdmUtc3RyZWFtLWRhaS82OTY5MGNmY2NlMGRjMDMxODMwZTdjMWEvYzE0NjRkZDU4ZDUwNGNkMmEzMDk1YTFlMTNhZGMyOGMvZDk3NzQzZGUzNjIwYTg2NTg0OGZmZjdhOWRlMTRkZGExYmYyNDA5ZC9zZXNzaW9uLzk4ODU2MjE1LTExZGYtNDZlMi1hMTZjLWE0YWIxOWMzNGQxYy9tYW5pZmVzdC5tcGQ/cGxheWVyPTY5OGQwMjViMWU3NTU4ZWVhMTE3YjRkZCZhY2Nlc3NfdG9rZW49Wmk0WnNkWDZETXgzV0dVREF1YkM5a0N4ZGZwZk5IdUhiMFJNbTZiQ0tISmU5R05XUUNqVWpoUGhvM2pCbEdHRXB5cUlmb3dqOVJXJnVpZD04c2QzV0lRTzh1blJRd05hMVkxa0E3MlV1UEhjQWx1aSZzaWQ9UXZ1bmRuWTRmY0lwMzdBQlpVRE85ZjdvbWVNaW1vMU4mcGlkPUdyVHlvYUNoUUgyNkVzWDhRZkY3UFNza2sycW1iZllVJnJlZj1kaXR1LmNhcmFjb2x0di5jb20mZXh0X3BiPTAmZXM9ZG1iZ2F6NHhmNmp5aC5jbG91ZGZyb250Lm5ldCZwcm90bz1odHRwcyZwej11cyZ4cj11cy1lYXN0LTImbWFuaWZlc3RmaWx0ZXI9dmlkZW9faGVpZ2h0OjQ4MC0xMDgw&k=MWM2YmZkOGQxY2RkNGRmNjllYTVmYzRkZDJmMDI1YmI6YjZmZDkwMDI3ZGFjN2E5NGE5NDYxZjhiMjYzOGNiYjQ=",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz&h=2fd8cfabf2860470ae9904b8cd3b9679",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=dsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx&h=2bb88b0060d39714d7c2980dadb59373",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=disney1",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=900c71d957302453e174b606d4ccfa0a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz&h=91255f45a828b72a964fb261f9340c83",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=vtvplus",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Telefe",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlZmU&h=c5780323fc5cfae3bc3ce2db1c293da3",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=telefe",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Telemundo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8&h=906a543c63c8eef67da13fffe7056da9",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=telemundo",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s&h=0b80b91616467cf2f4e1ea61e1405085",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=caracol",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Suiza vs Bosnia-Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "TVE La 1 ES",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9tcGQucjJpbWctc3RvY2s3MDkud29ya2Vycy5kZXYvbXBkL2RybT91cmw9YUhSMGNITTZMeTl2ZEhSbExteHBkbVV1Wm14NUxuZDNMbUZwZGkxalpHNHVibVYwTDJ4b2NpMXVhWFJ5Ynk5c2FYWmxMMk5zYVdWdWRITXZaR0Z6YUM5bGJtTXZOakp4Wkd0bFpuWTVaaTl2ZFhRdmRqRXZaamRrTldJek5UWmxNRFE0TkRrMFlUZ3pNalUxTmpObE9Ea3hObVExTUdJdlkyVnVZeTV0Y0dRPSZrPVptUTRObVJrWlRCaFpUTmxNVFJtWmpVeFl6aG1ZemhtTWpRNFlUVXdaR0k2WkRFd05tRmxOemhpTURnNU0yUmhNbVUwTXprelpXTmxPVGswTWpCaVlXRT0&h=299d12cf48e6410360bd8cd09aa0d448",
+      "player_url": "https://mpd.r2img-stock709.workers.dev/mpd/drm?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE=",
+      "player_domain": "mpd.r2img-stock709.workers.dev"
+    },
+    {
+      "event_title": "Copa del Mundo: Canadá vs Qatar",
+      "event_time": "17:00:00",
+      "sport": "futbol",
+      "canal_name": "FOX Sports 1 USA",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ&h=ec3ca44e6f7cfd608c34d1a7fd3a0030",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=foxsports1_usa",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Canadá vs Qatar",
+      "event_time": "17:00:00",
+      "sport": "futbol",
+      "canal_name": "Cazé TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OXZkSFJsTG14cGRtVXVabXg1TG5kM0xtRnBkaTFqWkc0dWJtVjBMMmR5ZFMxdWFYUnlieTlzYVhabEwyTnNhV1Z1ZEhNdlpHRnphQzF6WkM5bGJtTXZkSGR5ZFd4a2FtY3lieTl2ZFhRdmRqRXZNamxoTkRNMk1ETTRNVFU1TkRZek1UZ3paall5TkdObE9EWmtObVZrTkdFdlkyVnVZeTF6WkM1dGNHUT0maz1PV1JrTXpSaFpUazNZMll4TkRkaVlUaG1OVFUyT1RkbU16Y3lNVEk0T0RjNll6WmxZVGsxWm1aa05UZG1ZamMwTlRNeFpEVmpZekl3TkRaaU9UYzJNelk9&h=991ac4c83880efe8c4c0bdc55ed9b6f6",
+      "player_url": "https://la18hd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC1zZC9lbmMvdHdydWxkamcyby9vdXQvdjEvMjlhNDM2MDM4MTU5NDYzMTgzZjYyNGNlODZkNmVkNGEvY2VuYy1zZC5tcGQ=&k=OWRkMzRhZTk3Y2YxNDdiYThmNTU2OTdmMzcyMTI4ODc6YzZlYTk1ZmZkNTdmYjc0NTMxZDVjYzIwNDZiOTc2MzY=",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Primera División de Chile: Universidad Chile vs O'Higgins",
+      "event_time": "19:00:00",
+      "sport": "futbol",
+      "canal_name": "TNT Sports Premium CL",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ&h=2f9222ebcd0087864846208238ee93cf",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=tntsportschile",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Primera División de Chile: Universidad Chile vs O'Higgins",
+      "event_time": "19:00:00",
+      "sport": "futbol",
+      "canal_name": "TNT Sports Premium CL Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3RudGNoaWxlLmh0bWw&h=885d3dd3711b6d6fde090834a6a6080c",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: México vs Corea del Sur",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM&h=91f111a62007dee07060f31a8dd1d3fc",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=tycsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: México vs Corea del Sur",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s&h=c23d509f577c33a9c03cd54b462ccb9a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: México vs Corea del Sur",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "Sportv",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg&h=3adb41ee25f1e6eb95f89e9a0d736c7d",
+      "player_url": "https://la18hd.com/vivo/canales.php?stream=sportv",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: México vs Corea del Sur",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "Win Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM&h=2c98cb01385e869ba5c48d0d5d535a19",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=winsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: México vs Corea del Sur",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "Universo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw&h=335033835a9444f9bb4bc42634ad33ee",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=universo",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: México vs Corea del Sur",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "TUDN MX",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RybS5waHA/dXJsPWFIUjBjSE02THk5dmRIUmxMbXhwZG1VdVpteDVMbmQzTG1GcGRpMWpaRzR1Ym1WMEwybGhaQzF1YVhSeWJ5OXNhWFpsTDJOc2FXVnVkSE12WkdGemFDOWxibU12T0hVNVkzSmxaM2RzZEM5dmRYUXZkakV2TmpnM1pqWmlNbUUxTlRrNU5ETTFORGxpWlRJM01UVXdOR0U1TkRobVptUXZZMlZ1WXk1dGNHUT0maz1NVGN4TUdGak1tSmlabU5rTXpBek1tUXdaalkxTXpNNE5UQTVOamhtTkRjNlpESTFORGhrWVdOak9HVm1ZMlF4WTJRd1lXWXdNemN6TURZd1l6Z3laR009&h=f4478acb67b8dbff0336b907d8ca17c9",
+      "player_url": "https://la16hd.com/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2lhZC1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvOHU5Y3JlZ3dsdC9vdXQvdjEvNjg3ZjZiMmE1NTk5NDM1NDliZTI3MTUwNGE5NDhmZmQvY2VuYy5tcGQ=&k=MTcxMGFjMmJiZmNkMzAzMmQwZjY1MzM4NTA5NjhmNDc6ZDI1NDhkYWNjOGVmY2QxY2QwYWYwMzczMDYwYzgyZGM=",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svZGVwb3J0ZXNwbHVzLnBocA&h=eb0d7153569cc90cd62d91de383f997d",
+      "player_url": "https://playvi.click/deportesplus.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjEucGhw&h=6f0fe2611e7ca1cddc553047d5720a7c",
+      "player_url": "https://playvi.click/premier1.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjIucGhw&h=b802d789bbceead7fc37e31744937d83",
+      "player_url": "https://latamvidzfy.org/dsportsar.php",
+      "player_domain": "latamvidzfy.org"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjMucGhw&h=456915b901f45dfb33a2de3b8fa9b1c1",
+      "player_url": "https://sudamericaplay2.com/canal_8112/rcn51.html",
+      "player_domain": "sudamericaplay2.com"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjQucGhw&h=0fc9f5d7c36021daccba37173fc039ea",
+      "player_url": "https://streamx741.com/global2.php?channel=vix2",
+      "player_domain": "streamx741.com"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjUucGhw&h=479c14b27a468e6b87c7deac5d3049ca",
+      "player_url": "https://latamvidzfy.org/tvela1.php",
+      "player_domain": "latamvidzfy.org"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjYucGhw&h=362269fd9d0efa389427cffa05cee7d5",
+      "player_url": "https://streamtpday1.xyz/global2.php?stream=dsports",
+      "player_domain": "streamtpday1.xyz"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjcucGhw&h=87d9baea914a97bcf2e556dc3eab386d",
+      "player_url": "https://playvi.click/premier7.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Suiza vs Bosnia y Herzegovina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 9 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjgucGhw&h=68a1ba1aa077d3206e2e92a4eb36a4b0",
+      "player_url": "https://streamx741.com/global2.php?channel=disney1",
+      "player_domain": "streamx741.com"
+    }
+  ]
+}
