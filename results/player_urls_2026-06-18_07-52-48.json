@@ -1,0 +1,114 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 12,
+  "events": [
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL21wZC9kcm0ucGhwP3VybD1hSFIwY0hNNkx5OWtiV0puWVhvMGVHWTJhbmxvTG1Oc2IzVmtabkp2Ym5RdWJtVjBMMnhwZG1VdGMzUnlaV0Z0TFdSaGFTODJPVFk1TUdObVkyTmxNR1JqTURNeE9ETXdaVGRqTVdFdll6RTBOalJrWkRVNFpEVXdOR05rTW1Fek1EazFZVEZsTVROaFpHTXlPR012WkRrM056UXpaR1V6TmpJd1lUZzJOVGcwT0dabVpqZGhPV1JsTVRSa1pHRXhZbVl5TkRBNVpDOXpaWE56YVc5dUx6azRPRFUyTWpFMUxURXhaR1l0TkRabE1pMWhNVFpqTFdFMFlXSXhPV016TkdReFl5OXRZVzVwWm1WemRDNXRjR1EvY0d4aGVXVnlQVFk1T0dRd01qVmlNV1UzTlRVNFpXVmhNVEUzWWpSa1pDWmhZMk5sYzNOZmRHOXJaVzQ5V21rMFduTmtXRFpFVFhnelYwZFZSRUYxWWtNNWEwTjRaR1p3Wms1SWRVaGlNRkpOYlRaaVEwdElTbVU1UjA1WFVVTnFWV3BvVUdodk0ycENiRWRIUlhCNWNVbG1iM2RxT1ZKWEpuVnBaRDA0YzJRelYwbFJUemgxYmxKUmQwNWhNVmt4YTBFM01sVjFVRWhqUVd4MWFTWnphV1E5VVhaMWJtUnVXVFJtWTBsd016ZEJRbHBWUkU4NVpqZHZiV1ZOYVcxdk1VNG1jR2xrUFVkeVZIbHZZVU5vVVVneU5rVnpXRGhSWmtZM1VGTnphMnN5Y1cxaVpsbFZKbkpsWmoxa2FYUjFMbU5oY21GamIyeDBkaTVqYjIwbVpYaDBYM0JpUFRBbVpYTTlaRzFpWjJGNk5IaG1ObXA1YUM1amJHOTFaR1p5YjI1MExtNWxkQ1p3Y205MGJ6MW9kSFJ3Y3lad2VqMTFjeVo0Y2oxMWN5MWxZWE4wTFRJbWJXRnVhV1psYzNSbWFXeDBaWEk5ZG1sa1pXOWZhR1ZwWjJoME9qUTRNQzB4TURndyZrPU1XTTJZbVprT0dReFkyUmtOR1JtTmpsbFlUVm1ZelJrWkRKbU1ESTFZbUk2WWpabVpEa3dNREkzWkdGak4yRTVOR0U1TkRZeFpqaGlNall6T0dOaVlqUT0&h=962b4b5577e44c1ec6bd50da1a6b5c6f",
+      "player_url": "https://la18hd.com/mpd/drm.php?url=aHR0cHM6Ly9kbWJnYXo0eGY2anloLmNsb3VkZnJvbnQubmV0L2xpdmUtc3RyZWFtLWRhaS82OTY5MGNmY2NlMGRjMDMxODMwZTdjMWEvYzE0NjRkZDU4ZDUwNGNkMmEzMDk1YTFlMTNhZGMyOGMvZDk3NzQzZGUzNjIwYTg2NTg0OGZmZjdhOWRlMTRkZGExYmYyNDA5ZC9zZXNzaW9uLzk4ODU2MjE1LTExZGYtNDZlMi1hMTZjLWE0YWIxOWMzNGQxYy9tYW5pZmVzdC5tcGQ/cGxheWVyPTY5OGQwMjViMWU3NTU4ZWVhMTE3YjRkZCZhY2Nlc3NfdG9rZW49Wmk0WnNkWDZETXgzV0dVREF1YkM5a0N4ZGZwZk5IdUhiMFJNbTZiQ0tISmU5R05XUUNqVWpoUGhvM2pCbEdHRXB5cUlmb3dqOVJXJnVpZD04c2QzV0lRTzh1blJRd05hMVkxa0E3MlV1UEhjQWx1aSZzaWQ9UXZ1bmRuWTRmY0lwMzdBQlpVRE85ZjdvbWVNaW1vMU4mcGlkPUdyVHlvYUNoUUgyNkVzWDhRZkY3UFNza2sycW1iZllVJnJlZj1kaXR1LmNhcmFjb2x0di5jb20mZXh0X3BiPTAmZXM9ZG1iZ2F6NHhmNmp5aC5jbG91ZGZyb250Lm5ldCZwcm90bz1odHRwcyZwej11cyZ4cj11cy1lYXN0LTImbWFuaWZlc3RmaWx0ZXI9dmlkZW9faGVpZ2h0OjQ4MC0xMDgw&k=MWM2YmZkOGQxY2RkNGRmNjllYTVmYzRkZDJmMDI1YmI6YjZmZDkwMDI3ZGFjN2E5NGE5NDYxZjhiMjYzOGNiYjQ=",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz&h=2fd8cfabf2860470ae9904b8cd3b9679",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=dsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=900c71d957302453e174b606d4ccfa0a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz&h=91255f45a828b72a964fb261f9340c83",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=vtvplus",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM&h=91f111a62007dee07060f31a8dd1d3fc",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=tycsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s&h=c23d509f577c33a9c03cd54b462ccb9a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s&h=0b80b91616467cf2f4e1ea61e1405085",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=caracol",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Uzbekistán vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "FOX Sports 1 USA",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ&h=ec3ca44e6f7cfd608c34d1a7fd3a0030",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=foxsports1_usa",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa Mundial: Uzbekistan vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svZGVwb3J0ZXNwbHVzLnBocA&h=eb0d7153569cc90cd62d91de383f997d",
+      "player_url": "https://playvi.click/deportesplus.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Uzbekistan vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjEucGhw&h=6f0fe2611e7ca1cddc553047d5720a7c",
+      "player_url": "https://playvi.click/premier1.php",
+      "player_domain": "playvi.click"
+    },
+    {
+      "event_title": "Copa Mundial: Uzbekistan vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjIucGhw&h=b802d789bbceead7fc37e31744937d83",
+      "player_url": "https://latamvidzfy.org/dsportsar.php",
+      "player_domain": "latamvidzfy.org"
+    },
+    {
+      "event_title": "Copa Mundial: Uzbekistan vs Colombia",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9wbGF5dmkuY2xpY2svcHJlbWllcjMucGhw&h=456915b901f45dfb33a2de3b8fa9b1c1",
+      "player_url": "https://sudamericaplay2.com/canal_8112/rcn51.html",
+      "player_domain": "sudamericaplay2.com"
+    }
+  ]
+}
