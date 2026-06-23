@@ -1,0 +1,69 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 7,
+  "events": [
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA&h=bda28ad49d7cef0f2fb836cd930a656c",
+      "player_url": "https://la16hd.com/dsportsar.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD LATAM",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA&h=36c9064a0d0b3a9a7bb6dedd06c9495f",
+      "player_url": "https://la16hd.com/dsportslatam.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=900c71d957302453e174b606d4ccfa0a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz&h=2fd8cfabf2860470ae9904b8cd3b9679",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=dsports",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Sportv",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWxlcy5waHA/c3RyZWFtPXNwb3J0dg&h=3adb41ee25f1e6eb95f89e9a0d736c7d",
+      "player_url": "https://la18hd.com/vivo/canales.php?stream=sportv",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "FOX Sports 1 USA",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ&h=ec3ca44e6f7cfd608c34d1a7fd3a0030",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=foxsports1_usa",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argelia",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Telemundo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8&h=906a543c63c8eef67da13fffe7056da9",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=telemundo",
+      "player_domain": "la18hd.com"
+    }
+  ]
+}
