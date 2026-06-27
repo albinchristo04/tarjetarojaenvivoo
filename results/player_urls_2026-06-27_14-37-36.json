@@ -1,0 +1,267 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 29,
+  "events": [
+    {
+      "event_title": "Segunda División: Atenas vs Tacuarembó",
+      "event_time": "08:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx&h=b95e968cfef930b1a3f2f87fe2742fc3",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney1",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Segunda División: Uruguay Montevideo vs Fénix",
+      "event_time": "11:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXky&h=f6925ad465dc1172f5bc2cde94f1664d",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney2",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Segunda División: Huracán vs Rentistas",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz&h=c3fbe8b34f0bbccc1b4ef449b51ee2e5",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney3",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Croacia vs Ghana",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports 2 HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHMyYXIucGhw&h=f0cb071f6594fdd882fd46b97a041709",
+      "player_url": "https://la16hd.com/dsports2ar.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Croacia vs Ghana",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzMg&h=fbdd1ea46ba6c201e6a9c6be417d3adb",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=dsports2",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Croacia vs Ghana",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports 2 Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHMyLmh0bWw&h=f72354c34f59fcc9543087c489a7812b",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/dsports2.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Croacia vs Ghana",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Universo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw&h=4c4da9eedb2d0107f328bf7f7171c61e",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=universo",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Croacia vs Ghana",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "FOX Sports 1 USA",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1mb3hzcG9ydHMxX3VzYQ&h=0254d408c92497314dde9e1d20cd9bb0",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=foxsports1_usa",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA&h=bda28ad49d7cef0f2fb836cd930a656c",
+      "player_url": "https://la16hd.com/dsportsar.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD LATAM",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA&h=36c9064a0d0b3a9a7bb6dedd06c9495f",
+      "player_url": "https://la16hd.com/dsportslatam.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=900c71d957302453e174b606d4ccfa0a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz&h=1b49dd095249082c6fbb049d97abbe5b",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=dsports",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM&h=e4ebb078a902799fc7a62ef6b26095d9",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=tycsports",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s&h=c23d509f577c33a9c03cd54b462ccb9a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Panamá vs Inglaterra",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Telemundo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8&h=613639de3809e8f05c73ffa564d81859",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Segunda División: Paysandu vs Miramar Misiones",
+      "event_time": "17:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk0&h=a6fe7dbbaaaa966309bce38e8dbf27fe",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney4",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Colombia vs Portugal",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "America TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1hbWVyaWNhdHY&h=40c404c18cf25f1e4ebae882c1363575",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=americatv",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Colombia vs Portugal",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "America TV Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2FtZXJpY2F0djEuaHRtbA&h=3747875119ead7c6d44a9f16258ba87a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/americatv1.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Colombia vs Portugal",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s&h=60d5c5cde5146dafd7515ca9dc2552c6",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=caracol",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Colombia vs Portugal",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1&h=02af79a1a0cfde8b7093278464b87f29",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=disney5",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Colombia vs Portugal",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "Canal 5 MX",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA&h=231c62fec67441554f9b52be543f9eca",
+      "player_url": "https://la16hd.com/canal5mx.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Colombia vs Portugal",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "TVE La 1  HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA&h=9b8e4f1c61a9382a6e33b052ab7a765b",
+      "player_url": "https://la16hd.com/la1tve.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: RD del Congo vs Uzbekistán",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "Dsports+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw&h=576d7e3c818839baf68961243eec7500",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=dsportsplus",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: RD del Congo vs Uzbekistán",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "Dsports+ Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RzcG9ydHNwbHVzLmh0bWw&h=a565e77e7ac49186c9d9d86f0982980b",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/dsportsplus.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: RD del Congo vs Uzbekistán",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "Dsports+ | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1ldmVudG9zMTU&h=c2971709d6b84b7fe5191749a417d80a",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=eventos15",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argentina",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz&h=7283cdbc9c3b934fec6e49eb73a394cf",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argentina",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2&h=2681c570a6c5187a3b7a09d5a5053269",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=disney6",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argentina",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Telefe",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlZmU&h=8b00d1580e2507a5a71e8c7a1c0f0922",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=telefe",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Jordania vs Argentina",
+      "event_time": "21:00:00",
+      "sport": "futbol",
+      "canal_name": "Win Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT13aW5zcG9ydHM&h=42860167d9e38906b71d26a665ef1245",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=winsports",
+      "player_domain": "la20hd.com"
+    }
+  ]
+}
