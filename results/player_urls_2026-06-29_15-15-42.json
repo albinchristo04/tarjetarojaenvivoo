@@ -1,0 +1,132 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 14,
+  "events": [
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA&h=bda28ad49d7cef0f2fb836cd930a656c",
+      "player_url": "https://la16hd.com/dsportsar.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD LATAM",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA&h=36c9064a0d0b3a9a7bb6dedd06c9495f",
+      "player_url": "https://la16hd.com/dsportslatam.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=900c71d957302453e174b606d4ccfa0a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kc3BvcnRz&h=1b49dd095249082c6fbb049d97abbe5b",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=dsports",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT12dHZwbHVz&h=7283cdbc9c3b934fec6e49eb73a394cf",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=vtvplus",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Telefe",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlZmU&h=8b00d1580e2507a5a71e8c7a1c0f0922",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=telefe",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s&h=60d5c5cde5146dafd7515ca9dc2552c6",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=caracol",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "TVE La 1  HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA&h=9b8e4f1c61a9382a6e33b052ab7a765b",
+      "player_url": "https://la16hd.com/la1tve.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Brasil vs Japón",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Telemundo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10ZWxlbXVuZG8&h=613639de3809e8f05c73ffa564d81859",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=telemundo",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Alemania vs Paraguay",
+      "event_time": "15:30:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10eWNzcG9ydHM&h=e4ebb078a902799fc7a62ef6b26095d9",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=tycsports",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Alemania vs Paraguay",
+      "event_time": "15:30:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3R5Y3Nwb3J0c2FyZy5odG1s&h=c23d509f577c33a9c03cd54b462ccb9a",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa Chile: Unión Española vs Colo-Colo",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "TNT Sports Premium CL",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ&h=2f9222ebcd0087864846208238ee93cf",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=tntsportschile",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa Chile: Unión Española vs Colo-Colo",
+      "event_time": "18:30:00",
+      "sport": "futbol",
+      "canal_name": "TNT Sports Premium CL Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vc3czLmh0bWw/Z2V0PWh0dHBzOi8vcm9qYWRpcmVjdGF0dmUuY29tL3JlcHJvL3RudGNoaWxlLmh0bWw&h=885d3dd3711b6d6fde090834a6a6080c",
+      "player_url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html",
+      "player_domain": "rojadirectatve.com"
+    },
+    {
+      "event_title": "Copa del Mundo: Países Bajos vs Marruecos",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "Canal 5 MX",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2NhbmFsNW14LnBocA&h=231c62fec67441554f9b52be543f9eca",
+      "player_url": "https://la16hd.com/canal5mx.php",
+      "player_domain": "la16hd.com"
+    }
+  ]
+}
