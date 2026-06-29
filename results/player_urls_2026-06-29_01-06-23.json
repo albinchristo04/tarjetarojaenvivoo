@@ -1,0 +1,15 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 1,
+  "events": [
+    {
+      "event_title": "Segunda División: Oriental vs Deportivo Colonia",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkz&h=c3fbe8b34f0bbccc1b4ef449b51ee2e5",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney3",
+      "player_domain": "la20hd.com"
+    }
+  ]
+}
