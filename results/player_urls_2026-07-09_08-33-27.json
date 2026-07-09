@@ -1,0 +1,24 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 2,
+  "events": [
+    {
+      "event_title": "Amistoso: Boca juniors vs Paranaense",
+      "event_time": "19:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx&h=b95e968cfef930b1a3f2f87fe2742fc3",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney1",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Amistoso: Boca juniors vs Paranaense",
+      "event_time": "19:00:00",
+      "sport": "futbol",
+      "canal_name": "ESPN3 MX",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuM214&h=f67385de513ba9d01bea6675c4d5361c",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=espn3mx",
+      "player_domain": "la20hd.com"
+    }
+  ]
+}
