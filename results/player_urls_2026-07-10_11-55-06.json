@@ -1,0 +1,24 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 2,
+  "events": [
+    {
+      "event_title": "Copa de la Liga: Ñublense vs O'Higgins",
+      "event_time": "18:00:00",
+      "sport": "futbol",
+      "canal_name": "TNT Sports Premium CL",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT10bnRzcG9ydHNjaGlsZQ&h=0c6ac45a03a0985951b96e7b8227db01",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=tntsportschile",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa de la Liga: Ñublense vs O'Higgins",
+      "event_time": "18:00:00",
+      "sport": "futbol",
+      "canal_name": "TNT Sports Premium CL Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3RudGNoaWxlLmh0bWw&h=ba9f1c4f6dac648cc90438930acabe09",
+      "player_url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tntchile.html",
+      "player_domain": "www.tarjetarojita.xyz"
+    }
+  ]
+}
