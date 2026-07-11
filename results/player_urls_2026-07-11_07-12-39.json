@@ -1,0 +1,15 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 1,
+  "events": [
+    {
+      "event_title": "Primera División: Deportivo Maldonado vs Albion",
+      "event_time": "17:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXkx&h=b95e968cfef930b1a3f2f87fe2742fc3",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=disney1",
+      "player_domain": "la20hd.com"
+    }
+  ]
+}
