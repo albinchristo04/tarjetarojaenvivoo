@@ -1,0 +1,33 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 3,
+  "events": [
+    {
+      "event_title": "Segunda División: La Luz vs Tacuarembó",
+      "event_time": "13:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE&h=59e591641e5205c5f1cde8733e246258",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Primera División: Cerro Largo vs Defensor Sporting",
+      "event_time": "17:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI&h=06fb4ba854342b079505889b315f4088",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Segunda División: Paysandu vs Fénix",
+      "event_time": "17:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM&h=139d5434496c238fabfd1b225271718b",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+      "player_domain": "la18hd.su"
+    }
+  ]
+}
