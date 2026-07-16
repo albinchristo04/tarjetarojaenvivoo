@@ -1,0 +1,51 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 5,
+  "events": [
+    {
+      "event_title": "Copa Mundial: Inglaterra vs Argentina",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "DSports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kc3BvcnRzYXIucGhw&h=0720e44fc078e6313da2ce65319a34bc",
+      "player_url": "https://esvidzypro.sbs/dsportsar.php",
+      "player_domain": "esvidzypro.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: Inglaterra vs Argentina",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "DSports | Solo LATAM (AR|CO|PE|CL|EC|UY)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9lc3ZpZHp5cHJvLnNicy9kc3BvcnRzbC5waHA&h=d9430b6a16db7865778341aaa75ec73f",
+      "player_url": "https://esvidzypro.sbs/dsportsl.php",
+      "player_domain": "esvidzypro.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: Inglaterra vs Argentina",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "DSports | OP 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZHNwb3J0cw&h=b86ae61d03465c936b7f1543f25554e5",
+      "player_url": "https://vidzenvivo.cc/canal.php?stream=dsports",
+      "player_domain": "vidzenvivo.cc"
+    },
+    {
+      "event_title": "Copa Mundial: Inglaterra vs Argentina",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "TyC Sports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09dHljc3BvcnRz&h=da50ca68e2401df402847d272fac176a",
+      "player_url": "https://vidzenvivo.cc/canal.php?stream=tycsports",
+      "player_domain": "vidzenvivo.cc"
+    },
+    {
+      "event_title": "Copa Mundial: Inglaterra vs Argentina",
+      "event_time": "20:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly92aWR6ZW52aXZvLmNjL2NhbmFsLnBocD9zdHJlYW09ZGlzbmV5MQ&h=722167a14d4678e2e3d3f43fcd87cf1f",
+      "player_url": "https://vidzenvivo.cc/canal.php?stream=disney1",
+      "player_domain": "vidzenvivo.cc"
+    }
+  ]
+}
