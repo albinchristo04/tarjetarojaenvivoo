@@ -1,0 +1,159 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 17,
+  "events": [
+    {
+      "event_title": "Segunda División: Uruguay Montevideo vs River Plate",
+      "event_time": "09:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE&h=59e591641e5205c5f1cde8733e246258",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney1",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Primera División: Progreso vs Deportivo Maldonado",
+      "event_time": "10:30:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI&h=06fb4ba854342b079505889b315f4088",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney2",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Liga 1: Deportivo Moquegua vs Comerciantes Unidos",
+      "event_time": "11:00:00",
+      "sport": "futbol",
+      "canal_name": "Liga1max",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWxpZ2ExbWF4&h=934e3a0c0f79b944d676c2b0a8b59caa",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=liga1max",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Liga 1: Deportivo Moquegua vs Comerciantes Unidos",
+      "event_time": "11:00:00",
+      "sport": "futbol",
+      "canal_name": "Liga1max Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2xpZ2FwZXJ1Lmh0bWw&h=eb45f1454b5f2c846ab938247b4d7994",
+      "player_url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/ligaperu.html",
+      "player_domain": "www.tarjetarojita.xyz"
+    },
+    {
+      "event_title": "Segunda División: Rentistas vs Cerrito",
+      "event_time": "12:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTM&h=139d5434496c238fabfd1b225271718b",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney3",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Primera División: Peñarol vs Boston River",
+      "event_time": "14:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRpc25leTQ&h=e37cc31dbecfacf9096da1c294af3837",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=disney4",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Partido Amistoso: Millonarios vs Colo-Colo",
+      "event_time": "15:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk1&h=02af79a1a0cfde8b7093278464b87f29",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=disney5",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNhci5waHA&h=bda28ad49d7cef0f2fb836cd930a656c",
+      "player_url": "https://la16hd.com/dsportsar.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports HD LATAM",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2RzcG9ydHNsYXRhbS5waHA&h=36c9064a0d0b3a9a7bb6dedd06c9495f",
+      "player_url": "https://la16hd.com/dsportslatam.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL2RpcmVjdHZwZXJ1Lmh0bWw&h=0668cf0616b1af147019e855b3a813ce",
+      "player_url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/directvperu.html",
+      "player_domain": "www.tarjetarojita.xyz"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "TVE La 1  HD",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE2aGQuY29tL2xhMXR2ZS5waHA&h=9b8e4f1c61a9382a6e33b052ab7a765b",
+      "player_url": "https://la16hd.com/la1tve.php",
+      "player_domain": "la16hd.com"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPWRzcG9ydHM&h=4c47942ca3694a2f0df6e71ff6b4f873",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=dsports",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Dsports | OP2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXZ0dnBsdXM&h=9b37ce80892af3cc402f82ed5f6c7315",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=vtvplus",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Disney+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1kaXNuZXk2&h=2681c570a6c5187a3b7a09d5a5053269",
+      "player_url": "https://la18hd.com/vivo/canal.php?stream=disney6",
+      "player_domain": "la18hd.com"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Caracol TV",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1jYXJhY29s&h=60d5c5cde5146dafd7515ca9dc2552c6",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=caracol",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Telemundo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXRlbGVtdW5kbw&h=94fe85aebafe6b00258aceb4034c18b5",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=telemundo",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Copa Mundial de la FIFA: Francia vs Inglaterra | 3er. Puesto",
+      "event_time": "16:00:00",
+      "sport": "futbol",
+      "canal_name": "Universo",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT11bml2ZXJzbw&h=4c4da9eedb2d0107f328bf7f7171c61e",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=universo",
+      "player_domain": "la20hd.com"
+    }
+  ]
+}
