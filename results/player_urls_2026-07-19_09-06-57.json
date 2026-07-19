@@ -1,0 +1,159 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 17,
+  "events": [
+    {
+      "event_title": "Liga MX: Querétaro vs América",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "TUDN USA",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXR1ZG4&h=c5118d480342f06cc4a8fefd00b8f14b",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=tudn",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Liga MX: Querétaro vs América",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "TUDN USA Movil",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly93d3cudGFyamV0YXJvaml0YS54eXovc3czLmh0bWw/Z2V0PWh0dHBzOi8vd3d3LnRhcmpldGFyb2ppdGEueHl6L3JlcHJvL3R1ZG51c2F0di5odG1s&h=4950f43f55870c83fda1c9274ad63909",
+      "player_url": "https://www.tarjetarojita.xyz/sw3.html?get=https://www.tarjetarojita.xyz/repro/tudnusatv.html",
+      "player_domain": "www.tarjetarojita.xyz"
+    },
+    {
+      "event_title": "Liga MX: Querétaro vs América",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Univisión",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXVuaXZpc2lvbg&h=73b8bbc4cd2bc97db8dc4577c21050aa",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=univision",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "UFC: Dricus Du Plessis vs Kamaru Usman",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Paramount+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTIwaGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1wYXJhbW91bnQx&h=6aa0a5daf0725dbc4be211c503b25f14",
+      "player_url": "https://la20hd.com/vivo/canal.php?stream=paramount1",
+      "player_domain": "la20hd.com"
+    },
+    {
+      "event_title": "UFC: Dricus Du Plessis vs Kamaru Usman",
+      "event_time": "22:00:00",
+      "sport": "futbol",
+      "canal_name": "Paramount+",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9sYTE4aGQuc3Uvdml2by9jYW5hbC5waHA/c3RyZWFtPXBhcmFtb3VudDI&h=2d59cda1c4d3d096db518b783ca73fbe",
+      "player_url": "https://la18hd.su/vivo/canal.php?stream=paramount2",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "UFC Fight Night: Dricus Du Plessis vs Kamaru Usman",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL29mZmxpbmUucGhw&h=385a74651a72e1ca8bc933ae9173d976",
+      "player_url": "https://playvi.org/offline.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: Monterrey Rayados vs Santos Laguna",
+      "event_time": "20:05:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: Monterrey Rayados vs Santos Laguna",
+      "event_time": "20:05:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDUucGhw&h=60abb8a680445b4bceed15a696d2622e",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotudn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Monterrey Rayados vs Santos Laguna",
+      "event_time": "20:05:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDYucGhw&h=0bc5abd7e950cdfa599926f22ff7933d",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Liga MX: Monterrey Rayados vs Santos Laguna",
+      "event_time": "20:05:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDcucGhw&h=514299bce8aa8133532955e77afd1b86",
+      "player_url": "https://streamx996.one/global2.php?channel=tudnus",
+      "player_domain": "streamx996.one"
+    },
+    {
+      "event_title": "Liga MX: Guadalajara Chivas vs Toluca",
+      "event_time": "20:07:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://playvi.org/deportesplus3.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: Guadalajara Chivas vs Toluca",
+      "event_time": "20:07:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDkucGhw&h=454835b5dfc93c81311f82d721b7ce17",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus6",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Guadalajara Chivas vs Toluca",
+      "event_time": "20:07:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEwLnBocA&h=bda5aa318647eb2fd6fd35fd696c5a28",
+      "player_url": "https://streamtp.sbs/global2.php?stream=telemundousa",
+      "player_domain": "streamtp.sbs"
+    },
+    {
+      "event_title": "Liga MX: Guadalajara Chivas vs Toluca",
+      "event_time": "20:07:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDExLnBocA&h=19ed7c818f5d07de861e2c288127b3e4",
+      "player_url": "https://streamx-hd.com/live2.php?stream=amazon1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga MX: Querétaro vs América",
+      "event_time": "22:10:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEucGhw&h=97cfa2303fe9c15c86123d852233b810",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotudn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Querétaro vs América",
+      "event_time": "22:10:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDIucGhw&h=97f33409ab69e38ea6b46bd3470cd6f4",
+      "player_url": "https://streamtp.sbs/global2.php?stream=tudn_usa",
+      "player_domain": "streamtp.sbs"
+    },
+    {
+      "event_title": "Liga MX: Querétaro vs América",
+      "event_time": "22:10:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDMucGhw&h=3b0a680d80cb9bd539a816aa92373114",
+      "player_url": "https://streamx-hd.com/live2.php?stream=foxone",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
