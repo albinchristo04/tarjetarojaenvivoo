@@ -1,0 +1,114 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 12,
+  "events": [
+    {
+      "event_title": "Liga de Ecuador: Técnico Universitario vs Aucas",
+      "event_time": "11:45:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTEucGhw&h=ea872a25ec66808bf918d4b216bb1d0c",
+      "player_url": "https://playvi.org/ecu1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Técnico Universitario vs Aucas",
+      "event_time": "11:45:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTIucGhw&h=094442797408815f38953964cb89ae38",
+      "player_url": "https://streamx-hd.com/live1.php?stream=zapping_ec",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Ecuador: Técnico Universitario vs Aucas",
+      "event_time": "11:45:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTMucGhw&h=56dd2581c46e7fb3748266ff76cad780",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus4",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTEucGhw&h=a2c30688ff0b0cb24b9492a5f7ee4278",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus3",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIucGhw&h=4400d528e74db1a82fb0474a7e4cdc96",
+      "player_url": "https://latamvidz99.sbs/dsportsco.php",
+      "player_domain": "latamvidz99.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTMucGhw&h=dd4033493d8bd3bbaf0eaf0f504253c0",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTQucGhw&h=e2e90efea27f97eeec3158c0574abdd2",
+      "player_url": "https://streamtp.sbs/global2.php?stream=telemundousa",
+      "player_domain": "streamtp.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTUucGhw&h=acedfa87cd1e5ffd7a63cc22d89446ed",
+      "player_url": "https://streamtp.sbs/global2.php?stream=dsports",
+      "player_domain": "streamtp.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 7 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTYucGhw&h=8ab1be56468cd69c6603a899cc3b5030",
+      "player_url": "https://streamx996.one/global2.php?channel=disney1",
+      "player_domain": "streamx996.one"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 8 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTcucGhw&h=62273e3f190b1166d8dbe3f817000b8f",
+      "player_url": "https://latamvidz99.sbs/tvela12.php",
+      "player_domain": "latamvidz99.sbs"
+    },
+    {
+      "event_title": "Copa Mundial: España vs Argentina",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 9 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTgucGhw&h=97fddd832594c928b42f2d3283beeb8c",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/1foxone.html",
+      "player_domain": "sudamericaplay.sbs"
+    }
+  ]
+}
