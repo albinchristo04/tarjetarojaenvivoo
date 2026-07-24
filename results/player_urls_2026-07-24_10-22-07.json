@@ -1,0 +1,141 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 15,
+  "events": [
+    {
+      "event_title": "Liga de Ecuador: Emelec vs Mushuc Runa",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTEucGhw&h=ea872a25ec66808bf918d4b216bb1d0c",
+      "player_url": "https://playvi.org/ecu1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Emelec vs Mushuc Runa",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTIucGhw&h=094442797408815f38953964cb89ae38",
+      "player_url": "https://streamx-hd.com/live2.php?stream=zapping_ec",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Ecuador: Emelec vs Mushuc Runa",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTMucGhw&h=56dd2581c46e7fb3748266ff76cad780",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus4",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs O'Higgins",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs O'Higgins",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXI0LnBocA&h=fae3a89b084661f358ef292fd7edc344",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs O'Higgins",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXI1LnBocA&h=d2c07f01f3fa7537f8da3b44d92235cb",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs O'Higgins",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXI2LnBocA&h=8d1b079c3cfb31b8d12438bc4e794133",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs Caracas FC",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://playvi.org/deportesplus3.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs Caracas FC",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTEucGhw&h=82ff43a73b151320fdb366997e794d76",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs Caracas FC",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTIucGhw&h=85a1349394795544de7e6723207f4462",
+      "player_url": "https://streamx488.sbs/global2.php?channel=disney3",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs Caracas FC",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTMucGhw&h=f25d06a953f0d62b7691e5df3f242f6d",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney3",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Defensa y Justicia vs Aldosivi",
+      "event_time": "19:45:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VzcG5wcmVtaXVtLnBocA&h=5e0fed6537d9ac34b28a826827a2b230",
+      "player_url": "https://playvi.org/espnpremium.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Defensa y Justicia vs Aldosivi",
+      "event_time": "19:45:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzQucGhw&h=e3cdc3d6b581c893ecef67b8a8106e5b",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespnpremium",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Defensa y Justicia vs Aldosivi",
+      "event_time": "19:45:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzUucGhw&h=e930cf2882588ac005461311cefc90bf",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espnpremium",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Defensa y Justicia vs Aldosivi",
+      "event_time": "19:45:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzcucGhw&h=4782f0bc2a2bd0eba6b7c6c2d61b0f68",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz8",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
