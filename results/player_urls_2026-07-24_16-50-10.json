@@ -1,0 +1,393 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 43,
+  "events": [
+    {
+      "event_title": "Formula 1: Gran Premio de Hungría, Prácticas Libres",
+      "event_time": "06:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2Zvcm11bGExLnBocA&h=379c38cd8ef4be36928ca980416afa33",
+      "player_url": "https://playvi.org/formula1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Hungría, Prácticas Libres",
+      "event_time": "06:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxMS5waHA&h=9e7454d072dd220090ef97658c26e77b",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capof1",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Hungría, Prácticas Libres",
+      "event_time": "06:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxMi5waHA&h=38491454e2252bc17dc34a86cedb3412",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Hungría, Prácticas Libres",
+      "event_time": "06:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxMy5waHA&h=497c466dee449d91c04cb0c0ba1d034f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=daznf1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Hungría, Prácticas Libres",
+      "event_time": "06:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxNC5waHA&h=b0d51cf4e32888ddbb61408412bbc020",
+      "player_url": "https://streamx488.sbs/global3.php?channel=fox1ar",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Gimnasia Mendoza vs Central Córdoba",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGFyZ2VudGluYS5waHA&h=54d74861d019dd8ff136b09c2c557d2a",
+      "player_url": "https://playvi.org/tntargentina.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Gimnasia Mendoza vs Central Córdoba",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzEucGhw&h=5786d96e176751ff0c8a712eb6314bdb",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotntar",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Gimnasia Mendoza vs Central Córdoba",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzIucGhw&h=136c502d46b874b4dc4c725eb42f4344",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntar",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Gimnasia Mendoza vs Central Córdoba",
+      "event_time": "14:45:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzMucGhw&h=69f855521c1ce11850eace70b8be6b2c",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Los Chankas",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2ExbWF4LnBocA&h=94da3b5b07d945b4534e07ce8d72570d",
+      "player_url": "https://playvi.org/liga1max.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Los Chankas",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUxLnBocA&h=fcadf15109d8c7973c98ee5c4dbeb132",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoliga1max",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Los Chankas",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUyLnBocA&h=23f830b354f72cce977d3dcc86e0ad6f",
+      "player_url": "https://streamx488.sbs/global3.php?channel=liga1max",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Los Chankas",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUzLnBocA&h=8b34dac5998138260422e64f0e7d031f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz3",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Vélez Sarsfield vs Instituto",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzcucGhw&h=4782f0bc2a2bd0eba6b7c6c2d61b0f68",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz5",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Gimnasia La Plata",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VzcG5wcmVtaXVtLnBocA&h=5e0fed6537d9ac34b28a826827a2b230",
+      "player_url": "https://playvi.org/espnpremium.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Gimnasia La Plata",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzQucGhw&h=e3cdc3d6b581c893ecef67b8a8106e5b",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespnpremium",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Gimnasia La Plata",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzUucGhw&h=e930cf2882588ac005461311cefc90bf",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espnpremium",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Gimnasia La Plata",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzYucGhw&h=990c587f499416d8b4bcc73e793973c7",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz6",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Montevideo City Torque vs Danubio",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTEucGhw&h=3d43aa850b639116c242a629cac00b84",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Montevideo City Torque vs Danubio",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTIucGhw&h=f840c422bc41fa43003f0aaeb039ede8",
+      "player_url": "https://embedme.click/player/capo/109",
+      "player_domain": "embedme.click"
+    },
+    {
+      "event_title": "Liga de Uruguay: Montevideo City Torque vs Danubio",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTMucGhw&h=a46468f376418986f5fc89cb07988f41",
+      "player_url": "https://streamx996.one/global2.php?channel=disney2",
+      "player_domain": "streamx996.one"
+    },
+    {
+      "event_title": "Liga de Colombia: Llaneros FC vs Deportivo Pereira",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Llaneros FC vs Deportivo Pereira",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDEucGhw&h=67934d98583a1ae28fddd396ac42a848",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Llaneros FC vs Deportivo Pereira",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDIucGhw&h=900512695d8d1836c0e2c91aa245d93e",
+      "player_url": "https://streamx488.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Llaneros FC vs Deportivo Pereira",
+      "event_time": "18:10:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDMucGhw&h=94e340c5cfdc5c41df68a8f3f0149c46",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz7",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Platense vs Unión Santa Fe",
+      "event_time": "19:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzgucGhw&h=1f86bda51cb023c1338de26a4a00484e",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz9",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Huracán vs Banfield",
+      "event_time": "19:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzkucGhw&h=04162fc4aa461de1a65a6cce722aeb2b",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney10",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Chile: Colo Colo vs Deportes Limache",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGNoaWxlLnBocA&h=a960fef34d8c2d18c6bd10044a3672f5",
+      "player_url": "https://playvi.org/tntchile.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Colo Colo vs Deportes Limache",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMS5waHA&h=03b6734575c5fa2591d2dd7a2ddb1692",
+      "player_url": "https://playvi.org/chile1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Colo Colo vs Deportes Limache",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMi5waHA&h=ba466f7243d51b16afb444569c446edb",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntsportscl",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Chile: Colo Colo vs Deportes Limache",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMy5waHA&h=45fd0a32de5963965f0c873753ffdabc",
+      "player_url": "https://streamx-hd.com/live2.php?stream=tntsportschile",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Deportivo Cali vs Jaguares de Córdoba",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDQucGhw&h=d209983abb7c4677013e962cb8588cad",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz10",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Peru: Universitario vs Cusco FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnU0LnBocA&h=bc23a532e63a5f821e35e3aeee09f9e8",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz11",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga MX: Atlante vs América",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: Atlante vs América",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEucGhw&h=97cfa2303fe9c15c86123d852233b810",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotudn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Atlante vs América",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDIucGhw&h=97f33409ab69e38ea6b46bd3470cd6f4",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tudnus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga MX: Atlante vs América",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDMucGhw&h=3b0a680d80cb9bd539a816aa92373114",
+      "player_url": "https://streamtp99a.sbs/global2.php?stream=espnmx",
+      "player_domain": "streamtp99a.sbs"
+    },
+    {
+      "event_title": "Liga MX: Atlante vs América",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDQucGhw&h=953d6c9f94fa9c0ece7df98b6ebfc283",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney11",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs León",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://playvi.org/deportesplus3.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs León",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDUucGhw&h=60abb8a680445b4bceed15a696d2622e",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus3",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs León",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDYucGhw&h=0bc5abd7e950cdfa599926f22ff7933d",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxone1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs León",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDcucGhw&h=514299bce8aa8133532955e77afd1b86",
+      "player_url": "https://streamtp99a.sbs/global2.php?stream=foxone1",
+      "player_domain": "streamtp99a.sbs"
+    },
+    {
+      "event_title": "Liga MX: Tijuana Xolos vs León",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDgucGhw&h=008ed00838052a3f4e385c94e01100de",
+      "player_url": "https://streamx-hd.com/live2.php?stream=foxone",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
