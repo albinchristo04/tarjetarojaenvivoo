@@ -1,0 +1,96 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 10,
+  "events": [
+    {
+      "event_title": "Amistoso: Juventus Turín vs Inter Milan",
+      "event_time": "06:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RzcG9ydHMucGhw&h=91b1885c9e6b164791330330b747e763",
+      "player_url": "https://playvi.org/dsports.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Inter Milan",
+      "event_time": "06:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTEucGhw&h=82ff43a73b151320fdb366997e794d76",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Inter Milan",
+      "event_time": "06:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTIucGhw&h=85a1349394795544de7e6723207f4462",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Inter Milan",
+      "event_time": "06:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTMucGhw&h=f25d06a953f0d62b7691e5df3f242f6d",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Inter Milan",
+      "event_time": "06:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTQucGhw&h=cacfc73e20e76a89b43bbe387fc79171",
+      "player_url": "https://streamx-hd.com/live2.php?stream=dsports",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Amistoso: Chelsea vs AC Milan",
+      "event_time": "07:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ycnRlc3BsdXMucGhw&h=6d6a17eb1451959f0a4efd64942616ae",
+      "player_url": "https://playvi.org/deporrtesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Amistoso: Chelsea vs AC Milan",
+      "event_time": "07:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTUucGhw&h=aca696412641798667d57925eeebeb3f",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Amistoso: Chelsea vs AC Milan",
+      "event_time": "07:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTYucGhw&h=3824947e436bed40b6621b494c03536c",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxdeportes",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Chelsea vs AC Milan",
+      "event_time": "07:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTcucGhw&h=f6556fd7936cbbdfeffc141ca919dfb1",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=clarosports",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Amistoso: Chelsea vs AC Milan",
+      "event_time": "07:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTgucGhw&h=9928dc11dfb9c242ae03c5d5add006b8",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox_deportes_usa",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
