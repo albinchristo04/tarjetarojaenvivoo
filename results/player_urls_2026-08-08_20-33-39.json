@@ -1,0 +1,141 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 15,
+  "events": [
+    {
+      "event_title": "Amistoso: Ferencvaros vs Real Madrid",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Amistoso: Ferencvaros vs Real Madrid",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTEucGhw&h=a2c30688ff0b0cb24b9492a5f7ee4278",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Amistoso: Ferencvaros vs Real Madrid",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIucGhw&h=4400d528e74db1a82fb0474a7e4cdc96",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Ferencvaros vs Real Madrid",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTMucGhw&h=dd4033493d8bd3bbaf0eaf0f504253c0",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney7",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Amistoso: Ferencvaros vs Real Madrid",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTQucGhw&h=e2e90efea27f97eeec3158c0574abdd2",
+      "player_url": "https://streamx-hd.com/live2.php?stream=espnar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Amistoso: Real Betis vs Bournemouth",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Amistoso: Real Betis vs Bournemouth",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTUucGhw&h=acedfa87cd1e5ffd7a63cc22d89446ed",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Amistoso: Real Betis vs Bournemouth",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTYucGhw&h=8ab1be56468cd69c6603a899cc3b5030",
+      "player_url": "https://streamx488.sbs/global3.php?channel=clarosports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Real Betis vs Bournemouth",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTcucGhw&h=62273e3f190b1166d8dbe3f817000b8f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=claro1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Amistoso: Real Betis vs Bournemouth",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTgucGhw&h=97fddd832594c928b42f2d3283beeb8c",
+      "player_url": "https://streamx488.sbs/global3.php?channel=clarosports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Barcelona vs Udinese / Nottingham Fores",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czUucGhw&h=3e68bb207791b29251f0049db0ab3605",
+      "player_url": "https://playvi.org/deportesplus5.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Amistoso: Barcelona vs Udinese / Nottingham Fores",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIxLnBocA&h=7eae490c43e89228e76e89b9e604fcc1",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus5",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Amistoso: Barcelona vs Udinese / Nottingham Fores",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIyLnBocA&h=0f0b66dc78b91433053ed5c6f347c0a3",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney9",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Barcelona vs Udinese / Nottingham Fores",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIzLnBocA&h=e7c84ae865cfc483b9c7bd05d932017f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Amistoso: Barcelona vs Udinese / Nottingham Fores",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXI0LnBocA&h=fae3a89b084661f358ef292fd7edc344",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney9",
+      "player_domain": "streamx488.sbs"
+    }
+  ]
+}
