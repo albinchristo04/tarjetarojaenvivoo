@@ -1,0 +1,258 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 28,
+  "events": [
+    {
+      "event_title": "Liga de Ecuador: Técnico Universitario vs Mushuc Runa",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTEucGhw&h=ea872a25ec66808bf918d4b216bb1d0c",
+      "player_url": "https://playvi.org/ecu1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Técnico Universitario vs Mushuc Runa",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTIucGhw&h=094442797408815f38953964cb89ae38",
+      "player_url": "https://streamx-hd.com/live2.php?stream=zapping_ec",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Ecuador: Técnico Universitario vs Mushuc Runa",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTMucGhw&h=56dd2581c46e7fb3748266ff76cad780",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus4",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Primeira Liga: Santa Clara vs CD Nacional",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByaW1laXJhMS5waHA&h=4acea1c29a36f528302f0c529580dc0c",
+      "player_url": "https://streamx488.sbs/global3.php?channel=fanatiz13",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Primeira Liga: Santa Clara vs CD Nacional",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByaW1laXJhMi5waHA&h=94e9a72f1339b271496de7fc7c6862d9",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDEucGhw&h=67934d98583a1ae28fddd396ac42a848",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDIucGhw&h=900512695d8d1836c0e2c91aa245d93e",
+      "player_url": "https://streamx488.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDMucGhw&h=94e340c5cfdc5c41df68a8f3f0149c46",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz7",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Paraguay: Libertad vs Sportivo Trinidense",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BhcmFndWF5MS5waHA&h=912ea3df52d5f09a1b225ff8ea10501a",
+      "player_url": "https://streamx488.sbs/global3.php?channel=fanatiz4",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Paraguay: Libertad vs Sportivo Trinidense",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BhcmFndWF5Mi5waHA&h=9f060b03af541dbf0c06d581e04db030",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz6",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Banfield vs Belgrano (Córdoba)",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGFyZ2VudGluYS5waHA&h=54d74861d019dd8ff136b09c2c557d2a",
+      "player_url": "https://playvi.org/tntargentina.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Banfield vs Belgrano (Córdoba)",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzEucGhw&h=5786d96e176751ff0c8a712eb6314bdb",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotntar",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Banfield vs Belgrano (Córdoba)",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzIucGhw&h=136c502d46b874b4dc4c725eb42f4344",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntar",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Banfield vs Belgrano (Córdoba)",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzMucGhw&h=69f855521c1ce11850eace70b8be6b2c",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney7",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Uruguay: Deportivo Maldonado vs Racing Montevideo",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTEucGhw&h=3d43aa850b639116c242a629cac00b84",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney10",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Uruguay: Deportivo Maldonado vs Racing Montevideo",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTIucGhw&h=f840c422bc41fa43003f0aaeb039ede8",
+      "player_url": "https://embedme.click/player/capo2/109",
+      "player_domain": "embedme.click"
+    },
+    {
+      "event_title": "Liga de Uruguay: Deportivo Maldonado vs Racing Montevideo",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTMucGhw&h=a46468f376418986f5fc89cb07988f41",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney13",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Independiente Medellín vs Millonarios",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDQucGhw&h=d209983abb7c4677013e962cb8588cad",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz4",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Ñublense",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGNoaWxlLnBocA&h=a960fef34d8c2d18c6bd10044a3672f5",
+      "player_url": "https://playvi.org/tntchile.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Ñublense",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMS5waHA&h=03b6734575c5fa2591d2dd7a2ddb1692",
+      "player_url": "https://playvi.org/chile1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Ñublense",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMi5waHA&h=ba466f7243d51b16afb444569c446edb",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntsportscl",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Ñublense",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMy5waHA&h=45fd0a32de5963965f0c873753ffdabc",
+      "player_url": "https://la18hd.su/vivo/canales.php?stream=tntsportschile",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Liga de Argentina: Unión (Santa Fe) vs Central Córdoba",
+      "event_time": "19:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VzcG5wcmVtaXVtLnBocA&h=5e0fed6537d9ac34b28a826827a2b230",
+      "player_url": "https://playvi.org/espnpremium.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Unión (Santa Fe) vs Central Córdoba",
+      "event_time": "19:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzQucGhw&h=e3cdc3d6b581c893ecef67b8a8106e5b",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz3",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Argentina: Unión (Santa Fe) vs Central Córdoba",
+      "event_time": "19:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzUucGhw&h=e930cf2882588ac005461311cefc90bf",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espnpremium",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Unión (Santa Fe) vs Central Córdoba",
+      "event_time": "19:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzYucGhw&h=990c587f499416d8b4bcc73e793973c7",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney9",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Colombia: Atlético Junior vs Deportivo Pereira",
+      "event_time": "20:05:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDUucGhw&h=916e3025630d881e54e679d44974cd8f",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz6",
+      "player_domain": "streamtp-golden1.click"
+    }
+  ]
+}
