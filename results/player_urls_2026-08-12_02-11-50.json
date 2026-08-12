@@ -1,0 +1,474 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 52,
+  "events": [
+    {
+      "event_title": "Amistoso: Juventus Turín vs Palermo",
+      "event_time": "05:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Palermo",
+      "event_time": "05:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTEucGhw&h=82ff43a73b151320fdb366997e794d76",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Palermo",
+      "event_time": "05:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTIucGhw&h=85a1349394795544de7e6723207f4462",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Palermo",
+      "event_time": "05:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTMucGhw&h=f25d06a953f0d62b7691e5df3f242f6d",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Amistoso: Juventus Turín vs Palermo",
+      "event_time": "05:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTQucGhw&h=cacfc73e20e76a89b43bbe387fc79171",
+      "player_url": "https://streamx-hd.com/live2.php?stream=dsports",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDEucGhw&h=67934d98583a1ae28fddd396ac42a848",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDIucGhw&h=900512695d8d1836c0e2c91aa245d93e",
+      "player_url": "https://streamx488.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbDMucGhw&h=94e340c5cfdc5c41df68a8f3f0149c46",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz7",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTEucGhw&h=18fdd39385a4c7a6192cf7c4c25f6165",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTIucGhw&h=a49d1d2fff99a965d3c21ff25da6bc5d",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTMucGhw&h=c4f1b18017249bb4b526e083a890a80e",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Deportivo Recoleta",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTQucGhw&h=d03ce6992c89f996b8883de1ca42dad6",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czUucGhw&h=3e68bb207791b29251f0049db0ab3605",
+      "player_url": "https://playvi.org/deportesplus5.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczEucGhw&h=5924d92ac1534e8f41314fa6ecc16a41",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczIucGhw&h=c6c186f64f02be0543d280e4b1e15118",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczMucGhw&h=ff65446e00e9ef51efe076083efc8e74",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney1",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Libertadores: Fluminense vs Independiente Rivadavia",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczQucGhw&h=4ad1567ed4b4ef3c975f7c1976fa102b",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox1ar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Leagues Cup: Columbus Crew vs Pumas UNAM",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Leagues Cup: Columbus Crew vs Pumas UNAM",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEucGhw&h=97cfa2303fe9c15c86123d852233b810",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Leagues Cup: Columbus Crew vs Pumas UNAM",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDIucGhw&h=97f33409ab69e38ea6b46bd3470cd6f4",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Columbus Crew vs Pumas UNAM",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDMucGhw&h=3b0a680d80cb9bd539a816aa92373114",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv3",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Leagues Cup: Charlotte FC vs Pachuca",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDQucGhw&h=953d6c9f94fa9c0ece7df98b6ebfc283",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Charlotte FC vs Pachuca",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDUucGhw&h=60abb8a680445b4bceed15a696d2622e",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Leagues Cup: FC Cincinnati vs Atlas",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDYucGhw&h=0bc5abd7e950cdfa599926f22ff7933d",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Leagues Cup: FC Cincinnati vs Atlas",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDcucGhw&h=514299bce8aa8133532955e77afd1b86",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tudnus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: FC Cincinnati vs Atlas",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDgucGhw&h=008ed00838052a3f4e385c94e01100de",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv5",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Talleres (Córdoba) vs Lanús",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGFyZ2VudGluYS5waHA&h=54d74861d019dd8ff136b09c2c557d2a",
+      "player_url": "https://playvi.org/tntargentina.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Talleres (Córdoba) vs Lanús",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzEucGhw&h=5786d96e176751ff0c8a712eb6314bdb",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotntar",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Talleres (Córdoba) vs Lanús",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzIucGhw&h=136c502d46b874b4dc4c725eb42f4344",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntar",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Talleres (Córdoba) vs Lanús",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzMucGhw&h=69f855521c1ce11850eace70b8be6b2c",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney7",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Leagues Cup: Minnesota United FC vs Atlante",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDkucGhw&h=454835b5dfc93c81311f82d721b7ce17",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls4",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Minnesota United FC vs Atlante",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEwLnBocA&h=bda5aa318647eb2fd6fd35fd696c5a28",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv7",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://playvi.org/deportesplus3.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczUucGhw&h=a19d72524db2c7eaf35c0087c4e2d888",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczYucGhw&h=967fa2bab0542f0131f62c87ff475555",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczcucGhw&h=bad4c8e4a0bb7a6f61d9c75bf180cce4",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney4",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Libertadores: Deportes Tolima vs Independiente del Valle",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczgucGhw&h=7b5b4cff9feae5ecfabcf3b30052611f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox1ar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Libertadores: Estudiantes de La Plata vs Universidad Católica (Chi)",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czYucGhw&h=cc04a2924ff1fe894ee274f06cbdb43b",
+      "player_url": "https://playvi.org/deportesplus6.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Libertadores: Estudiantes de La Plata vs Universidad Católica (Chi)",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczkucGhw&h=9c2913326229019807c3e7b9fd4498bd",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Libertadores: Estudiantes de La Plata vs Universidad Católica (Chi)",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczEwLnBocA&h=43d8dbf5dd9c3360701ac37eb802a3de",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Libertadores: Estudiantes de La Plata vs Universidad Católica (Chi)",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczExLnBocA&h=d83e81a34e10f28d6ba8fc4aa49075c3",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney4",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Libertadores: Estudiantes de La Plata vs Universidad Católica (Chi)",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczEyLnBocA&h=8397ff1b82499247d2588b8e17ac7653",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox1ar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Sudamericana: Bolívar vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czcucGhw&h=a7737d07fb5c26b62dfc152d8c42ea12",
+      "player_url": "https://playvi.org/deportesplus7.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Sudamericana: Bolívar vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTUucGhw&h=99df07e1cfc2ebdc94d61e69e284fef2",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Bolívar vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTcucGhw&h=c81b30dd3c66d22d2c547a7056007c28",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz5",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Sudamericana: Bolívar vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTgucGhw&h=3b21e7103fd275296650e971645763fe",
+      "player_url": "https://streamx-hd.com/live2.php?stream=dsports2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Leagues Cup: Real Salt Lake vs FC Juárez",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDExLnBocA&h=19ed7c818f5d07de861e2c288127b3e4",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls5",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Real Salt Lake vs FC Juárez",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEyLnBocA&h=4907d4c522d927bac60735f945c8ee78",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv9",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Leagues Cup: Tigres UANL vs Vancouver Whitecaps",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEzLnBocA&h=94f6139fae210884631727bc739145d0",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Leagues Cup: Tigres UANL vs Vancouver Whitecaps",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDE0LnBocA&h=1d267b2fa53e1e4e9fd1b532058b7dcc",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls6",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Tigres UANL vs Vancouver Whitecaps",
+      "event_time": "21:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDE1LnBocA&h=7705753aef4169f7e44401e795c5bd95",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv11",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
