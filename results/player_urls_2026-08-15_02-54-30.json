@@ -1,0 +1,366 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 40,
+  "events": [
+    {
+      "event_title": "Saudí Pro League: Al Hilal vs Al-Faisaly",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Hilal vs Al-Faisaly",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMS5waHA&h=c55ec6710f957f5c6ab66c77470229f6",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Hilal vs Al-Faisaly",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMi5waHA&h=00ec167327a9690cb22fe838830d79c7",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxone1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Hilal vs Al-Faisaly",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMy5waHA&h=3217e1bd0544a04c70bd0e3966e0d6e2",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox_deportes_usa",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Eredivisie: Telstar vs Sparta Rotterdam",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VyZWRpdmlzaWUxLnBocA&h=bfa9eb6afc4281ce832e90ed1eb6a04b",
+      "player_url": "https://streamx-hd.com/live2.php?stream=evento2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Eredivisie: Telstar vs Sparta Rotterdam",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VyZWRpdmlzaWUyLnBocA&h=af5347e88e6c21dd2d9d0499f43a910d",
+      "player_url": "https://streamx-hd.com/live2.php?stream=evento2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Peru: Atlético Grau vs Comerciantes Unidos",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2ExbWF4LnBocA&h=94da3b5b07d945b4534e07ce8d72570d",
+      "player_url": "https://playvi.org/liga1max.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Peru: Atlético Grau vs Comerciantes Unidos",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUxLnBocA&h=fcadf15109d8c7973c98ee5c4dbeb132",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoliga1max",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Peru: Atlético Grau vs Comerciantes Unidos",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUyLnBocA&h=23f830b354f72cce977d3dcc86e0ad6f",
+      "player_url": "https://streamx488.sbs/global3.php?channel=liga1max",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Peru: Atlético Grau vs Comerciantes Unidos",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUzLnBocA&h=8b34dac5998138260422e64f0e7d031f",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz3",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "LaLiga 2: Real Sociedad B vs Castellón",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIxLnBocA&h=9dd487d9ba3d2eb9190d26116b4b1415",
+      "player_url": "https://playvi.org/laliga21.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "LaLiga 2: Real Sociedad B vs Castellón",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIyLnBocA&h=806f526ef61173cfccf66627f3c2f42a",
+      "player_url": "https://playvi.org/laliga22.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "LaLiga 2: Real Sociedad B vs Castellón",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIzLnBocA&h=ec658798b60f21151dcba98be0a5fcb7",
+      "player_url": "https://playvi.org/laliga23.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Championship: Wolverhampton Wanderers vs Blackburn Rovers",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VzcG41LnBocA&h=033680f99c0f19dbf2aa3870d01578eb",
+      "player_url": "https://playvi.org/espn5.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Championship: Wolverhampton Wanderers vs Blackburn Rovers",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIxLnBocA&h=7eae490c43e89228e76e89b9e604fcc1",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn5",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Championship: Wolverhampton Wanderers vs Blackburn Rovers",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIyLnBocA&h=0f0b66dc78b91433053ed5c6f347c0a3",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn5",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Championship: Wolverhampton Wanderers vs Blackburn Rovers",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIzLnBocA&h=e7c84ae865cfc483b9c7bd05d932017f",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney2",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Coppa Italia: Fiorentina vs Benevento",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RzcG9ydHMucGhw&h=91b1885c9e6b164791330330b747e763",
+      "player_url": "https://playvi.org/dsports.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Coppa Italia: Fiorentina vs Benevento",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTEucGhw&h=82ff43a73b151320fdb366997e794d76",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Coppa Italia: Fiorentina vs Benevento",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTIucGhw&h=85a1349394795544de7e6723207f4462",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Coppa Italia: Fiorentina vs Benevento",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NlcmllYTgucGhw&h=9928dc11dfb9c242ae03c5d5add006b8",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Primeira Liga: Sporting CP vs Vitória de Guimaraes",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RzcG9ydHMyLnBocA&h=da21d3b350b5093596a6342ba5ffad09",
+      "player_url": "https://playvi.org/dsports2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Primeira Liga: Sporting CP vs Vitória de Guimaraes",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByaW1laXJhMS5waHA&h=4acea1c29a36f528302f0c529580dc0c",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Primeira Liga: Sporting CP vs Vitória de Guimaraes",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByaW1laXJhMi5waHA&h=94e9a72f1339b271496de7fc7c6862d9",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Primeira Liga: Sporting CP vs Vitória de Guimaraes",
+      "event_time": "14:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByaW1laXJhMy5waHA&h=3237d8703df47ff758f48f8dd284f118",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz2",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Boston River vs Danubio",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTEucGhw&h=3d43aa850b639116c242a629cac00b84",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney10",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Uruguay: Boston River vs Danubio",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTIucGhw&h=f840c422bc41fa43003f0aaeb039ede8",
+      "player_url": "https://embedme.click/player/capo2/109",
+      "player_domain": "embedme.click"
+    },
+    {
+      "event_title": "Liga de Uruguay: Boston River vs Danubio",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydTMucGhw&h=a46468f376418986f5fc89cb07988f41",
+      "player_url": "https://streamx-hd.com/live2.php?stream=disney13",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Peru: Cusco vs Juan Pablo II",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnU0LnBocA&h=bc23a532e63a5f821e35e3aeee09f9e8",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz8",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Chile: Universidad de Concepción vs La Serena",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGNoaWxlLnBocA&h=a960fef34d8c2d18c6bd10044a3672f5",
+      "player_url": "https://playvi.org/tntchile.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Universidad de Concepción vs La Serena",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMS5waHA&h=03b6734575c5fa2591d2dd7a2ddb1692",
+      "player_url": "https://playvi.org/chile1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Universidad de Concepción vs La Serena",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMi5waHA&h=ba466f7243d51b16afb444569c446edb",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntsportscl",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Chile: Universidad de Concepción vs La Serena",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMy5waHA&h=45fd0a32de5963965f0c873753ffdabc",
+      "player_url": "https://la18hd.su/vivo/canales.php?stream=tntsportschile",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Banfield",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGFyZ2VudGluYS5waHA&h=54d74861d019dd8ff136b09c2c557d2a",
+      "player_url": "https://playvi.org/tntargentina.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Banfield",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzEucGhw&h=5786d96e176751ff0c8a712eb6314bdb",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotntar",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Banfield",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzIucGhw&h=136c502d46b874b4dc4c725eb42f4344",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntar",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Racing Club vs Banfield",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZzMucGhw&h=69f855521c1ce11850eace70b8be6b2c",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz3",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Ecuador: Independiente del Valle vs Delfín",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTEucGhw&h=ea872a25ec66808bf918d4b216bb1d0c",
+      "player_url": "https://playvi.org/ecu1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Independiente del Valle vs Delfín",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTIucGhw&h=094442797408815f38953964cb89ae38",
+      "player_url": "https://streamx-hd.com/live2.php?stream=zapping_ec",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Liga de Ecuador: Independiente del Valle vs Delfín",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdTMucGhw&h=56dd2581c46e7fb3748266ff76cad780",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus4",
+      "player_domain": "xplayer.st"
+    }
+  ]
+}
