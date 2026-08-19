@@ -1,0 +1,492 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 54,
+  "events": [
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMS5waHA&h=602a7fda14d95d4212cefc6c97c6ef25",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMi5waHA&h=352374c5696576f661323a0421902a33",
+      "player_url": "https://streamx488.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Llaneros FC",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMy5waHA&h=295bf050292423302b722aaec8bf82a5",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczEucGhw&h=5924d92ac1534e8f41314fa6ecc16a41",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczIucGhw&h=c6c186f64f02be0543d280e4b1e15118",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczMucGhw&h=ff65446e00e9ef51efe076083efc8e74",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney5",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Libertadores: Cerro Porteño vs Palmeiras",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczQucGhw&h=4ad1567ed4b4ef3c975f7c1976fa102b",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox2ar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Libertadores: Coquimbo Unido vs Platense",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Libertadores: Coquimbo Unido vs Platense",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczUucGhw&h=a19d72524db2c7eaf35c0087c4e2d888",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn5",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Libertadores: Coquimbo Unido vs Platense",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczYucGhw&h=967fa2bab0542f0131f62c87ff475555",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn5",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Libertadores: Coquimbo Unido vs Platense",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczcucGhw&h=bad4c8e4a0bb7a6f61d9c75bf180cce4",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney6",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Libertadores: Coquimbo Unido vs Platense",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczgucGhw&h=7b5b4cff9feae5ecfabcf3b30052611f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox1ar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Sudamericana: Atlético Mineiro vs Red Bull Bragantino",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VzcG4yLnBocA&h=1a34db03aba494ed797096a01d31f610",
+      "player_url": "https://playvi.org/espn2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Sudamericana: Atlético Mineiro vs Red Bull Bragantino",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTEucGhw&h=18fdd39385a4c7a6192cf7c4c25f6165",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Atlético Mineiro vs Red Bull Bragantino",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTIucGhw&h=a49d1d2fff99a965d3c21ff25da6bc5d",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Atlético Mineiro vs Red Bull Bragantino",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTMucGhw&h=c4f1b18017249bb4b526e083a890a80e",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney7",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Sudamericana: Atlético Mineiro vs Red Bull Bragantino",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTQucGhw&h=d03ce6992c89f996b8883de1ca42dad6",
+      "player_url": "https://streamx-hd.com/live2.php?stream=dsportspe",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Argentina: Racing Club vs Belgrano",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3R5Y3Nwb3J0cy5waHA&h=82a37962628df2331fe00dfa96d74b7b",
+      "player_url": "https://playvi.org/tycsports.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Argentina: Racing Club vs Belgrano",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTcucGhw&h=802a3c4d3c9f063fb6215a6b987eb33c",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotyc",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Argentina: Racing Club vs Belgrano",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTgucGhw&h=f55e00a860b5dfe86c9cfdf72b39a99e",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tyc",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Argentina: Racing Club vs Belgrano",
+      "event_time": "17:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTkucGhw&h=485094ff21e324ecc70d0b85bce1c28a",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz5",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Colombia: Cúcuta Deportivo vs Internacional de Bogotá",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhNC5waHA&h=0947ffef9ff4706178377afacb112758",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz6",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "MLS: Philadelphia Union vs Inter Miami",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://playvi.org/deportesplus3.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "MLS: Philadelphia Union vs Inter Miami",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEucGhw&h=f7e04f05462b47344b05a394ccd1507b",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus7",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "MLS: Philadelphia Union vs Inter Miami",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczIucGhw&h=f47ef0b8132811c6123f37bf5725ce94",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Philadelphia Union vs Inter Miami",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczMucGhw&h=e79923ebfb7d21fda4661efdc9eadfec",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv1",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: Columbus Crew vs Montreal Impact",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczQucGhw&h=c3c646e08b8cefba94095f943a28275a",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Columbus Crew vs Montreal Impact",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczUucGhw&h=8f7aae656654f829117af1eac5bc9964",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv3",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: Cincinnati vs New York City",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczYucGhw&h=5171988ac19d2ba72bd962c23a398303",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls5",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Cincinnati vs New York City",
+      "event_time": "18:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczcucGhw&h=c066b4e438437cc75820276d469819cf",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv9",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: Sporting Kansas City vs St. Louis City",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czUucGhw&h=3e68bb207791b29251f0049db0ab3605",
+      "player_url": "https://playvi.org/deportesplus5.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "MLS: Sporting Kansas City vs St. Louis City",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczgucGhw&h=96c72a938d7330a25415e6e635d6512c",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus5",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "MLS: Sporting Kansas City vs St. Louis City",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczkucGhw&h=a3491e8d8be99515ebf7114fbe72a383",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxdeportes",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Sporting Kansas City vs St. Louis City",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEwLnBocA&h=f2c11dc036f827824475c667ffe85cc2",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv15",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Libertadores: Flamengo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczkucGhw&h=9c2913326229019807c3e7b9fd4498bd",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Libertadores: Flamengo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczEwLnBocA&h=43d8dbf5dd9c3360701ac37eb802a3de",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Libertadores: Flamengo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczExLnBocA&h=d83e81a34e10f28d6ba8fc4aa49075c3",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney8",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Libertadores: Flamengo vs Cruzeiro",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpYmVydGFkb3JlczEyLnBocA&h=8397ff1b82499247d2588b8e17ac7653",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fox1ar",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs River Plate",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTUucGhw&h=99df07e1cfc2ebdc94d61e69e284fef2",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs River Plate",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTYucGhw&h=b81cb1ccb50c7e98d2dee391bcbb36df",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs River Plate",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTcucGhw&h=c81b30dd3c66d22d2c547a7056007c28",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney9",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Sudamericana: Independiente Santa Fe vs River Plate",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTgucGhw&h=3b21e7103fd275296650e971645763fe",
+      "player_url": "https://streamx-hd.com/live2.php?stream=dsportspe",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "Copa Sudamericana: Montevideo City Torque vs Tigre",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RzcG9ydHMucGhw&h=91b1885c9e6b164791330330b747e763",
+      "player_url": "https://playvi.org/dsports.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Sudamericana: Montevideo City Torque vs Tigre",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTkucGhw&h=4222f9e48f7e812380d09d15dfa7644a",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capodsports",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Sudamericana: Montevideo City Torque vs Tigre",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTEwLnBocA&h=b633dd8e7e408aad7fb7d1559fa19556",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Montevideo City Torque vs Tigre",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTExLnBocA&h=c774d4a0c4bdedc3c6937d52c894ed4f",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Montevideo City Torque vs Tigre",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTEyLnBocA&h=d17aa1b7a06ac0bd3048f68e36570a58",
+      "player_url": "https://streamx-hd.com/live2.php?stream=fanatiz6",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: Minnesota United vs Atlanta United",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczExLnBocA&h=83c31d85ceebf800f166719a297577f1",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls9",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Minnesota United vs Atlanta United",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEyLnBocA&h=fd6866a331ef039bee229d182ce1294c",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv17",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: Colorado Rapids vs Los Ángeles FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEzLnBocA&h=bbbec6040e974128e68b8626b1c7a472",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls10",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Colorado Rapids vs Los Ángeles FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE0LnBocA&h=9c89505c50a624d90e0228804a2585ba",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv19",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs San Jose Earthquakes",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE1LnBocA&h=e5b5b4ddedd55cd05f6a77cad319f88f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv25",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
