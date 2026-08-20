@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Saudí Pro League: Al Fayha vs Al Hilal",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Fayha vs Al Hilal",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMS5waHA&h=c55ec6710f957f5c6ab66c77470229f6",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus6",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Fayha vs Al Hilal",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMi5waHA&h=00ec167327a9690cb22fe838830d79c7",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxone1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Fayha vs Al Hilal",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMy5waHA&h=3217e1bd0544a04c70bd0e3966e0d6e2",
+      "player_url": "hhttps://streamtp-golden1.click/global2.php?stream=fox_deportes_usa",
+      "player_domain": "streamtp-golden1.click"
+    }
+  ]
+}
