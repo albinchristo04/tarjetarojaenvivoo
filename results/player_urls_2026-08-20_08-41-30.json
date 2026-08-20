@@ -1,0 +1,60 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 6,
+  "events": [
+    {
+      "event_title": "MLS: Colorado Rapids vs Los Ángeles FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEzLnBocA&h=bbbec6040e974128e68b8626b1c7a472",
+      "player_url": "https://streamx488.sbs/global3.php?channel=mls10",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: Colorado Rapids vs Los Ángeles FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE0LnBocA&h=9c89505c50a624d90e0228804a2585ba",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv19",
+      "player_domain": "streamx-hd.com"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs San Jose Earthquakes",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czUucGhw&h=3e68bb207791b29251f0049db0ab3605",
+      "player_url": "https://playvi.org/deportesplus5.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs San Jose Earthquakes",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczgucGhw&h=96c72a938d7330a25415e6e635d6512c",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus5",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs San Jose Earthquakes",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczkucGhw&h=a3491e8d8be99515ebf7114fbe72a383",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxdeportes",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs San Jose Earthquakes",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE1LnBocA&h=e5b5b4ddedd55cd05f6a77cad319f88f",
+      "player_url": "https://streamx-hd.com/live2.php?stream=appletv25",
+      "player_domain": "streamx-hd.com"
+    }
+  ]
+}
