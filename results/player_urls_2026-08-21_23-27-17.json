@@ -1,0 +1,402 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 44,
+  "events": [
+    {
+      "event_title": "Liga de Peru: FC Cajamarca vs Atlético Grau",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2ExbWF4LnBocA&h=94da3b5b07d945b4534e07ce8d72570d",
+      "player_url": "https://playvi.org/liga1max.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Peru: FC Cajamarca vs Atlético Grau",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUxLnBocA&h=fcadf15109d8c7973c98ee5c4dbeb132",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoliga1max",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Peru: FC Cajamarca vs Atlético Grau",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUyLnBocA&h=23f830b354f72cce977d3dcc86e0ad6f",
+      "player_url": "https://streamx488.sbs/global3.php?channel=liga1max",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Peru: FC Cajamarca vs Atlético Grau",
+      "event_time": "12:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUzLnBocA&h=8b34dac5998138260422e64f0e7d031f",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz1",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Argentina: Aldosivi vs Unión (Santa Fe)",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGFyZ2VudGluYS5waHA&h=54d74861d019dd8ff136b09c2c557d2a",
+      "player_url": "https://playvi.org/tntargentina.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Aldosivi vs Unión (Santa Fe)",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTEucGhw&h=f8779102886662df0e91ca2919625ef9",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotntar",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Argentina: Aldosivi vs Unión (Santa Fe)",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTIucGhw&h=bcace71104c8679d3e971e4b958b597c",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntar",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Aldosivi vs Unión (Santa Fe)",
+      "event_time": "12:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTMucGhw&h=a6c78bc6414a3ff91a1a003b1c827ba7",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz2",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Qadsiah vs Al Ittihad",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czUucGhw&h=3e68bb207791b29251f0049db0ab3605",
+      "player_url": "https://playvi.org/deportesplus5.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Qadsiah vs Al Ittihad",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMS5waHA&h=c55ec6710f957f5c6ab66c77470229f6",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus5",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Qadsiah vs Al Ittihad",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpMi5waHA&h=00ec167327a9690cb22fe838830d79c7",
+      "player_url": "https://streamx488.sbs/global3.php?channel=foxdeportes",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Saudí Pro League: Al Qadsiah vs Al Ittihad",
+      "event_time": "13:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3NhdWRpNC5waHA&h=4ccaa10ff02b4ec7e63db338172bf5b8",
+      "player_url": "https://streamxhd.com/live2.php?stream=foxone",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Albion FC vs Boston River",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXkxLnBocA&h=8b9e40a286f93aa897ccc08cabe5d524",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney6",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Uruguay: Albion FC vs Boston River",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXkyLnBocA&h=ad31618e893e715fe8dbbbd42c3570bb",
+      "player_url": "https://embedme.click/player/capo2/109",
+      "player_domain": "embedme.click"
+    },
+    {
+      "event_title": "Liga de Uruguay: Albion FC vs Boston River",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXkzLnBocA&h=7dd2eceb79c5a8e9c34e62312894a1d0",
+      "player_url": "https://streamxhd.com/live2.php?stream=disney14",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Super Lig de Turquía: Erzurum BB vs Galatasaray",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1cGVybGlnMS5waHA&h=2cc5ba3053bf71c8ff3d721286745f3e",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney3",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Super Lig de Turquía: Erzurum BB vs Galatasaray",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1cGVybGlnMi5waHA&h=0226d6298e1ed386b132abc62b484c59",
+      "player_url": "https://streamxhd.com/live2.php?stream=fanatiz2",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Ligue 1: Olympique Marseille vs Strasbourg",
+      "event_time": "13:45:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://playvi.org/deportesplus3.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Ligue 1: Olympique Marseille vs Strasbourg",
+      "event_time": "13:45:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ3VlMTEucGhw&h=6ab2d9c972ed5854229a59006db2cdfe",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoespn2",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Ligue 1: Olympique Marseille vs Strasbourg",
+      "event_time": "13:45:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ3VlMTIucGhw&h=c0d8c9f39a41bdc85fd4b17cd171ac7b",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn2",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Ligue 1: Olympique Marseille vs Strasbourg",
+      "event_time": "13:45:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ3VlMTMucGhw&h=343c8b3ffbfb903fcb6e5950aeab3731",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney4",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Real Sociedad",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Real Sociedad",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTEucGhw&h=a2c30688ff0b0cb24b9492a5f7ee4278",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus6",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Real Sociedad",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIucGhw&h=4400d528e74db1a82fb0474a7e4cdc96",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/cza_dsports.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Real Sociedad",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTMucGhw&h=dd4033493d8bd3bbaf0eaf0f504253c0",
+      "player_url": "https://streamx488.sbs/global3.php?channel=dsports",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "LaLiga: Real Betis vs Real Sociedad",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTQucGhw&h=e2e90efea27f97eeec3158c0574abdd2",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=espndeportes",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Coventry City",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Coventry City",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIxLnBocA&h=7eae490c43e89228e76e89b9e604fcc1",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus7",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Coventry City",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIyLnBocA&h=0f0b66dc78b91433053ed5c6f347c0a3",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espn",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Coventry City",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXIzLnBocA&h=e7c84ae865cfc483b9c7bd05d932017f",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney5",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Premier League: Arsenal vs Coventry City",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3ByZW1pZXI0LnBocA&h=fae3a89b084661f358ef292fd7edc344",
+      "player_url": "https://streamxhd.com/live2.php?stream=universo",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "LaLiga 2: Córdoba vs Girona",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2h5cGVybW90aW9uMS5waHA&h=132554d7b5de7c2b53aed246fa9edbbf",
+      "player_url": "https://playvi.org/hypermotion1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "LaLiga 2: Córdoba vs Girona",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIxLnBocA&h=9dd487d9ba3d2eb9190d26116b4b1415",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capohypermotion1",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "LaLiga 2: Córdoba vs Girona",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIyLnBocA&h=806f526ef61173cfccf66627f3c2f42a",
+      "player_url": "https://streamx488.sbs/global3.php?channel=hyper1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "LaLiga 2: Córdoba vs Girona",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xhbGlnYTIzLnBocA&h=ec658798b60f21151dcba98be0a5fcb7",
+      "player_url": "https://streamxhd.com/live2.php?stream=laligahypermotion",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Sporting Cristal",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnU0LnBocA&h=bc23a532e63a5f821e35e3aeee09f9e8",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz4",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMS5waHA&h=602a7fda14d95d4212cefc6c97c6ef25",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMi5waHA&h=352374c5696576f661323a0421902a33",
+      "player_url": "https://streamx488.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMy5waHA&h=295bf050292423302b722aaec8bf82a5",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz5",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Paraguay: Rubio Ñú vs Sportivo Trinidense",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BhcmFndWF5MS5waHA&h=912ea3df52d5f09a1b225ff8ea10501a",
+      "player_url": "https://streamx488.sbs/global3.php?channel=fanatiz6",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Paraguay: Rubio Ñú vs Sportivo Trinidense",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BhcmFndWF5Mi5waHA&h=9f060b03af541dbf0c06d581e04db030",
+      "player_url": "https://streamxhd.com/live2.php?stream=tigo1",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Liverpool Montevideo vs Cerro",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXk0LnBocA&h=019b750289eb3afc5610cbca415693be",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney7",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Uruguay: Liverpool Montevideo vs Cerro",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXk1LnBocA&h=e1b28e466efeb80664855d211778905a",
+      "player_url": "https://streamxhd.com/live2.php?stream=disney15",
+      "player_domain": "streamxhd.com"
+    }
+  ]
+}
