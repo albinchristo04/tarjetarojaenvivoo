@@ -1,0 +1,51 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 5,
+  "events": [
+    {
+      "event_title": "Formula 1: Gran Premio de Países Bajos, Practicas Libres",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2Zvcm11bGExLnBocA&h=379c38cd8ef4be36928ca980416afa33",
+      "player_url": "https://playvi.org/formula1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Países Bajos, Practicas Libres",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxMS5waHA&h=9e7454d072dd220090ef97658c26e77b",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capof1",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Países Bajos, Practicas Libres",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxMi5waHA&h=38491454e2252bc17dc34a86cedb3412",
+      "player_url": "https://streamx488.sbs/global3.php?channel=daznf1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Países Bajos, Practicas Libres",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxMy5waHA&h=497c466dee449d91c04cb0c0ba1d034f",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney1",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Formula 1: Gran Premio de Países Bajos, Practicas Libres",
+      "event_time": "05:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2YxNC5waHA&h=b0d51cf4e32888ddbb61408412bbc020",
+      "player_url": "https://streamxhd.com/live2.php?stream=daznf1",
+      "player_domain": "streamxhd.com"
+    }
+  ]
+}
