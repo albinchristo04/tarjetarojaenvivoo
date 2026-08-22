@@ -1,0 +1,366 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 40,
+  "events": [
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Sporting Cristal",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2ExbWF4LnBocA&h=94da3b5b07d945b4534e07ce8d72570d",
+      "player_url": "https://playvi.org/liga1max.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Sporting Cristal",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUxLnBocA&h=fcadf15109d8c7973c98ee5c4dbeb132",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoliga1max",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Sporting Cristal",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUyLnBocA&h=23f830b354f72cce977d3dcc86e0ad6f",
+      "player_url": "https://streamx488.sbs/global3.php?channel=liga1max",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Peru: Alianza Atlético vs Sporting Cristal",
+      "event_time": "15:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnU0LnBocA&h=bc23a532e63a5f821e35e3aeee09f9e8",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz3",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMS5waHA&h=602a7fda14d95d4212cefc6c97c6ef25",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMi5waHA&h=352374c5696576f661323a0421902a33",
+      "player_url": "https://streamx488.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Jaguares de Córdoba vs Boyacá Chicó FC",
+      "event_time": "16:05:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMy5waHA&h=295bf050292423302b722aaec8bf82a5",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz10",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Paraguay: Rubio Ñú vs Sportivo Trinidense",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BhcmFndWF5MS5waHA&h=912ea3df52d5f09a1b225ff8ea10501a",
+      "player_url": "https://streamx488.sbs/global3.php?channel=fanatiz6",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Paraguay: Rubio Ñú vs Sportivo Trinidense",
+      "event_time": "16:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BhcmFndWF5Mi5waHA&h=9f060b03af541dbf0c06d581e04db030",
+      "player_url": "https://streamxhd.com/live2.php?stream=tigo1",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Uruguay: Liverpool Montevideo vs Cerro",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXk0LnBocA&h=019b750289eb3afc5610cbca415693be",
+      "player_url": "https://streamx488.sbs/global3.php?channel=disney15",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Uruguay: Liverpool Montevideo vs Cerro",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXkyLnBocA&h=ad31618e893e715fe8dbbbd42c3570bb",
+      "player_url": "https://embedme.click/player/capo2/109",
+      "player_domain": "embedme.click"
+    },
+    {
+      "event_title": "Liga de Uruguay: Liverpool Montevideo vs Cerro",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3VydWd1YXk1LnBocA&h=e1b28e466efeb80664855d211778905a",
+      "player_url": "https://streamxhd.com/live2.php?stream=disney21",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Río Cuarto vs San Lorenzo",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VzcG5wcmVtaXVtLnBocA&h=5e0fed6537d9ac34b28a826827a2b230",
+      "player_url": "https://playvi.org/espnpremium.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Río Cuarto vs San Lorenzo",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTQucGhw&h=f2d74890bd66178ff733cdb79981b01f",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz3",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Río Cuarto vs San Lorenzo",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTUucGhw&h=ffeb0fe212afd2a3e9d3c4d5d2cd760d",
+      "player_url": "https://streamx488.sbs/global3.php?channel=espnpremium",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Argentina: Estudiantes de Río Cuarto vs San Lorenzo",
+      "event_time": "18:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2FyZ2VudGluYTYucGhw&h=195a4be8ab6b05c4e3a491bec21aa88a",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz9",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Ecuador: Deportivo Cuenca vs Mushuc Runa",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FkZWNhbXBlb25lczcucGhw&h=a09bf1db184120215d976d4e27927bbd",
+      "player_url": "https://playvi.org/ligadecampeones7.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Deportivo Cuenca vs Mushuc Runa",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdWFkb3IxLnBocA&h=37d630f3619ac29843c09f5f97577046",
+      "player_url": "https://streamxhd.com/live2.php?stream=zapping_ec",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Ecuador: Deportivo Cuenca vs Mushuc Runa",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdWFkb3IyLnBocA&h=02b1c260a1c8ee48f1bacb02c719445c",
+      "player_url": "https://playvi.org/ecuador2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Leones vs Independiente del Valle",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FkZWNhbXBlb25lczgucGhw&h=63f7d8a14b8fc6accb24b0f04d957698",
+      "player_url": "https://playvi.org/ligadecampeones8.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Ecuador: Leones vs Independiente del Valle",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdWFkb3IzLnBocA&h=e257c41d2f885c4437a2d2ebe03d29f5",
+      "player_url": "https://streamxhd.com/live2.php?stream=zapping_ec",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Ecuador: Leones vs Independiente del Valle",
+      "event_time": "19:00:00",
+      "sport": "",
+      "canal_name": "Canal 3",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2VjdWFkb3I0LnBocA&h=4156168a1f6f634a959171c1191f1163",
+      "player_url": "https://playvi.org/ecuador4.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Alianza FC vs Deportivo Pereira",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhNC5waHA&h=0947ffef9ff4706178377afacb112758",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz1",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Unión La Calera",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3RudGNoaWxlLnBocA&h=a960fef34d8c2d18c6bd10044a3672f5",
+      "player_url": "https://playvi.org/tntchile.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Unión La Calera",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMS5waHA&h=03b6734575c5fa2591d2dd7a2ddb1692",
+      "player_url": "https://playvi.org/chile1.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Unión La Calera",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMi5waHA&h=ba466f7243d51b16afb444569c446edb",
+      "player_url": "https://streamx488.sbs/global3.php?channel=tntsportscl",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga de Chile: Audax Italiano vs Unión La Calera",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NoaWxlMy5waHA&h=45fd0a32de5963965f0c873753ffdabc",
+      "player_url": "https://la18hd.su/vivo/canales.php?stream=tntsportschile",
+      "player_domain": "la18hd.su"
+    },
+    {
+      "event_title": "Liga MX: Tigres UANL vs Atlante",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: Tigres UANL vs Atlante",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEucGhw&h=97cfa2303fe9c15c86123d852233b810",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus6",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Tigres UANL vs Atlante",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDIucGhw&h=97f33409ab69e38ea6b46bd3470cd6f4",
+      "player_url": "https://streamx488.sbs/global3.php?channel=universo",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga MX: Tigres UANL vs Atlante",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDMucGhw&h=3b0a680d80cb9bd539a816aa92373114",
+      "player_url": "https://streamxhd.com/live2.php?stream=amazon2",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga MX: Tigres UANL vs Atlante",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDQucGhw&h=953d6c9f94fa9c0ece7df98b6ebfc283",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=universo_usa",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga MX: León vs Monterrey Rayados",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://playvi.org/deportesplus2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: León vs Monterrey Rayados",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDUucGhw&h=60abb8a680445b4bceed15a696d2622e",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus7",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: León vs Monterrey Rayados",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDYucGhw&h=0bc5abd7e950cdfa599926f22ff7933d",
+      "player_url": "https://streamx488.sbs/global3.php?channel=azteca7",
+      "player_domain": "streamx488.sbs"
+    },
+    {
+      "event_title": "Liga MX: León vs Monterrey Rayados",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDcucGhw&h=514299bce8aa8133532955e77afd1b86",
+      "player_url": "https://streamtp-golden1.click/global1.php?stream=espnmx",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga MX: León vs Monterrey Rayados",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDgucGhw&h=008ed00838052a3f4e385c94e01100de",
+      "player_url": "https://streamxhd.com/live2.php?stream=disney3",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga MX: FC Juárez vs América",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDkucGhw&h=454835b5dfc93c81311f82d721b7ce17",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus8",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Querétaro vs Toluca",
+      "event_time": "22:10:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEwLnBocA&h=bda5aa318647eb2fd6fd35fd696c5a28",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html",
+      "player_domain": "sudamericaplay.sbs"
+    }
+  ]
+}
