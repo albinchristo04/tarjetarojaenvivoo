@@ -1,0 +1,96 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 10,
+  "events": [
+    {
+      "event_title": "Liga de Colombia: Independiente Santa Fe vs Millonarios",
+      "event_time": "20:25:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Independiente Santa Fe vs Millonarios",
+      "event_time": "20:25:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMS5waHA&h=602a7fda14d95d4212cefc6c97c6ef25",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Independiente Santa Fe vs Millonarios",
+      "event_time": "20:25:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMi5waHA&h=352374c5696576f661323a0421902a33",
+      "player_url": "https://streamx061.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Independiente Santa Fe vs Millonarios",
+      "event_time": "20:25:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMy5waHA&h=295bf050292423302b722aaec8bf82a5",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz3",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Liga de Colombia: Independiente Santa Fe vs Millonarios",
+      "event_time": "20:25:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhNC5waHA&h=0947ffef9ff4706178377afacb112758",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fanatiz9",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Leagues Cup: America vs Monterrey Rayados",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Leagues Cup: America vs Monterrey Rayados",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDUucGhw&h=60abb8a680445b4bceed15a696d2622e",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotudn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Leagues Cup: America vs Monterrey Rayados",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDYucGhw&h=0bc5abd7e950cdfa599926f22ff7933d",
+      "player_url": "https://streamx061.sbs/global3.php?channel=tudnus",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: America vs Monterrey Rayados",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDcucGhw&h=514299bce8aa8133532955e77afd1b86",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=mls2es",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Leagues Cup: America vs Monterrey Rayados",
+      "event_time": "22:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDgucGhw&h=008ed00838052a3f4e385c94e01100de",
+      "player_url": "https://streamxhd.com/live2.php?stream=tudn_usa",
+      "player_domain": "streamxhd.com"
+    }
+  ]
+}
