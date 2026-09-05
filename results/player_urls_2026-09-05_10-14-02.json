@@ -1,0 +1,51 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 5,
+  "events": [
+    {
+      "event_title": "Liga MX: FC Juárez vs Pachuca",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://playvi.org/deportesplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: FC Juárez vs Pachuca",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEucGhw&h=97cfa2303fe9c15c86123d852233b810",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capouniverso",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: FC Juárez vs Pachuca",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDIucGhw&h=97f33409ab69e38ea6b46bd3470cd6f4",
+      "player_url": "https://playvi.org/ligamx2.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga MX: FC Juárez vs Pachuca",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDMucGhw&h=3b0a680d80cb9bd539a816aa92373114",
+      "player_url": "https://streamx061.sbs/global3.php?channel=azteca7",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Liga MX: FC Juárez vs Pachuca",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDQucGhw&h=953d6c9f94fa9c0ece7df98b6ebfc283",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=fox_deportes_usa",
+      "player_domain": "streamtp-golden1.click"
+    }
+  ]
+}
