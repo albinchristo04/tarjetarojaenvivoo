@@ -1,0 +1,159 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 17,
+  "events": [
+    {
+      "event_title": "Liga de Colombia: Atlético Junior vs Jaguares de Córdoba",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Colombia: Atlético Junior vs Jaguares de Córdoba",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhNC5waHA&h=0947ffef9ff4706178377afacb112758",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Colombia: Atlético Junior vs Jaguares de Córdoba",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhNS5waHA&h=10e2bcd960f62c5649ad3fc080925260",
+      "player_url": "https://streamx061.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Liga de Colombia: Atlético Junior vs Jaguares de Córdoba",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhNi5waHA&h=923f10270b819ccf95f29d446329af54",
+      "player_url": "https://streamxhd.com/live2.php?stream=fanatiz18",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga de Peru: Universitario vs Comerciantes Unidos",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2ExbWF4LnBocA&h=94da3b5b07d945b4534e07ce8d72570d",
+      "player_url": "https://playvi.org/liga1max.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Liga de Peru: Universitario vs Comerciantes Unidos",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUxLnBocA&h=fcadf15109d8c7973c98ee5c4dbeb132",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capoliga1max",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga de Peru: Universitario vs Comerciantes Unidos",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnUyLnBocA&h=23f830b354f72cce977d3dcc86e0ad6f",
+      "player_url": "https://streamx061.sbs/global3.php?channel=liga1max",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Liga de Peru: Universitario vs Comerciantes Unidos",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3BlcnU1LnBocA&h=b2425b8a6c9bbbf1d838047bc2708b63",
+      "player_url": "https://streamxhd.com/live2.php?stream=l1max",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs New England Revolution",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEyLnBocA&h=fd6866a331ef039bee229d182ce1294c",
+      "player_url": "https://streamx061.sbs/global3.php?channel=mls12",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs New England Revolution",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEzLnBocA&h=bbbec6040e974128e68b8626b1c7a472",
+      "player_url": "https://streamxhd.com/live2.php?stream=appletv13",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "MLS: Real Salt Lake vs Los Ángeles FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE0LnBocA&h=9c89505c50a624d90e0228804a2585ba",
+      "player_url": "https://streamx061.sbs/global3.php?channel=mls11",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "MLS: Real Salt Lake vs Los Ángeles FC",
+      "event_time": "20:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE1LnBocA&h=e5b5b4ddedd55cd05f6a77cad319f88f",
+      "player_url": "https://streamxhd.com/live2.php?stream=appletv12",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Atlante",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/https://rojadirectauno.com/en-vivo/atlas-vs-atlante-liga-mx-j7.php",
+      "player_url": "https://tarjetaroja.com.co/es/live-match1/https://rojadirectauno.com/en-vivo/atlas-vs-atlante-liga-mx-j7.php",
+      "player_domain": "tarjetaroja.com.co"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Atlante",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDkucGhw&h=454835b5dfc93c81311f82d721b7ce17",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capotudn",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Atlante",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEwLnBocA&h=bda5aa318647eb2fd6fd35fd696c5a28",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Atlante",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDExLnBocA&h=19ed7c818f5d07de861e2c288127b3e4",
+      "player_url": "https://streamx061.sbs/global3.php?channel=tudnus",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Liga MX: Atlas vs Atlante",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEyLnBocA&h=4907d4c522d927bac60735f945c8ee78",
+      "player_url": "https://streamxhd.com/live2.php?stream=tudnmx",
+      "player_domain": "streamxhd.com"
+    }
+  ]
+}
