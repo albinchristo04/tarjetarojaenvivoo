@@ -1,0 +1,51 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 5,
+  "events": [
+    {
+      "event_title": "Leagues Cup: Toluca vs Monterrey Rayados",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/https://rojadirectauno.com/en-vivo/toluca-vs-monterrey-leagues-cup-final.php",
+      "player_url": "https://tarjetaroja.com.co/es/live-match1/https://rojadirectauno.com/en-vivo/toluca-vs-monterrey-leagues-cup-final.php",
+      "player_domain": "tarjetaroja.com.co"
+    },
+    {
+      "event_title": "Leagues Cup: Toluca vs Monterrey Rayados",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDkucGhw&h=454835b5dfc93c81311f82d721b7ce17",
+      "player_url": "https://playvi.org/ligamx9.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Leagues Cup: Toluca vs Monterrey Rayados",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEwLnBocA&h=bda5aa318647eb2fd6fd35fd696c5a28",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Toluca vs Monterrey Rayados",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDExLnBocA&h=19ed7c818f5d07de861e2c288127b3e4",
+      "player_url": "https://streamx061.sbs/global3.php?channel=tudnus",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Leagues Cup: Toluca vs Monterrey Rayados",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEyLnBocA&h=4907d4c522d927bac60735f945c8ee78",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=mls2es",
+      "player_domain": "streamtp-golden1.click"
+    }
+  ]
+}
