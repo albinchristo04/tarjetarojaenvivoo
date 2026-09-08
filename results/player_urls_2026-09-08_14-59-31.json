@@ -1,0 +1,42 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 4,
+  "events": [
+    {
+      "event_title": "Copa Colombia: Atlético Nacional vs Deportivo Cali",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3dpbnNwb3J0c3BsdXMucGhw&h=da34756dde41602e4faf482e176f6fe3",
+      "player_url": "https://playvi.org/winsportsplus.php",
+      "player_domain": "playvi.org"
+    },
+    {
+      "event_title": "Copa Colombia: Atlético Nacional vs Deportivo Cali",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMS5waHA&h=602a7fda14d95d4212cefc6c97c6ef25",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=capowinplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Copa Colombia: Atlético Nacional vs Deportivo Cali",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMi5waHA&h=352374c5696576f661323a0421902a33",
+      "player_url": "https://streamx061.sbs/global3.php?channel=winplus",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Copa Colombia: Atlético Nacional vs Deportivo Cali",
+      "event_time": "20:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2NvbG9tYmlhMy5waHA&h=295bf050292423302b722aaec8bf82a5",
+      "player_url": "https://streamxhd.com/live2.php?stream=fanatiz5",
+      "player_domain": "streamxhd.com"
+    }
+  ]
+}
