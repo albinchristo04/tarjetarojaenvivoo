@@ -1,0 +1,60 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 6,
+  "events": [
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/https://rojadirectauno.com/en-vivo/boca-juniors-vs-sao-paulo-copa-sudamericana-4tos-final-ida.php",
+      "player_url": "https://tarjetaroja.com.co/es/live-match1/https://rojadirectauno.com/en-vivo/boca-juniors-vs-sao-paulo-copa-sudamericana-4tos-final-ida.php",
+      "player_domain": "tarjetaroja.com.co"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTUucGhw&h=99df07e1cfc2ebdc94d61e69e284fef2",
+      "player_url": "https://live4.lat/player/capo2/87",
+      "player_domain": "live4.lat"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTYucGhw&h=b81cb1ccb50c7e98d2dee391bcbb36df",
+      "player_url": "https://streamx061.sbs/global3.php?channel=espn",
+      "player_domain": "streamx061.sbs"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTcucGhw&h=c81b30dd3c66d22d2c547a7056007c28",
+      "player_url": "https://streamtp-golden1.click/global2.php?stream=disney14",
+      "player_domain": "streamtp-golden1.click"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTgucGhw&h=3b21e7103fd275296650e971645763fe",
+      "player_url": "https://streamxhd.click/channel/?id=espn",
+      "player_domain": "streamxhd.click"
+    },
+    {
+      "event_title": "Copa Sudamericana: Boca Juniors vs Sao Paulo",
+      "event_time": "19:30:00",
+      "sport": "",
+      "canal_name": "Canal 6 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL3N1ZGFtZXJpY2FuYTExLnBocA&h=c774d4a0c4bdedc3c6937d52c894ed4f",
+      "player_url": "https://streamx061.sbs/global3.php?channel=mligacampeones",
+      "player_domain": "streamx061.sbs"
+    }
+  ]
+}
