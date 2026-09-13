@@ -1,0 +1,87 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 9,
+  "events": [
+    {
+      "event_title": "MLS: LA Galaxy vs Seattle Sounders",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEyLnBocA&h=fd6866a331ef039bee229d182ce1294c",
+      "player_url": "https://streamx305.sbs/global3.php?channel=mls6",
+      "player_domain": "streamx305.sbs"
+    },
+    {
+      "event_title": "MLS: LA Galaxy vs Seattle Sounders",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczEzLnBocA&h=bbbec6040e974128e68b8626b1c7a472",
+      "player_url": "https://streamxhd.com/live1.php?stream=appletv12",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "MLS: San Jose Earthquakes vs Houston Dynamo",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE0LnBocA&h=9c89505c50a624d90e0228804a2585ba",
+      "player_url": "https://streamx305.sbs/global3.php?channel=mls7",
+      "player_domain": "streamx305.sbs"
+    },
+    {
+      "event_title": "MLS: San Jose Earthquakes vs Houston Dynamo",
+      "event_time": "21:30:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL21sczE1LnBocA&h=e5b5b4ddedd55cd05f6a77cad319f88f",
+      "player_url": "https://streamxhd.com/live1.php?stream=appletv13",
+      "player_domain": "streamxhd.com"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs América",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://xplayer.st/capo.php?player=desktop&live=deportesplus",
+      "player_domain": "xplayer.st"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs América",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 2",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDkucGhw&h=454835b5dfc93c81311f82d721b7ce17",
+      "player_url": "https://live4.lat/player/capo2/68",
+      "player_domain": "live4.lat"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs América",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 3 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEwLnBocA&h=bda5aa318647eb2fd6fd35fd696c5a28",
+      "player_url": "https://sudamericaplay.sbs/canal_8112/tudnmx12.html",
+      "player_domain": "sudamericaplay.sbs"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs América",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 4 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDExLnBocA&h=19ed7c818f5d07de861e2c288127b3e4",
+      "player_url": "https://streamx305.sbs/global3.php?channel=tudnus",
+      "player_domain": "streamx305.sbs"
+    },
+    {
+      "event_title": "Liga MX: Cruz Azul vs América",
+      "event_time": "22:15:00",
+      "sport": "",
+      "canal_name": "Canal 5 (HD)",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2xpZ2FteDEyLnBocA&h=4907d4c522d927bac60735f945c8ee78",
+      "player_url": "https://streamtp-golden1.click/global1.php?stream=tudnmx",
+      "player_domain": "streamtp-golden1.click"
+    }
+  ]
+}
