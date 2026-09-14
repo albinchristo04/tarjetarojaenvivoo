@@ -1,0 +1,15 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 1,
+  "events": [
+    {
+      "event_title": "AFC Champions League: Al Shamal vs Al Ittihad",
+      "event_time": "11:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9zdHJlYW14MzA1LnNicy9nbG9iYWwzLnBocD9jaGFubmVsPWVzcG4&h=a084ec76911ad0fe268a56757d409ff7",
+      "player_url": "https://streamx305.sbs/global3.php?channel=espn",
+      "player_domain": "streamx305.sbs"
+    }
+  ]
+}
