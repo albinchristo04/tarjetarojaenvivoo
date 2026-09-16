@@ -1,0 +1,15 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 1,
+  "events": [
+    {
+      "event_title": "Copa Libertadores: Platense vs Fluminense",
+      "event_time": "17:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL29mZmxpbmUucGhw&h=385a74651a72e1ca8bc933ae9173d976",
+      "player_url": "https://playvi.org/offline.php",
+      "player_domain": "playvi.org"
+    }
+  ]
+}
