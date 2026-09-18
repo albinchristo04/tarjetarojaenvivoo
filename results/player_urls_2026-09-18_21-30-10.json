@@ -1,0 +1,69 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 7,
+  "events": [
+    {
+      "event_title": "LaLiga 2: Albacete vs Córdoba",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9zdHJlYW14MzA1LnNicy9nbG9iYWwzLnBocD9jaGFubmVsPWVzcG4&h=a084ec76911ad0fe268a56757d409ff7",
+      "player_url": "https://streamx305.sbs/global3.php?channel=espn",
+      "player_domain": "streamx305.sbs"
+    },
+    {
+      "event_title": "Bundesliga: Bayern Munich vs Unión Berlín",
+      "event_time": "13:30:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://lunchup.net/e/oowkgybhtxklk",
+      "player_domain": "lunchup.net"
+    },
+    {
+      "event_title": "Serie A: Monza vs Sassuolo",
+      "event_time": "13:45:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czUucGhw&h=3e68bb207791b29251f0049db0ab3605",
+      "player_url": "https://live4.lat/player/capo2/89",
+      "player_domain": "live4.lat"
+    },
+    {
+      "event_title": "Ligue 1: AS Monaco vs Lens",
+      "event_time": "13:45:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czcucGhw&h=a7737d07fb5c26b62dfc152d8c42ea12",
+      "player_url": "https://live4.lat/player/capo2/90",
+      "player_domain": "live4.lat"
+    },
+    {
+      "event_title": "LaLiga: Espanyol vs Elche",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czMucGhw&h=def2f7a520a68c588df2cf9dad1ab14b",
+      "player_url": "https://live4.lat/player/capo2/94",
+      "player_domain": "live4.lat"
+    },
+    {
+      "event_title": "Premier League: Brentford vs Chelsea",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://lunchup.net/e/ttxbc1filzx1",
+      "player_domain": "lunchup.net"
+    },
+    {
+      "event_title": "Championship: Bristol City vs Watford",
+      "event_time": "14:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czgucGhw&h=83bf33b3533f1fd11daa7555c116d4b3",
+      "player_url": "https://live4.lat/player/capo2/98",
+      "player_domain": "live4.lat"
+    }
+  ]
+}
