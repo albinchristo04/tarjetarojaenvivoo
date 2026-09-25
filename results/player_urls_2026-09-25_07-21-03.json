@@ -1,0 +1,33 @@
+{
+  "source_url": "https://tarjetaroja.com.co",
+  "total_events": 3,
+  "events": [
+    {
+      "event_title": "Liga de Colombia: Águilas Doradas vs Deportivo Pereira",
+      "event_time": "16:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9zdHJlYW14MzA1LnNicy9nbG9iYWwzLnBocD9jaGFubmVsPWVzcG4&h=a084ec76911ad0fe268a56757d409ff7",
+      "player_url": "https://streamx305.sbs/global3.php?channel=espn",
+      "player_domain": "streamx305.sbs"
+    },
+    {
+      "event_title": "Liga MX: Puebla vs Atlante",
+      "event_time": "20:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1cy5waHA&h=95e98baaad13c724902c2f1df00b9474",
+      "player_url": "https://in-streams.click/capo.php?stream=CA1",
+      "player_domain": "in-streams.click"
+    },
+    {
+      "event_title": "Liga MX: FC Juárez vs Tigres UANL",
+      "event_time": "22:00:00",
+      "sport": "",
+      "canal_name": "Canal 1",
+      "canal_url": "https://tarjetaroja.com.co/es/live-match1/?r=aHR0cHM6Ly9wbGF5dmkub3JnL2RlcG9ydGVzcGx1czIucGhw&h=f493b0b5c486ebfd119588b0cda71be7",
+      "player_url": "https://in-streams.click/capo.php?stream=CA2",
+      "player_domain": "in-streams.click"
+    }
+  ]
+}
